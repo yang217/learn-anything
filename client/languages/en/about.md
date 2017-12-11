@@ -63,8 +63,9 @@ to keep this project going. We also have some awesome rewards that come with you
 </div>
 <div class="md-separator"></div>
 
-# Contributors
-- Matt C
+# Thank you to our Patrons
+- [Matt C](https://www.patreon.com/user/creators?u=6460188)
+- [Liam Closs](http://liamcloss.com/)
 - [You?](https://www.patreon.com/learnanything)
 
 <div class="md-separator"></div>
