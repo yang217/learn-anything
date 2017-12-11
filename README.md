@@ -40,7 +40,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://avatars1.githubusercontent.com/u/13448636?v=3&s=400">
+        <img width="150" height="150" src="https://github.com/nglgzz.png?size=400">
         <br>
         <a href="https://github.com/nglgzz"> Angelo Gazzola </a>
         <p>Lead Web Developer</p>
@@ -48,7 +48,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
         <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>.</p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://pbs.twimg.com/profile_images/712426493868056576/hRaMUdgf.jpg">
+        <img width="150" height="150" src="https://github.com/nikitavoloboev.png?size=400">
         <br>
         <a href="https://github.com/nikitavoloboev">Nikita Voloboev</a>
         <p>Oversees curation of maps</p>
