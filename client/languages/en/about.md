@@ -23,7 +23,7 @@ Anyone who wishes to contribute to it, can help by either improving the content 
 # Keep the project going
 This project is built by the community, for the community and in our goals to
 make the most efficient paths and the best user experience possible in exploring the
-mind maps and finding the resources you need, we can only rely on donations made
+maps and finding the resources you need, we can only rely on donations made
 by our users to sustain this project.
 
 There are **no advertisements** and **no sponsored content** as that would be against
@@ -43,7 +43,7 @@ to keep this project going. We also have some awesome rewards that come with you
       <td>
         <div>
           <a href="https://github.com/nikitavoloboev"><b>Nikita Voloboev</b></a>
-          <p>Oversees curation of mind maps</p>
+          <p>Oversees curation of maps</p>
           <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be</p>
         </div>
       </td>

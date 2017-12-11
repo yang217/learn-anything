@@ -60,7 +60,7 @@ app.get('*', (req, res) => {
     res.send(render({
       googleTrackingID,
       title: 'Learn Anything',
-      description: 'Search Interactive Mind Maps to learn anything',
+      description: 'Search Interactive Maps to learn anything',
       url: `${req.protocol}://${req.headers.host}${req.path}`,
       // image: `${req.protocol}://${req.headers.host}/thumbs/learn-anything`,
       language: 'en',
@@ -78,7 +78,7 @@ app.get('*', (req, res) => {
   res.send(render({
     googleTrackingID,
     title: 'Learn Anything',
-    description: 'Search Interactive Mind Maps to learn anything',
+    description: 'Search Interactive Maps to learn anything',
     url: `${req.protocol}://${req.headers.host}${req.path}`,
     // image: `${req.protocol}://${req.headers.host}/thumbs/learn-anything`,
     language: 'en',
