@@ -1,5 +1,6 @@
 const Memcached = require('memcached');
-const memcached = new Memcached([`${process.env.HOST_IP}:11211`]);
+const memcachedHost = "mem"
+const memcached = new Memcached([memcachedHost+':11211']);
 const crypto = require('crypto');
 const { logger } = require('./errors');
 
