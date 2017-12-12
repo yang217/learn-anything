@@ -12,14 +12,14 @@ router.get('/', (req, res) => {
   const q = req.query.q;
 
   const key = cacheKeys.maps.search + (q && q.replace(/\s/g, '-'));
-  cache(key, Maps.fuzzySearch(q), 20)
+  cache(key, Maps.fuzzySearch(q), 5)
     .then(data => res.send(data))
     .catch(err => logger(err, res));
 });
 
 // Get map by ID.
 router.get('/:id(\\d+)', (req, res) => {
-  cache(cacheKeys.maps.byID + req.params.id, Maps.byID(req.params.id), 300)
+  cache(cacheKeys.maps.byID + req.params.id, Maps.byID(req.params.id), 0)
     .then(data => res.send(data))
     .catch(err => logger(err, res));
 });
