@@ -2,7 +2,7 @@
 # About Learn Anything
 Learn Anything is the platform for knowledge discovery that helps you understand any
 topic through the **most efficient paths**, as voted by the community. Each topic
-has a mind map with nodes to other subtopics, external links and resources.
+has an Interactive Map with nodes to other subtopics, external links and resources.
 
 <div class="btn-container">
   <a href="https://www.youtube.com/watch?v=_zYjS2Uicso" class="dialog-btn">Watch our Video</a>
@@ -44,7 +44,7 @@ to keep this project going. We also have some awesome rewards that come with you
         <div>
           <a href="https://github.com/nikitavoloboev"><b>Nikita Voloboev</b></a>
           <p>Oversees curation of mind maps</p>
-          <p>Curated the entire index of all the mind maps up until this point + helps with making search the best it can be</p>
+          <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be</p>
         </div>
       </td>
     </tr>
@@ -63,10 +63,10 @@ to keep this project going. We also have some awesome rewards that come with you
 </div>
 <div class="md-separator"></div>
 
-# Contributors
-- Thibaut LaBarre
-- Damien Le Thiec
-- You?
+# Thank you to our Patrons
+- [Matt C](https://www.patreon.com/user/creators?u=6460188)
+- [Liam Closs](http://liamcloss.com/)
+- [You?](https://www.patreon.com/learnanything)
 
 <div class="md-separator"></div>
 
