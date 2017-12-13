@@ -1,5 +1,5 @@
-
 # About Learn Anything
+
 Learn Anything is the platform for knowledge discovery that helps you understand any
 topic through the **most efficient paths**, as voted by the community. Each topic
 has an Interactive Map with nodes to other subtopics, external links and resources.
@@ -17,10 +17,11 @@ This project is [Open Source and is in active development](https://github.com/le
 Anyone who wishes to contribute to it, can help by either improving the content of all the topics and adding links with resources or by helping with the development and contributing to new features of the website or you can just join our growing community on [Slack](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 <a href="https://github.com/learn-anything/maps/wiki/Contributing" class="dialog-btn">Learn more about Contributing</a>
+
 <div class="md-separator"></div>
 
-
 # Keep the project going
+
 This project is built by the community, for the community and in our goals to
 make the most efficient paths and the best user experience possible in exploring the
 maps and finding the resources you need, we can only rely on donations made
@@ -32,17 +33,19 @@ our vision of making the best and most optimal learning tracks for learning any 
 We created a **[Patreon page](https://www.patreon.com/learnanything)** where you can
 support our work. Any donation that you make to this project is incredibly valuable
 to keep this project going. We also have some awesome rewards that come with your support.
+
 <div class="md-separator"></div>
 
 # Current Team
+
 <div class="table-container">
 <table>
   <tbody>
     <tr>
-      <td><img class="team-img" src="https://pbs.twimg.com/profile_images/712426493868056576/hRaMUdgf.jpg"></td>
+      <td><img class="team-img" src="https://avatars3.githubusercontent.com/u/6391776?s=400&u=6679e2c7ed7032a412ddd559e0b273ea3088e1d1&v=4"></td>
       <td>
         <div>
-          <a href="https://github.com/nikitavoloboev"><b>Nikita Voloboev</b></a>
+          <a href="https://nikitavoloboev.xyz"><b>Nikita Voloboev</b></a>
           <p>Oversees curation of maps</p>
           <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be</p>
         </div>
@@ -64,9 +67,10 @@ to keep this project going. We also have some awesome rewards that come with you
 <div class="md-separator"></div>
 
 # Thank you to our Patrons
-- [Matt C](https://www.patreon.com/user/creators?u=6460188)
-- [Liam Closs](http://liamcloss.com/)
-- [You?](https://www.patreon.com/learnanything)
+
+* [Matt C](https://www.patreon.com/user/creators?u=6460188)
+* [Liam Closs](http://liamcloss.com/)
+* [You?](https://www.patreon.com/learnanything)
 
 <div class="md-separator"></div>
 
