@@ -50,7 +50,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/nikitavoloboev.png?size=400">
         <br>
-        <a href="https://github.com/nikitavoloboev">Nikita Voloboev</a>
+        <a href="https://nikitavoloboev.xyz">Nikita Voloboev</a>
         <p>Oversees curation of maps</p>
         <br>
         <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be.</p>
@@ -59,8 +59,8 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
   </tbody>
 </table>
 
-## Thank you 💜
-- To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
+## Thank you 💖
+To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
 
 ## License
 MIT © [Learn Anything](https://learn-anything.xyz/)
