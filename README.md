@@ -59,7 +59,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
   </tbody>
 </table>
 
-## Thank you 💖
+## Thank you 💜
 To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
 
 ## License
