@@ -27,7 +27,7 @@ async function vote(userID, resourceID, direction) {
 
   // Resource doesn't exist, or it was deleted.
   if (!resource) {
-    throw new APIError(404, 'resource does not exist');
+    throw new APIError(404, 'resource not found');
   }
 
   // Remove the previous vote if present.

@@ -28,7 +28,7 @@ function logger(err, res) {
 
   // Same as above for errors that are not APIError.
   console.log(`[${err.name}:${err.statusCode}] ${err.message}`);
-  res.send({ msg: err.message });
+  res.send({ error: err.message });
 }
 
 
