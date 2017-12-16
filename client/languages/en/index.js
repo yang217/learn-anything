@@ -36,6 +36,8 @@ module.exports = {
   sidebar_all_topics: 'All topics',
   sidebar_support: 'Support',
   sidebar_about: 'About',
+  sidebar_twitter: 'Twitter',
+  sidebar_patreon: 'Patreon',
   sidebar_github: 'GitHub',
   sidebar_legend: 'Legend',
 

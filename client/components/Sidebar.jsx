@@ -83,6 +83,24 @@ export default class Sidebar extends Component {
 
         <div className="sidebar-item">
           <a
+            href="https://twitter.com/learnanything_"
+            target="_blank"
+          >
+            {__('sidebar_twitter')}
+          </a>
+        </div>
+
+        <div className="sidebar-item">
+          <a
+            href="https://www.patreon.com/learnanything"
+            target="_blank"
+          >
+            {__('sidebar_patreon')}
+          </a>
+        </div>
+
+        <div className="sidebar-item">
+          <a
             href="https://github.com/learn-anything/learn-anything"
             target="_blank"
           >
