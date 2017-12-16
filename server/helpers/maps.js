@@ -38,6 +38,10 @@ async function byID(mapID) {
     Key: { mapID: Number(mapID) },
   });
 
+  if (!Item) {
+    throw new APIError(404, 'map not found');
+  }
+
   const map = {
       ...Item,
       nodes: {},
