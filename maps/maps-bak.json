@@ -50,7 +50,7 @@
 {"mapID":1432,"key":"light","title":"learn anything - physics - electromagnetism - electromagnetic radiation - light"}
 {"mapID":1831,"key":"supernova","title":"learn anything - space science - astronomy - stars - stellar evolution - supernova"}
 {"mapID":888,"key":"laplace transform","title":"learn anything - mathematics - calculus - integral transform - laplace transform"}
-{"mapID":304,"key":"finite-state machines","title":"learn anything - computer science - computation - finite-state machine"}
+{"mapID":304,"key":"finite-state machines","title":"learn anything - computer science - computation - finite state machine"}
 {"mapID":590,"key":"skiing","title":"learn anything - health - fitness - sports - skiing"}
 {"mapID":1314,"key":"windows server","title":"learn anything - operating systems - windows - windows server"}
 {"mapID":1435,"key":"redshift","title":"learn anything - physics - electromagnetism - electromagnetic radiation - redshift"}
@@ -178,7 +178,7 @@
 {"mapID":244,"key":"memory management","title":"learn anything - computer hardware - computer - computer memory - memory management"}
 {"mapID":230,"key":"rendering","title":"learn anything - computer graphics - rendering"}
 {"mapID":1628,"key":"Delphi programming language","title":"learn anything - programming - programming languages - pascal - delphi"}
-{"mapID":476,"key":"e-commerce","title":"learn anything - economics - e-commerce"}
+{"mapID":476,"key":"e-commerce","title":"learn anything - economics - e commerce"}
 {"mapID":1462,"key":"DNA replication","title":"learn anything - physics - matter - atoms - molecules - biomolecules - nucleic acids - dna - dna replication"}
 {"mapID":697,"key":"social skills","title":"learn anything - life - social skills"}
 {"mapID":54,"key":"sonic pi","title":"learn anything - art - music - sonic pi"}
@@ -186,12 +186,12 @@
 {"mapID":343,"key":"gradual typing","title":"learn anything - computer science - programming language theory - type systems - gradual typing"}
 {"mapID":442,"key":"ux design","title":"learn anything - design - user experience"}
 {"mapID":1053,"key":"numbers","title":"learn anything - mathematics - number theory - numbers"}
-{"mapID":287,"key":"just-in-time compilation","title":"learn anything - computer science - compilers - just-in-time compilation"}
+{"mapID":287,"key":"just-in-time compilation","title":"learn anything - computer science - compilers - just in time compilation"}
 {"mapID":1596,"key":"forth programming language","title":"learn anything - programming - programming languages - forth"}
-{"mapID":964,"key":"3-spheres","title":"learn anything - mathematics - geometry - spheres - 3-spheres"}
+{"mapID":964,"key":"3-spheres","title":"learn anything - mathematics - geometry - spheres - 3 spheres"}
 {"mapID":593,"key":"surfing","title":"learn anything - health - fitness - sports - surfing"}
 {"mapID":468,"key":"project management","title":"learn anything - economics - business - project management"}
-{"mapID":1725,"key":"domain-driven design","title":"learn anything - programming - software development - domain-driven design"}
+{"mapID":1725,"key":"domain-driven design","title":"learn anything - programming - software development - domain driven design"}
 {"mapID":1155,"key":"anesthesia","title":"learn anything - medicine - anesthesia"}
 {"mapID":1744,"key":"git version control","title":"learn anything - programming - version control - git"}
 {"mapID":813,"key":"growth hacking","title":"learn anything - marketing - growth hacking"}
@@ -203,7 +203,7 @@
 {"mapID":1897,"key":"jQuery","title":"learn anything - web development - javascript libraries - jquery"}
 {"mapID":1270,"key":"neurogenesis","title":"learn anything - neuroscience - nervous system - neurons - neurogenesis"}
 {"mapID":527,"key":"hardware description languages","title":"learn anything - engineering - electrical engineering - electronics - electronic circuits - hardware description languages"}
-{"mapID":329,"key":"red black trees","title":"learn anything - computer science - data structures - red-black trees"}
+{"mapID":329,"key":"red black trees","title":"learn anything - computer science - data structures - red black trees"}
 {"mapID":345,"key":"type systems","title":"learn anything - computer science - programming language theory - type systems"}
 {"mapID":296,"key":"control flow","title":"learn anything - computer science - computation - computer programs - control flow"}
 {"mapID":1317,"key":"logical atomism","title":"learn anything - philosophy - analytic philosophy - logical atomism"}
@@ -274,7 +274,7 @@
 {"mapID":260,"key":"gene expression programming","title":"learn anything - computer science - algorithms - evolutionary - gene expression programming"}
 {"mapID":1172,"key":"depression","title":"learn anything - medicine - specialties - psychiatry - mental disorders - depression"}
 {"mapID":351,"key":"java virtual machine","title":"learn anything - computer science - virtual machines - jvm"}
-{"mapID":1324,"key":"meta-ethics","title":"learn anything - philosophy - ethics - meta-ethics"}
+{"mapID":1324,"key":"meta-ethics","title":"learn anything - philosophy - ethics - meta ethics"}
 {"mapID":584,"key":"cycling","title":"learn anything - health - fitness - sports - cycling"}
 {"mapID":200,"key":"wireless communication","title":"learn anything - communication - telecommunication - wireless"}
 {"mapID":1705,"key":"amazon web services","title":"learn anything - programming - software development - devops - cloud computing - aws"}
@@ -360,7 +360,7 @@
 {"mapID":1315,"key":"windows","title":"learn anything - operating systems - windows"}
 {"mapID":152,"key":"antibiotics","title":"learn anything - chemistry - drugs - antibiotics"}
 {"mapID":712,"key":"formal grammar","title":"learn anything - linguistics - formal language - formal grammar"}
-{"mapID":932,"key":"Barnes-Hut simulation","title":"learn anything - mathematics - dynamical system - n-body simulation - barnes-hut simulation"}
+{"mapID":932,"key":"Barnes-Hut simulation","title":"learn anything - mathematics - dynamical system - n body simulation - barnes hut simulation"}
 {"mapID":1320,"key":"decision theory","title":"learn anything - philosophy - decision theory"}
 {"mapID":1047,"key":"primality test","title":"learn anything - mathematics - number theory - numbers - prime numbers - primality test"}
 {"mapID":499,"key":"money","title":"learn anything - economics - money"}
@@ -385,7 +385,7 @@
 {"mapID":803,"key":"machine learning","title":"learn anything - machine learning"}
 {"mapID":762,"key":"MXNet","title":"learn anything - machine learning - machine learning libraries - mxnet"}
 {"mapID":1862,"key":"v8 javascript engine","title":"learn anything - web development - browsers - v8"}
-{"mapID":962,"key":"Hopf fibration","title":"learn anything - mathematics - geometry - spheres - 3-spheres - hopf fibration"}
+{"mapID":962,"key":"Hopf fibration","title":"learn anything - mathematics - geometry - spheres - 3 spheres - hopf fibration"}
 {"mapID":1670,"key":"dataflow programming","title":"learn anything - programming - programming paradigms - dataflow programming"}
 {"mapID":953,"key":"Mandelbrot set","title":"learn anything - mathematics - geometry - fractals - mandelbrot set"}
 {"mapID":1712,"key":"cloud computing","title":"learn anything - programming - software development - devops - cloud computing"}
@@ -408,11 +408,11 @@
 {"mapID":1883,"key":"django library","title":"learn anything - web development - full stack - django"}
 {"mapID":1778,"key":"data anonymisation","title":"learn anything - security - information security - sanitisation"}
 {"mapID":10,"key":"calligraphy","title":"learn anything - art - calligraphy"}
-{"mapID":483,"key":"Black-Scholes model","title":"learn anything - economics - finance - financial markets - black-scholes model"}
+{"mapID":483,"key":"Black-Scholes model","title":"learn anything - economics - finance - financial markets - black scholes model"}
 {"mapID":1341,"key":"emergence","title":"learn anything - philosophy - philosophy of mind - metaphysics - emergence"}
 {"mapID":742,"key":"languages","title":"learn anything - linguistics - languages"}
 {"mapID":1718,"key":"openshift origin","title":"learn anything - programming - software development - devops - kubernetes - openshift"}
-{"mapID":211,"key":"super-resolution imaging","title":"learn anything - computer graphics - digital images - image processing - super-resolution imaging"}
+{"mapID":211,"key":"super-resolution imaging","title":"learn anything - computer graphics - digital images - image processing - super resolution imaging"}
 {"mapID":915,"key":"morphisms","title":"learn anything - mathematics - category theory - categories - morphisms"}
 {"mapID":406,"key":"mongoDB","title":"learn anything - databases - nosql databases - mongodb"}
 {"mapID":82,"key":"respiratory system","title":"learn anything - biology - anatomy - human body - respiratory system"}
@@ -424,8 +424,8 @@
 {"mapID":1620,"key":"kotlin programming language","title":"learn anything - programming - programming languages - kotlin"}
 {"mapID":1485,"key":"nanorobotics","title":"learn anything - physics - matter - nanotechnology - molecular nanotechnology - nanorobotics"}
 {"mapID":205,"key":"cinema 4D","title":"learn anything - computer graphics - 3d modelling - cinema 4d"}
-{"mapID":963,"key":"Poincare conjecture","title":"learn anything - mathematics - geometry - spheres - 3-spheres - poincare conjecture"}
-{"mapID":270,"key":"breadth first search","title":"learn anything - computer science - algorithms - search - breadth-first search"}
+{"mapID":963,"key":"Poincare conjecture","title":"learn anything - mathematics - geometry - spheres - 3 spheres - poincare conjecture"}
+{"mapID":270,"key":"breadth first search","title":"learn anything - computer science - algorithms - search - breadth first search"}
 {"mapID":1655,"key":"SQL injections","title":"learn anything - programming - programming languages - sql - sql injections"}
 {"mapID":1502,"key":"refractive index","title":"learn anything - physics - optics - refractive index"}
 {"mapID":1268,"key":"epilepsy","title":"learn anything - neuroscience - nervous system - neurological disorders - epilepsy"}
@@ -479,7 +479,7 @@
 {"mapID":1187,"key":"humans","title":"learn anything - more - humans"}
 {"mapID":1008,"key":"informal logic","title":"learn anything - mathematics - logic - informal logic"}
 {"mapID":1927,"key":"web crawlers","title":"learn anything - web development - web crawlers"}
-{"mapID":710,"key":"pumping lemma for context-free languages","title":"learn anything - linguistics - formal language - formal grammar - context-free grammar - pumping lemma"}
+{"mapID":710,"key":"pumping lemma for context-free languages","title":"learn anything - linguistics - formal language - formal grammar - context free grammar - pumping lemma"}
 {"mapID":1056,"key":"continuous optimisation","title":"learn anything - mathematics - optimisation - continuous optimisation"}
 {"mapID":1741,"key":"software development","title":"learn anything - programming - software development"}
 {"mapID":3,"key":"space architecture","title":"learn anything - architecture - space architecture"}
@@ -490,7 +490,7 @@
 {"mapID":65,"key":"journaling","title":"learn anything - art - writing - journaling"}
 {"mapID":908,"key":"mathematical series","title":"learn anything - mathematics - calculus - series"}
 {"mapID":1727,"key":"open source development","title":"learn anything - programming - software development - open source"}
-{"mapID":420,"key":"AutoCAD","title":"learn anything - design - computer-aided design - autocad"}
+{"mapID":420,"key":"AutoCAD","title":"learn anything - design - computer aided design - autocad"}
 {"mapID":1860,"key":"headless browsers","title":"learn anything - web development - browsers - headless"}
 {"mapID":1849,"key":"thank you","title":"learn anything - thank you"}
 {"mapID":1872,"key":"CSS3","title":"learn anything - web development - front end - css - css3"}
@@ -519,7 +519,7 @@
 {"mapID":620,"key":"ancient history","title":"learn anything - history - ancient history"}
 {"mapID":956,"key":"linear spaces","title":"learn anything - mathematics - geometry - incidence geometry - linear spaces"}
 {"mapID":904,"key":"power series","title":"learn anything - mathematics - calculus - series - power series"}
-{"mapID":1774,"key":"man-in-the-middle attack","title":"learn anything - security - information security - cybersecurity - man-in-the-middle attack"}
+{"mapID":1774,"key":"man-in-the-middle attack","title":"learn anything - security - information security - cybersecurity - man in the middle attack"}
 {"mapID":557,"key":"godot game engine","title":"learn anything - game development - game engines - godot"}
 {"mapID":1239,"key":"network topology","title":"learn anything - network science - network topology"}
 {"mapID":1224,"key":"ssh","title":"learn anything - network science - computer networking - protocols - ssh"}
@@ -540,10 +540,10 @@
 {"mapID":1370,"key":"forces","title":"learn anything - physics - classical mechanics - forces"}
 {"mapID":1850,"key":"a-frame virtual reality framework","title":"learn anything - virtual reality - webvr - aframe"}
 {"mapID":993,"key":"Banach spaces","title":"learn anything - mathematics - linear algebra - vectors - vector space - normed vector space - banach spaces"}
-{"mapID":1088,"key":"one-way analysis of variance","title":"learn anything - mathematics - statistics - probability theory - distributions - f-distribution - one-way analysis of variance"}
+{"mapID":1088,"key":"one-way analysis of variance","title":"learn anything - mathematics - statistics - probability theory - distributions - f-distribution - one way analysis of variance"}
 {"mapID":297,"key":"subroutines","title":"learn anything - computer science - computation - computer programs - subroutines"}
 {"mapID":595,"key":"calisthenics","title":"learn anything - health - fitness - strength training - bodyweight exercises - calisthenics"}
-{"mapID":866,"key":"short-time Fourier transform","title":"learn anything - mathematics - analysis - fourier analysis - fourier transform - short-time fourier transform"}
+{"mapID":866,"key":"short-time Fourier transform","title":"learn anything - mathematics - analysis - fourier analysis - fourier transform - short time fourier transform"}
 {"mapID":1306,"key":"dotfiles","title":"learn anything - operating systems - unix - shells - dotfiles"}
 {"mapID":628,"key":"world history","title":"learn anything - history - world history"}
 {"mapID":1760,"key":"Rorschach test","title":"learn anything - psychology - personality - rorschach test"}
@@ -576,7 +576,7 @@
 {"mapID":773,"key":"backpropagation","title":"learn anything - machine learning - neural networks - backpropagation"}
 {"mapID":488,"key":"technical analysis","title":"learn anything - economics - finance - technical analysis"}
 {"mapID":96,"key":"natural selection","title":"learn anything - biology - evolution - natural selection"}
-{"mapID":388,"key":"k-means clustering","title":"learn anything - data science - data mining - cluster analysis - k-means clustering"}
+{"mapID":388,"key":"k-means clustering","title":"learn anything - data science - data mining - cluster analysis - k means clustering"}
 {"mapID":1609,"key":"spark web framework","title":"learn anything - programming - programming languages - java - java libraries - spark"}
 {"mapID":321,"key":"disjoint sets","title":"learn anything - computer science - data structures - disjoint sets"}
 {"mapID":210,"key":"image kernels","title":"learn anything - computer graphics - digital images - image processing - image kernels"}
@@ -602,7 +602,7 @@
 {"mapID":1194,"key":"research papers","title":"learn anything - more - research papers"}
 {"mapID":385,"key":"time series analysis","title":"learn anything - data science - data analysis - time series analysis"}
 {"mapID":1077,"key":"variational Bayesian methods","title":"learn anything - mathematics - statistics - bayesian statistics - bayesian inference - variational bayesian methods"}
-{"mapID":421,"key":"computer-aided design","title":"learn anything - design - computer-aided design"}
+{"mapID":421,"key":"computer-aided design","title":"learn anything - design - computer aided design"}
 {"mapID":625,"key":"cold war","title":"learn anything - history - world history - cold war"}
 {"mapID":1430,"key":"light fields","title":"learn anything - physics - electromagnetism - electromagnetic radiation - light - light field"}
 {"mapID":221,"key":"openGL","title":"learn anything - computer graphics - opengl"}
@@ -612,7 +612,7 @@
 {"mapID":649,"key":"prefix codes","title":"learn anything - information theory - information - information processing - prefix codes"}
 {"mapID":460,"key":"behavioural economics","title":"learn anything - economics - behavioural economics"}
 {"mapID":1413,"key":"fluid mechanics","title":"learn anything - physics - continuum mechanics - fluids - fluid mechanics"}
-{"mapID":1014,"key":"Curry-Howard correspondence","title":"learn anything - mathematics - logic - proof theory - curry-howard correspondence"}
+{"mapID":1014,"key":"Curry-Howard correspondence","title":"learn anything - mathematics - logic - proof theory - curry howard correspondence"}
 {"mapID":1884,"key":"full stack web development","title":"learn anything - web development - full stack"}
 {"mapID":477,"key":"econometrics","title":"learn anything - economics - econometrics"}
 {"mapID":629,"key":"history","title":"learn anything - history"}
@@ -643,7 +643,7 @@
 {"mapID":151,"key":"penicillin","title":"learn anything - chemistry - drugs - antibiotics - penicillin"}
 {"mapID":1889,"key":"d3.js library","title":"learn anything - web development - javascript libraries - d3js"}
 {"mapID":317,"key":"array data structure","title":"learn anything - computer science - data structures - arrays"}
-{"mapID":274,"key":"Boyer-Moore string search algorithm","title":"learn anything - computer science - algorithms - search - string searching - boyer-moore string search"}
+{"mapID":274,"key":"Boyer-Moore string search algorithm","title":"learn anything - computer science - algorithms - search - string searching - boyer moore string search"}
 {"mapID":417,"key":"time series databases","title":"learn anything - databases - time series databases"}
 {"mapID":760,"key":"caffe library","title":"learn anything - machine learning - machine learning libraries - caffe"}
 {"mapID":268,"key":"A* search algorithm","title":"learn anything - computer science - algorithms - search - a star"}
@@ -666,7 +666,7 @@
 {"mapID":1301,"key":"macOS automation","title":"learn anything - operating systems - unix - macos - automation"}
 {"mapID":1318,"key":"analytic philosophy","title":"learn anything - philosophy - analytic philosophy"}
 {"mapID":1560,"key":"REST api","title":"learn anything - programming - api - rest"}
-{"mapID":1089,"key":"F-distribution","title":"learn anything - mathematics - statistics - probability theory - distributions - f-distribution"}
+{"mapID":1089,"key":"F-distribution","title":"learn anything - mathematics - statistics - probability theory - distributions - f distribution"}
 {"mapID":670,"key":"fascism","title":"learn anything - law - politics - political science - fascism"}
 {"mapID":120,"key":"inflammation","title":"learn anything - biology - organisms - immune system - inflammation"}
 {"mapID":650,"key":"information processing","title":"learn anything - information theory - information - information processing"}
@@ -714,9 +714,9 @@
 {"mapID":1852,"key":"virtual reality","title":"learn anything - virtual reality"}
 {"mapID":1619,"key":"julia programming language","title":"learn anything - programming - programming languages - julia"}
 {"mapID":40,"key":"synthesisers","title":"learn anything - art - music - instruments - synthesiser"}
-{"mapID":657,"key":"Nyqust-Shannon sampling theorem","title":"learn anything - information theory - signals - signal processing - digital signal processing - nyqust-shannon sampling theorem"}
+{"mapID":657,"key":"Nyqust-Shannon sampling theorem","title":"learn anything - information theory - signals - signal processing - digital signal processing - nyqust shannon sampling theorem"}
 {"mapID":1683,"key":"reactive programming","title":"learn anything - programming - programming paradigms - reactive programming"}
-{"mapID":1428,"key":"Unruh effect","title":"learn anything - physics - electromagnetism - electromagnetic radiation - black-body radiation - unruh effect"}
+{"mapID":1428,"key":"Unruh effect","title":"learn anything - physics - electromagnetism - electromagnetic radiation - black body radiation - unruh effect"}
 {"mapID":265,"key":"Prim’s algorithm","title":"learn anything - computer science - algorithms - graph - prim"}
 {"mapID":610,"key":"mindfulness","title":"learn anything - health - mindfulness"}
 {"mapID":14,"key":"creative coding","title":"learn anything - art - creative coding"}
@@ -724,17 +724,17 @@
 {"mapID":291,"key":"compilers","title":"learn anything - computer science - compilers"}
 {"mapID":1079,"key":"bayesian machine learning","title":"learn anything - mathematics - statistics - bayesian statistics - bayesian machine learning"}
 {"mapID":289,"key":"LLVM compiler infrastructure","title":"learn anything - computer science - compilers - llvm"}
-{"mapID":1064,"key":"Banach-Tarski paradox","title":"learn anything - mathematics - set theory - banach-tarski paradox"}
+{"mapID":1064,"key":"Banach-Tarski paradox","title":"learn anything - mathematics - set theory - banach tarski paradox"}
 {"mapID":1108,"key":"probabiliy theory","title":"learn anything - mathematics - statistics - probability theory"}
 {"mapID":1180,"key":"medicine","title":"learn anything - medicine"}
 {"mapID":810,"key":"branding","title":"learn anything - marketing - branding"}
-{"mapID":308,"key":"NP-hardness","title":"learn anything - computer science - computation - theory of computation - computational complexity theory - np-hardness"}
+{"mapID":308,"key":"NP-hardness","title":"learn anything - computer science - computation - theory of computation - computational complexity theory - np hardness"}
 {"mapID":208,"key":"bezier curves","title":"learn anything - computer graphics - bezier curves"}
 {"mapID":991,"key":"dual spaces","title":"learn anything - mathematics - linear algebra - vectors - vector space - dual spaces"}
 {"mapID":203,"key":"autodesk 3ds max","title":"learn anything - computer graphics - 3d modelling - autodesk 3ds max"}
 {"mapID":55,"key":"music","title":"learn anything - art - music"}
 {"mapID":352,"key":"virtual machines","title":"learn anything - computer science - virtual machines"}
-{"mapID":1407,"key":"phonons","title":"learn anything - physics - condensed matter physics - solid-state physics - phonons"}
+{"mapID":1407,"key":"phonons","title":"learn anything - physics - condensed matter physics - solid state physics - phonons"}
 {"mapID":549,"key":"circular economy","title":"learn anything - environmental science - circular economy"}
 {"mapID":855,"key":"polynomials","title":"learn anything - mathematics - algebra - polynomials"}
 {"mapID":1551,"key":"statistical mechanics","title":"learn anything - physics - statistical mechanics"}
@@ -793,7 +793,7 @@
 {"mapID":1414,"key":"magnetohydrodynamics","title":"learn anything - physics - continuum mechanics - fluids - magnetohydrodynamics"}
 {"mapID":1144,"key":"singularity theory","title":"learn anything - mathematics - topology - topological spaces - manifolds - singularity theory"}
 {"mapID":1589,"key":"d programming language","title":"learn anything - programming - programming languages - d"}
-{"mapID":933,"key":"N-body simulation","title":"learn anything - mathematics - dynamical system - n-body simulation"}
+{"mapID":933,"key":"N-body simulation","title":"learn anything - mathematics - dynamical system - n body simulation"}
 {"mapID":108,"key":"microbiology","title":"learn anything - biology - microbiology"}
 {"mapID":957,"key":"incidence geometry","title":"learn anything - mathematics - geometry - incidence geometry"}
 {"mapID":638,"key":"DNA digital data storage","title":"learn anything - information theory - information - data storage - dna"}
@@ -911,7 +911,7 @@
 {"mapID":1517,"key":"quasiparticles","title":"learn anything - physics - particle physics - quasiparticles"}
 {"mapID":1796,"key":"Yeoman generator","title":"learn anything - software - tooling - application generators - yeoman"}
 {"mapID":872,"key":"Monte Carlo integration","title":"learn anything - mathematics - analysis - numerical analysis - numerical integration - monte carlo integration"}
-{"mapID":1546,"key":"wave-particle duality","title":"learn anything - physics - quantum mechanics - wave-particle duality"}
+{"mapID":1546,"key":"wave-particle duality","title":"learn anything - physics - quantum mechanics - wave particle duality"}
 {"mapID":13,"key":"comics","title":"learn anything - art - comics"}
 {"mapID":1433,"key":"microwaves","title":"learn anything - physics - electromagnetism - electromagnetic radiation - microwaves"}
 {"mapID":1591,"key":"phoenix framework","title":"learn anything - programming - programming languages - elixir - phoenix"}
@@ -930,13 +930,13 @@
 {"mapID":190,"key":"information mapping","title":"learn anything - cognitive science - cognition - learning - information mapping"}
 {"mapID":447,"key":"load balancing","title":"learn anything - distributed computing - load balancing"}
 {"mapID":1286,"key":"arch linux","title":"learn anything - operating systems - unix - linux - distributions - arch"}
-{"mapID":375,"key":"zero-knowledge proofs","title":"learn anything - cryptography - zero-knowledge proofs"}
+{"mapID":375,"key":"zero-knowledge proofs","title":"learn anything - cryptography - zero knowledge proofs"}
 {"mapID":1477,"key":"subatomic particles","title":"learn anything - physics - matter - atoms - subatomic particles"}
 {"mapID":1210,"key":"net neutrality","title":"learn anything - network science - computer networking - internet - net neutrality"}
 {"mapID":1878,"key":"html5","title":"learn anything - web development - front end - html - html5"}
 {"mapID":1772,"key":"malware analysis","title":"learn anything - security - information security - cybersecurity - malware - malware analysis"}
 {"mapID":1050,"key":"ratios","title":"learn anything - mathematics - number theory - numbers - ratios"}
-{"mapID":1225,"key":"tcp/ip","title":"learn anything - network science - computer networking - protocols - tcp-ip"}
+{"mapID":1225,"key":"tcp/ip","title":"learn anything - network science - computer networking - protocols - tcp ip"}
 {"mapID":1516,"key":"particle accelerators","title":"learn anything - physics - particle physics - particle accelerators"}
 {"mapID":127,"key":"sex","title":"learn anything - biology - organisms - sex"}
 {"mapID":807,"key":"online advertising","title":"learn anything - marketing - advertising - online advertising"}
@@ -970,13 +970,13 @@
 {"mapID":506,"key":"quantitative trading","title":"learn anything - economics - trading"}
 {"mapID":1257,"key":"lucid dreaming","title":"learn anything - neuroscience - human brain - sleep - lucid dreaming"}
 {"mapID":631,"key":"algorithmic information theory","title":"learn anything - information theory - algorithmic information theory"}
-{"mapID":271,"key":"depth first search","title":"learn anything - computer science - algorithms - search - depth-first search"}
+{"mapID":271,"key":"depth first search","title":"learn anything - computer science - algorithms - search - depth first search"}
 {"mapID":1389,"key":"vibration","title":"learn anything - physics - classical mechanics - vibration"}
 {"mapID":491,"key":"internal rate of return","title":"learn anything - economics - investing - rate of return - internal rate of return"}
 {"mapID":602,"key":"procrastination","title":"learn anything - health - mindfulness - discipline - procrastination"}
 {"mapID":486,"key":"futures contracts","title":"learn anything - economics - finance - forward contracts - futures contracts"}
 {"mapID":1590,"key":"dart programming language","title":"learn anything - programming - programming languages - dart"}
-{"mapID":711,"key":"context-free grammar","title":"learn anything - linguistics - formal language - formal grammar - context-free grammar"}
+{"mapID":711,"key":"context-free grammar","title":"learn anything - linguistics - formal language - formal grammar - context free grammar"}
 {"mapID":626,"key":"terrorism","title":"learn anything - history - world history - wars - terrorism"}
 {"mapID":1492,"key":"state of matter","title":"learn anything - physics - matter - state of matter"}
 {"mapID":312,"key":"petri nets","title":"learn anything - computer science - concurrency - petri nets"}
@@ -1004,7 +1004,7 @@
 {"mapID":80,"key":"digestive system","title":"learn anything - biology - anatomy - human body - digestive system"}
 {"mapID":1867,"key":"document object model","title":"learn anything - web development - dom"}
 {"mapID":149,"key":"catalysis","title":"learn anything - chemistry - chemical reactions - catalysis"}
-{"mapID":708,"key":"part-of-speech tagging","title":"learn anything - linguistics - corpus linguistics - part-of-speech tagging"}
+{"mapID":708,"key":"part-of-speech tagging","title":"learn anything - linguistics - corpus linguistics - part of speech tagging"}
 {"mapID":418,"key":"databases","title":"learn anything - databases"}
 {"mapID":245,"key":"pointers","title":"learn anything - computer hardware - computer - computer memory - pointers"}
 {"mapID":1466,"key":"RNA","title":"learn anything - physics - matter - atoms - molecules - biomolecules - nucleic acids - rna"}
@@ -1027,7 +1027,7 @@
 {"mapID":806,"key":"google adwords","title":"learn anything - marketing - advertising - google adwords"}
 {"mapID":176,"key":"organic chemistry","title":"learn anything - chemistry - organic chemistry"}
 {"mapID":1600,"key":"go interfaces","title":"learn anything - programming - programming languages - go - interfaces"}
-{"mapID":357,"key":"one-shot learning","title":"learn anything - computer vision - one-shot learning"}
+{"mapID":357,"key":"one-shot learning","title":"learn anything - computer vision - one shot learning"}
 {"mapID":1412,"key":"viscous fluids","title":"learn anything - physics - continuum mechanics - fluids - fluid mechanics - viscous fluids"}
 {"mapID":1843,"key":"astronomy","title":"learn anything - space science - astronomy"}
 {"mapID":143,"key":"atomic number","title":"learn anything - chemistry - chemical elements - atomic number"}
@@ -1054,7 +1054,7 @@
 {"mapID":45,"key":"jazz","title":"learn anything - art - music - music genres - jazz"}
 {"mapID":897,"key":"multivariable calculus","title":"learn anything - mathematics - calculus - multivariable calculus"}
 {"mapID":546,"key":"startups","title":"learn anything - entrepreneurship - startups"}
-{"mapID":1005,"key":"higher-order logic","title":"learn anything - mathematics - logic - first-order logic - higher-order logic"}
+{"mapID":1005,"key":"higher-order logic","title":"learn anything - mathematics - logic - first order logic - higher order logic"}
 {"mapID":354,"key":"mixed reality","title":"learn anything - computer vision - augmented reality - mixed reality"}
 {"mapID":902,"key":"geometric series","title":"learn anything - mathematics - calculus - series - geometric series"}
 {"mapID":41,"key":"ukulele","title":"learn anything - art - music - instruments - ukulele"}
@@ -1086,7 +1086,7 @@
 {"mapID":580,"key":"geography","title":"learn anything - geography"}
 {"mapID":709,"key":"corpus linguistics","title":"learn anything - linguistics - corpus linguistics"}
 {"mapID":1764,"key":"psychology","title":"learn anything - psychology"}
-{"mapID":1408,"key":"solid-state physics","title":"learn anything - physics - condensed matter physics - solid-state physics"}
+{"mapID":1408,"key":"solid-state physics","title":"learn anything - physics - condensed matter physics - solid state physics"}
 {"mapID":597,"key":"lean gains","title":"learn anything - health - fitness - strength training - lean gains"}
 {"mapID":1834,"key":"metric expansion of space","title":"learn anything - space science - astronomy - universe - big bang - metric expansion of space"}
 {"mapID":975,"key":"lambda calculus","title":"learn anything - mathematics - lambda calculus"}
@@ -1113,7 +1113,7 @@
 {"mapID":732,"key":"korean language","title":"learn anything - linguistics - languages - korean"}
 {"mapID":1416,"key":"continuum mechanics","title":"learn anything - physics - continuum mechanics"}
 {"mapID":790,"key":"linear discriminant analysis","title":"learn anything - machine learning - pattern recognition - linear discriminant analysis"}
-{"mapID":307,"key":"NP-completeness","title":"learn anything - computer science - computation - theory of computation - computational complexity theory - np-completeness"}
+{"mapID":307,"key":"NP-completeness","title":"learn anything - computer science - computation - theory of computation - computational complexity theory - np completeness"}
 {"mapID":1367,"key":"analytical mechanics","title":"learn anything - physics - classical mechanics - analytical mechanics"}
 {"mapID":515,"key":"structural engineering","title":"learn anything - engineering - civil engineering - structural engineering"}
 {"mapID":503,"key":"quantitative finance","title":"learn anything - economics - quantitative finance"}
@@ -1158,7 +1158,7 @@
 {"mapID":36,"key":"guitar","title":"learn anything - art - music - instruments - guitar"}
 {"mapID":999,"key":"linear algebra","title":"learn anything - mathematics - linear algebra"}
 {"mapID":972,"key":"parity games","title":"learn anything - mathematics - graph theory - graphs - parity games"}
-{"mapID":851,"key":"Holder's inequality","title":"learn anything - mathematics - algebra - inequalities - cauchy-schwarz inequality - holders inequality"}
+{"mapID":851,"key":"Holder's inequality","title":"learn anything - mathematics - algebra - inequalities - cauchy schwarz inequality - holders inequality"}
 {"mapID":667,"key":"governance","title":"learn anything - law - governance"}
 {"mapID":1427,"key":"electromagnetic field","title":"learn anything - physics - electromagnetism - electromagnetic field"}
 {"mapID":59,"key":"public speaking","title":"learn anything - art - public speaking"}
@@ -1171,10 +1171,10 @@
 {"mapID":830,"key":"algebraic structures","title":"learn anything - mathematics - algebra - abstract algebra - algebraic structures"}
 {"mapID":1664,"key":"swift package manager","title":"learn anything - programming - programming languages - swift - swift package manager"}
 {"mapID":987,"key":"vector norms","title":"learn anything - mathematics - linear algebra - norm"}
-{"mapID":1011,"key":"many-valued logic","title":"learn anything - mathematics - logic - many-valued logic"}
+{"mapID":1011,"key":"many-valued logic","title":"learn anything - mathematics - logic - many valued logic"}
 {"mapID":558,"key":"LOVE game engine","title":"learn anything - game development - game engines - love"}
 {"mapID":1613,"key":"java programming language","title":"learn anything - programming - programming languages - java"}
-{"mapID":865,"key":"Gabor transform","title":"learn anything - mathematics - analysis - fourier analysis - fourier transform - short-time fourier transform - gabor transform"}
+{"mapID":865,"key":"Gabor transform","title":"learn anything - mathematics - analysis - fourier analysis - fourier transform - short time fourier transform - gabor transform"}
 {"mapID":973,"key":"graphs","title":"learn anything - mathematics - graph theory - graphs"}
 {"mapID":1503,"key":"optics","title":"learn anything - physics - optics"}
 {"mapID":171,"key":"electrochemistry","title":"learn anything - chemistry - electrochemistry"}
@@ -1226,7 +1226,7 @@
 {"mapID":1803,"key":"discord","title":"learn anything - software - tooling - messaging - discord"}
 {"mapID":1030,"key":"Nash equilibrium","title":"learn anything - mathematics - mathematical models - game theory - nash equilibrium"}
 {"mapID":1169,"key":"dermatology","title":"learn anything - medicine - specialties - dermatology"}
-{"mapID":852,"key":"Cauchy-Schwarz inequality","title":"learn anything - mathematics - algebra - inequalities - cauchy-schwarz inequality"}
+{"mapID":852,"key":"Cauchy-Schwarz inequality","title":"learn anything - mathematics - algebra - inequalities - cauchy schwarz inequality"}
 {"mapID":800,"key":"support vector machines","title":"learn anything - machine learning - supervised learning - support vector machines"}
 {"mapID":1152,"key":"polymorphism","title":"learn anything - mathematics - type theory - polymorphism"}
 {"mapID":969,"key":"trigonometric functions","title":"learn anything - mathematics - geometry - trigonometry - trigonometric functions"}
@@ -1340,7 +1340,7 @@
 {"mapID":1262,"key":"spinal cord","title":"learn anything - neuroscience - nervous system - central nervous system - spinal cord"}
 {"mapID":640,"key":"punched cards","title":"learn anything - information theory - information - data storage - punched cards"}
 {"mapID":1858,"key":"chrome browser","title":"learn anything - web development - browsers - chrome"}
-{"mapID":980,"key":"non-negative matrix factorisation","title":"learn anything - mathematics - linear algebra - matrices - matrix factorisation - non-negative matrix factorisation"}
+{"mapID":980,"key":"non-negative matrix factorisation","title":"learn anything - mathematics - linear algebra - matrices - matrix factorisation - non negative matrix factorisation"}
 {"mapID":1821,"key":"vim text editor","title":"learn anything - software - tooling - text editors - vim"}
 {"mapID":1538,"key":"categorical quantum mechanics","title":"learn anything - physics - quantum mechanics - quantum information - categorical quantum mechanics"}
 {"mapID":686,"key":"knitting","title":"learn anything - life - hobbies - knitting"}
@@ -1392,12 +1392,12 @@
 {"mapID":955,"key":"geometric algebra","title":"learn anything - mathematics - geometry - geometric algebra"}
 {"mapID":997,"key":"vector spaces","title":"learn anything - mathematics - linear algebra - vectors - vector space"}
 {"mapID":1139,"key":"geometric topology","title":"learn anything - mathematics - topology - geometric topology"}
-{"mapID":770,"key":"multi-task learning","title":"learn anything - machine learning - multi-task learning"}
+{"mapID":770,"key":"multi-task learning","title":"learn anything - machine learning - multi task learning"}
 {"mapID":1749,"key":"c++ programming language","title":"learn anything - programming languages - c  "}
 {"mapID":318,"key":"binary heaps","title":"learn anything - computer science - data structures - binary heaps"}
 {"mapID":350,"key":"vert.x","title":"learn anything - computer science - virtual machines - jvm - vertx"}
 {"mapID":1693,"key":"Model-view-controller","title":"learn anything - programming - software development - architectural patterns - mvc"}
-{"mapID":1006,"key":"first-order logic","title":"learn anything - mathematics - logic - first-order logic"}
+{"mapID":1006,"key":"first-order logic","title":"learn anything - mathematics - logic - first order logic"}
 {"mapID":892,"key":"surface integrals","title":"learn anything - mathematics - calculus - integration - multiple integrals - surface integrals"}
 {"mapID":1157,"key":"diabetes","title":"learn anything - medicine - diseases - diabetes"}
 {"mapID":451,"key":"climate","title":"learn anything - earth science - atmospheric sciences - atmosphere - weather - climate"}
@@ -1467,7 +1467,7 @@
 {"mapID":826,"key":"lattices","title":"learn anything - mathematics - algebra - abstract algebra - algebraic structures - lattices"}
 {"mapID":1496,"key":"nuclear chain reactions","title":"learn anything - physics - nuclear physics - nuclear reactions - nuclear chain reactions"}
 {"mapID":1457,"key":"chemical bonds","title":"learn anything - physics - matter - atoms - chemical bonds"}
-{"mapID":841,"key":"higher-order functions","title":"learn anything - mathematics - algebra - functions - higher-order functions"}
+{"mapID":841,"key":"higher-order functions","title":"learn anything - mathematics - algebra - functions - higher order functions"}
 {"mapID":1280,"key":"Fastlane","title":"learn anything - operating systems - ios - fastlane"}
 {"mapID":682,"key":"law","title":"learn anything - law"}
 {"mapID":936,"key":"ergodic theory","title":"learn anything - mathematics - ergodic theory"}
@@ -1480,7 +1480,7 @@
 {"mapID":1708,"key":"firebase","title":"learn anything - programming - software development - devops - cloud computing - firebase"}
 {"mapID":34,"key":"drums","title":"learn anything - art - music - instruments - drums"}
 {"mapID":1529,"key":"Casimir effect","title":"learn anything - physics - quantum mechanics - quantum field theory - casimir effect"}
-{"mapID":1083,"key":"p-value","title":"learn anything - mathematics - statistics - p-value"}
+{"mapID":1083,"key":"p-value","title":"learn anything - mathematics - statistics - p value"}
 {"mapID":1195,"key":"new talks","title":"learn anything - more - talks"}
 {"mapID":1779,"key":"information security","title":"learn anything - security - information security"}
 {"mapID":1253,"key":"cerebrum","title":"learn anything - neuroscience - human brain - cerebrum"}
@@ -1596,11 +1596,11 @@
 {"mapID":746,"key":"neural machine translation","title":"learn anything - linguistics - translation - machine translation - neural machine translation"}
 {"mapID":144,"key":"hydrogen bonds","title":"learn anything - chemistry - chemical elements - hydrogen - hydrogen bonds"}
 {"mapID":1822,"key":"vs code extensions","title":"learn anything - software - tooling - text editors - vs code - extensions"}
-{"mapID":1429,"key":"black-body radiation","title":"learn anything - physics - electromagnetism - electromagnetic radiation - black-body radiation"}
+{"mapID":1429,"key":"black-body radiation","title":"learn anything - physics - electromagnetism - electromagnetic radiation - black body radiation"}
 {"mapID":591,"key":"snooker","title":"learn anything - health - fitness - sports - snooker"}
 {"mapID":64,"key":"creative writing","title":"learn anything - art - writing - creative writing"}
 {"mapID":1226,"key":"transport layer security protocol","title":"learn anything - network science - computer networking - protocols - tls"}
-{"mapID":1411,"key":"Navier-Stokes equations","title":"learn anything - physics - continuum mechanics - fluids - fluid mechanics - viscous fluids - navier-stokes equations"}
+{"mapID":1411,"key":"Navier-Stokes equations","title":"learn anything - physics - continuum mechanics - fluids - fluid mechanics - viscous fluids - navier stokes equations"}
 {"mapID":1671,"key":"declarative programming","title":"learn anything - programming - programming paradigms - declarative programming"}
 {"mapID":1542,"key":"quantum state","title":"learn anything - physics - quantum mechanics - quantum state"}
 {"mapID":1498,"key":"nuclear physics","title":"learn anything - physics - nuclear physics"}
@@ -1644,9 +1644,9 @@
 {"mapID":1808,"key":"alfred macOS launcher","title":"learn anything - software - tooling - productivity - alfred"}
 {"mapID":1254,"key":"human memory","title":"learn anything - neuroscience - human brain - memory"}
 {"mapID":1762,"key":"social psychology","title":"learn anything - psychology - social psychology"}
-{"mapID":1524,"key":"double-slit experiment","title":"learn anything - physics - quantum mechanics - double-slit experiment"}
+{"mapID":1524,"key":"double-slit experiment","title":"learn anything - physics - quantum mechanics - double slit experiment"}
 {"mapID":1052,"key":"square roots","title":"learn anything - mathematics - number theory - numbers - square roots"}
-{"mapID":313,"key":"pi calculus","title":"learn anything - computer science - concurrency - process calculus - pi-calculus"}
+{"mapID":313,"key":"pi calculus","title":"learn anything - computer science - concurrency - process calculus - pi calculus"}
 {"mapID":1649,"key":"ruby programming language","title":"learn anything - programming - programming languages - ruby"}
 {"mapID":1639,"key":"numpy library","title":"learn anything - programming - programming languages - python - python libraries - numpy"}
 {"mapID":952,"key":"Hilbert curve","title":"learn anything - mathematics - geometry - fractals - hilbert curve"}
@@ -1663,7 +1663,7 @@
 {"mapID":1837,"key":"the sun","title":"learn anything - space science - astronomy - universe - galaxies - milky way - solar system - sun"}
 {"mapID":1522,"key":"polymer physics","title":"learn anything - physics - polymer physics"}
 {"mapID":1886,"key":"angularJS","title":"learn anything - web development - javascript libraries - angularjs"}
-{"mapID":814,"key":"multi-level marketing","title":"learn anything - marketing - multi-level marketing"}
+{"mapID":814,"key":"multi-level marketing","title":"learn anything - marketing - multi level marketing"}
 {"mapID":1674,"key":"immutability","title":"learn anything - programming - programming paradigms - functional programming - immutability"}
 {"mapID":659,"key":"signal processing","title":"learn anything - information theory - signals - signal processing"}
 {"mapID":367,"key":"SHA-1","title":"learn anything - cryptography - cryptographic hash functions - sha"}
@@ -1676,7 +1676,7 @@
 {"mapID":1926,"key":"web APIs","title":"learn anything - web development - web api"}
 {"mapID":335,"key":"trie data structure","title":"learn anything - computer science - data structures - tries"}
 {"mapID":1513,"key":"quarks","title":"learn anything - physics - particle physics - elementary particles - quarks"}
-{"mapID":765,"key":"scikit-learn library","title":"learn anything - machine learning - machine learning libraries - scikit-learn"}
+{"mapID":765,"key":"scikit-learn library","title":"learn anything - machine learning - machine learning libraries - scikit learn"}
 {"mapID":895,"key":"integration","title":"learn anything - mathematics - calculus - integration"}
 {"mapID":1234,"key":"software defined networking","title":"learn anything - network science - computer networking - software defined networking"}
 {"mapID":1251,"key":"visual cortex","title":"learn anything - neuroscience - human brain - cerebrum - cerebral cortex - visual cortex"}
@@ -1862,7 +1862,7 @@
 {"mapID":938,"key":"computational geometry","title":"learn anything - mathematics - geometry - computational geometry"}
 {"mapID":828,"key":"monoids","title":"learn anything - mathematics - algebra - abstract algebra - algebraic structures - monoids"}
 {"mapID":1349,"key":"solipsism","title":"learn anything - philosophy - philosophy of mind - solipsism"}
-{"mapID":475,"key":"Magento 2","title":"learn anything - economics - e-commerce - magento 2"}
+{"mapID":475,"key":"Magento 2","title":"learn anything - economics - e commerce - magento 2"}
 {"mapID":575,"key":"video games","title":"learn anything - games - video games"}
 {"mapID":140,"key":"molecular biology","title":"learn anything - chemistry - biochemistry - molecular biology"}
 {"mapID":1625,"key":"objective c programming language","title":"learn anything - programming - programming languages - objective c"}
@@ -1931,5 +1931,5 @@
 {"mapID":99,"key":"CRISPR","title":"learn anything - biology - genetics - genetic engineering - crispr"}
 {"mapID":1076,"key":"Bayes’ theorem","title":"learn anything - mathematics - statistics - bayesian statistics - bayes theorem"}
 {"mapID":1209,"key":"domain name system","title":"learn anything - network science - computer networking - internet - domain name system"}
-{"mapID":641,"key":"solid-state drives","title":"learn anything - information theory - information - data storage - solid-state drives"}
+{"mapID":641,"key":"solid-state drives","title":"learn anything - information theory - information - data storage - solid state drives"}
 {"mapID":735,"key":"polish language","title":"learn anything - linguistics - languages - polish"}
