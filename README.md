@@ -23,7 +23,7 @@ We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/
 [Here](https://github.com/learn-anything/learn-anything/wiki/Developing-Learn-Anything) you can read about how you can set up your own instance of Learn Anything to develop with.
 
 ## API
-[Here](https://github.com/learn-anything/learn-anything/wiki/API) you can find all the public API endpoints we currently have. We will be adding more in the future.
+[Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
 ## Explore our Curated Lists
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to[ explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
