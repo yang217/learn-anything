@@ -20,7 +20,7 @@ Since this website is fully open source, you can also help and work on new and a
 We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) we use for all our communication. Feel free to join in to help make this awesome thing together. 🦄
 
 ## Developing the website
-[Here](https://github.com/learn-anything/learn-anything/wiki/Developing-Learn-Anything) you can read about how you can set up your own instance of Learn Anything to develop with.
+[Here](https://github.com/learn-anything/learn-anything/wiki/Developing) you can read about how you can set up your own instance of Learn Anything to develop with.
 
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
