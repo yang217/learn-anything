@@ -15,15 +15,15 @@ If you want to know more about what we're trying to solve, our plans for the fut
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
 
-Since this website is fully open source, you can also help and work on new and awesome features to add to the website. Read [`Developing the website`](https://github.com/learn-anything/learn-anything/wiki/Developing-Learn-Anything) section for more information on how to get started with this. And if you never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
+Since this website is fully open source, you can also help and work on new and awesome features to add to the website. Read [`Developing the website`](https://github.com/learn-anything/learn-anything/wiki/Developing) section for more information on how to get started with this. And if you never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
 We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) we use for all our communication. Feel free to join in to help make this awesome thing together. 🦄
 
 ## Developing the website
-[Here](https://github.com/learn-anything/learn-anything/wiki/Developing-Learn-Anything) you can read about how you can set up your own instance of Learn Anything to develop with.
+[Here](https://github.com/learn-anything/learn-anything/wiki/Developing) you can read about how you can set up your own instance of Learn Anything to develop with.
 
 ## API
-[Here](https://github.com/learn-anything/learn-anything/wiki/API) you can find all the public API endpoints we currently have. We will be adding more in the future.
+[Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
 ## Explore our Curated Lists
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to[ explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).

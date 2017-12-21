@@ -29,7 +29,7 @@
     "backup:prod": "NODE_ENV='production' node maps/scripts/dynamo/backup.js"
   },
   "dependencies": {
-    "auth0-js": "^8.10.1",
+    "auth0-js": "^8.12.0",
     "aws-sdk": "^2.125.0",
     "axios": "^0.16.2",
     "body-parser": "^1.18.2",

@@ -58,7 +58,7 @@
 {"nodeID":1303,"parentID":1302,"text":"Basics","mapID":355}
 {"nodeID":2558,"parentID":2550,"text":"Remote  ️","mapID":703}
 {"nodeID":4355,"parentID":null,"text":"MQTT","mapID":1222}
-{"nodeID":3617,"parentID":3616,"text":"Higher-order logic  ️","mapID":1006}
+{"nodeID":3617,"parentID":3616,"text":"Higher order logic","mapID":1006}
 {"nodeID":7,"parentID":6,"text":"Basics","mapID":2}
 {"nodeID":2321,"parentID":2320,"text":"Bitwise operations  ️","mapID":635}
 {"nodeID":4160,"parentID":4158,"text":"Chaos theory  ️","mapID":1154}
@@ -80,7 +80,7 @@
 {"nodeID":3659,"parentID":null,"text":"Propositional logic","mapID":1024}
 {"nodeID":115,"parentID":null,"text":"Guitar","mapID":36}
 {"nodeID":4177,"parentID":null,"text":"Malaria","mapID":1160}
-{"nodeID":2780,"parentID":2774,"text":"Scikit-learn  ️","mapID":768}
+{"nodeID":2780,"parentID":2774,"text":"Scikit learn","mapID":768}
 {"nodeID":5543,"parentID":null,"text":"Casimir effect","mapID":1529}
 {"nodeID":512,"parentID":506,"text":"Standard atomic weight  ️","mapID":148}
 {"nodeID":4424,"parentID":null,"text":"Network science","mapID":1240}
@@ -171,6 +171,7 @@
 {"nodeID":5690,"parentID":5689,"text":"Basics","mapID":1563}
 {"nodeID":2985,"parentID":2984,"text":"Lie algebra  ️","mapID":821}
 {"nodeID":2850,"parentID":2849,"text":"Hopfield networks  ️","mapID":786}
+{"nodeID":7671,"parentID":5900,"text":"Objects","mapID":1618}
 {"nodeID":401,"parentID":398,"text":"Cell division  ️","mapID":119}
 {"nodeID":3109,"parentID":3107,"text":"Basics","mapID":855}
 {"nodeID":4858,"parentID":4857,"text":"Basics","mapID":1332}
@@ -287,7 +288,7 @@
 {"nodeID":5622,"parentID":null,"text":"Special relativity","mapID":1549}
 {"nodeID":2403,"parentID":2402,"text":"Basics","mapID":660}
 {"nodeID":5044,"parentID":null,"text":"Linear motion","mapID":1381}
-{"nodeID":1182,"parentID":null,"text":"Red-black tree","mapID":329}
+{"nodeID":1182,"parentID":null,"text":"Red black tree","mapID":329}
 {"nodeID":6668,"parentID":6665,"text":"Programming paradigms  ️","mapID":1751}
 {"nodeID":5171,"parentID":5170,"text":"Basics","mapID":1420}
 {"nodeID":2314,"parentID":2313,"text":"Basics","mapID":633}
@@ -324,8 +325,8 @@
 {"nodeID":3511,"parentID":null,"text":"Parity games","mapID":972}
 {"nodeID":2036,"parentID":null,"text":"Success","mapID":547}
 {"nodeID":4553,"parentID":4552,"text":"Basics","mapID":1275}
-{"nodeID":5579,"parentID":5578,"text":"No-communication theorem","mapID":1540}
-{"nodeID":6269,"parentID":6268,"text":"Multi-paradigm","mapID":1668}
+{"nodeID":5579,"parentID":5578,"text":"No communication theorem","mapID":1540}
+{"nodeID":6269,"parentID":6268,"text":"Multi paradigm","mapID":1668}
 {"nodeID":3502,"parentID":3490,"text":"Coordinate systems  ️","mapID":971}
 {"nodeID":2902,"parentID":2901,"text":"Basics","mapID":800}
 {"nodeID":359,"parentID":358,"text":"Basics","mapID":104}
@@ -360,10 +361,10 @@
 {"nodeID":1380,"parentID":1379,"text":"Encryption  ️","mapID":376}
 {"nodeID":6927,"parentID":6926,"text":"Tools","mapID":1801}
 {"nodeID":3292,"parentID":3291,"text":"Vectors  ️","mapID":910}
-{"nodeID":2960,"parentID":null,"text":"Multi-level marketing","mapID":814}
+{"nodeID":2960,"parentID":null,"text":"Multi level marketing","mapID":814}
 {"nodeID":1069,"parentID":null,"text":"Continuation","mapID":294}
 {"nodeID":5385,"parentID":5384,"text":"Molecules  ️","mapID":1478}
-{"nodeID":1931,"parentID":null,"text":"Field-programmable gate array","mapID":524}
+{"nodeID":1931,"parentID":null,"text":"Field programmable gate array","mapID":524}
 {"nodeID":1163,"parentID":1162,"text":"Basics","mapID":320}
 {"nodeID":583,"parentID":582,"text":"Cannabis  ️","mapID":164}
 {"nodeID":2954,"parentID":2953,"text":"Basics","mapID":812}
@@ -386,7 +387,7 @@
 {"nodeID":2971,"parentID":null,"text":"Field extensions","mapID":816}
 {"nodeID":4897,"parentID":null,"text":"Idealism","mapID":1342}
 {"nodeID":256,"parentID":255,"text":"Basics","mapID":70}
-{"nodeID":2391,"parentID":null,"text":"Nyqust-Shannon sampling theorem","mapID":657}
+{"nodeID":2391,"parentID":null,"text":"Nyqust Shannon sampling theorem","mapID":657}
 {"nodeID":6110,"parentID":null,"text":"Swift package manager","mapID":1664}
 {"nodeID":4875,"parentID":4870,"text":"Adjectives","mapID":1335}
 {"nodeID":3736,"parentID":null,"text":"Arithmetic","mapID":1041}
@@ -450,7 +451,7 @@
 {"nodeID":5085,"parentID":null,"text":"Transverse waves","mapID":1398}
 {"nodeID":6660,"parentID":6659,"text":"Articles","mapID":1750}
 {"nodeID":7184,"parentID":7182,"text":"Help","mapID":1862}
-{"nodeID":3535,"parentID":null,"text":"Non-negative matrix factorisation","mapID":980}
+{"nodeID":3535,"parentID":null,"text":"Non negative matrix factorisation","mapID":980}
 {"nodeID":921,"parentID":null,"text":"Raspberry pi","mapID":255}
 {"nodeID":1627,"parentID":1626,"text":"Basics","mapID":443}
 {"nodeID":4228,"parentID":4227,"text":"Pain  ️","mapID":1179}
@@ -495,7 +496,7 @@
 {"nodeID":440,"parentID":439,"text":"Basics","mapID":132}
 {"nodeID":4871,"parentID":4870,"text":"Indexicality","mapID":1335}
 {"nodeID":4894,"parentID":null,"text":"Emergence","mapID":1341}
-{"nodeID":1383,"parentID":1379,"text":"Zero-knowledge proofs  ️","mapID":376}
+{"nodeID":1383,"parentID":1379,"text":"Zero knowledge proofs","mapID":376}
 {"nodeID":4470,"parentID":4469,"text":"Cerebral cortex  ️","mapID":1253}
 {"nodeID":4703,"parentID":4702,"text":"Distributions  ️","mapID":1297}
 {"nodeID":2034,"parentID":2029,"text":"Funding  ️","mapID":546}
@@ -541,7 +542,7 @@
 {"nodeID":3558,"parentID":3557,"text":"Basics","mapID":987}
 {"nodeID":3909,"parentID":3906,"text":"Pareto distribution  ️","mapID":1094}
 {"nodeID":7622,"parentID":7620,"text":"Gain","mapID":1927}
-{"nodeID":1999,"parentID":1998,"text":"Self-reconfiguring modular robot","mapID":541}
+{"nodeID":1999,"parentID":1998,"text":"Self reconfiguring modular robot","mapID":541}
 {"nodeID":5913,"parentID":5912,"text":"Basics","mapID":1620}
 {"nodeID":7452,"parentID":7450,"text":"Articles","mapID":1891}
 {"nodeID":4856,"parentID":4852,"text":"Interesting","mapID":1331}
@@ -592,7 +593,7 @@
 {"nodeID":1662,"parentID":null,"text":"Load balancing","mapID":447}
 {"nodeID":4713,"parentID":null,"text":"Javascript for automation","mapID":1299}
 {"nodeID":6614,"parentID":6601,"text":"System administration  ️","mapID":1741}
-{"nodeID":989,"parentID":985,"text":"Depth-first search  ️","mapID":276}
+{"nodeID":989,"parentID":985,"text":"Depth first search","mapID":276}
 {"nodeID":5517,"parentID":5516,"text":"Basics","mapID":1520}
 {"nodeID":4394,"parentID":null,"text":"Proxy server","mapID":1232}
 {"nodeID":1123,"parentID":null,"text":"Theory of computation","mapID":310}
@@ -604,7 +605,7 @@
 {"nodeID":4955,"parentID":4954,"text":"Basics","mapID":1356}
 {"nodeID":7198,"parentID":7189,"text":"Gecko","mapID":1863}
 {"nodeID":5258,"parentID":null,"text":"Potential energy","mapID":1446}
-{"nodeID":6413,"parentID":null,"text":"Model-view-controller","mapID":1693}
+{"nodeID":6413,"parentID":null,"text":"Model view controller","mapID":1693}
 {"nodeID":6741,"parentID":null,"text":"Authentication","mapID":1767}
 {"nodeID":4630,"parentID":4629,"text":"LLDB","mapID":1281}
 {"nodeID":4428,"parentID":4424,"text":"Semantic networks","mapID":1240}
@@ -617,7 +618,7 @@
 {"nodeID":4200,"parentID":4199,"text":"Skin care  ️","mapID":1169}
 {"nodeID":5817,"parentID":null,"text":"Frege","mapID":1598}
 {"nodeID":7432,"parentID":7395,"text":"Ruby on rails  ️","mapID":1884}
-{"nodeID":1790,"parentID":null,"text":"Black-Scholes model","mapID":483}
+{"nodeID":1790,"parentID":null,"text":"Black Scholes model","mapID":483}
 {"nodeID":5810,"parentID":5807,"text":"Basics","mapID":1595}
 {"nodeID":410,"parentID":409,"text":"Basics","mapID":122}
 {"nodeID":5313,"parentID":5312,"text":"Trans fat","mapID":1460}
@@ -688,7 +689,7 @@
 {"nodeID":5512,"parentID":5511,"text":"Basics","mapID":1518}
 {"nodeID":3679,"parentID":3669,"text":"Truth tables  ️","mapID":1027}
 {"nodeID":7096,"parentID":7091,"text":"Astrophysics  ️","mapID":1843}
-{"nodeID":761,"parentID":null,"text":"Super-resolution imaging","mapID":211}
+{"nodeID":761,"parentID":null,"text":"Super resolution imaging","mapID":211}
 {"nodeID":5405,"parentID":null,"text":"Nanorobotics","mapID":1485}
 {"nodeID":3772,"parentID":3769,"text":"Negative numbers","mapID":1053}
 {"nodeID":6428,"parentID":null,"text":"Code refactoring","mapID":1698}
@@ -876,7 +877,7 @@
 {"nodeID":3984,"parentID":3983,"text":"Basics","mapID":1117}
 {"nodeID":914,"parentID":913,"text":"Basics","mapID":254}
 {"nodeID":6084,"parentID":6080,"text":"ARKit  ️","mapID":1660}
-{"nodeID":2583,"parentID":null,"text":"Pumping lemma for context-free languages","mapID":710}
+{"nodeID":2583,"parentID":null,"text":"Pumping lemma for context free languages","mapID":710}
 {"nodeID":6407,"parentID":6405,"text":"Articles","mapID":1690}
 {"nodeID":75,"parentID":null,"text":"Movies","mapID":23}
 {"nodeID":4332,"parentID":null,"text":"Network traffic","mapID":1214}
@@ -944,7 +945,7 @@
 {"nodeID":2357,"parentID":null,"text":"Huffman coding","mapID":648}
 {"nodeID":32,"parentID":null,"text":"Comedy","mapID":11}
 {"nodeID":7326,"parentID":7317,"text":"Preprocessors","mapID":1876}
-{"nodeID":3371,"parentID":null,"text":"Barnes-Hut simulation","mapID":932}
+{"nodeID":3371,"parentID":null,"text":"Barnes Hut simulation","mapID":932}
 {"nodeID":2104,"parentID":2103,"text":"Play","mapID":564}
 {"nodeID":1777,"parentID":null,"text":"Economic models","mapID":479}
 {"nodeID":6992,"parentID":null,"text":"Viml","mapID":1820}
@@ -1069,7 +1070,7 @@
 {"nodeID":4532,"parentID":4531,"text":"Basics","mapID":1269}
 {"nodeID":3683,"parentID":3669,"text":"Propositional logic  ️","mapID":1027}
 {"nodeID":2708,"parentID":2705,"text":"Computational linguistics  ️","mapID":749}
-{"nodeID":971,"parentID":null,"text":"Depth-first search","mapID":271}
+{"nodeID":971,"parentID":null,"text":"Depth first search","mapID":271}
 {"nodeID":3370,"parentID":3369,"text":"Coding theory","mapID":931}
 {"nodeID":2608,"parentID":2607,"text":"Basics","mapID":719}
 {"nodeID":185,"parentID":184,"text":"Basics","mapID":56}
@@ -1104,7 +1105,7 @@
 {"nodeID":7561,"parentID":7560,"text":"Grunt  ️","mapID":1912}
 {"nodeID":5204,"parentID":5203,"text":"Basics","mapID":1430}
 {"nodeID":7088,"parentID":null,"text":"Astronomy","mapID":1843}
-{"nodeID":3821,"parentID":null,"text":"Banach-Tarski paradox","mapID":1064}
+{"nodeID":3821,"parentID":null,"text":"Banach Tarski paradox","mapID":1064}
 {"nodeID":7400,"parentID":7399,"text":"React js  ️","mapID":1884}
 {"nodeID":4952,"parentID":null,"text":"God","mapID":1355}
 {"nodeID":264,"parentID":262,"text":"Weak AI","mapID":73}
@@ -1116,7 +1117,7 @@
 {"nodeID":582,"parentID":556,"text":"Cannabinoids","mapID":164}
 {"nodeID":7212,"parentID":7211,"text":"Microsoft edge","mapID":1863}
 {"nodeID":5326,"parentID":null,"text":"DNA","mapID":1465}
-{"nodeID":6320,"parentID":6134,"text":"Stack-oriented","mapID":1668}
+{"nodeID":6320,"parentID":6134,"text":"Stack oriented","mapID":1668}
 {"nodeID":607,"parentID":600,"text":"Help","mapID":170}
 {"nodeID":387,"parentID":386,"text":"Basics","mapID":115}
 {"nodeID":5965,"parentID":5962,"text":"CodeIgniter","mapID":1633}
@@ -1126,7 +1127,7 @@
 {"nodeID":2307,"parentID":null,"text":"Algorithmic information theory","mapID":631}
 {"nodeID":6199,"parentID":6135,"text":"SQL  ️","mapID":1668}
 {"nodeID":2639,"parentID":null,"text":"Korean language","mapID":732}
-{"nodeID":1121,"parentID":1119,"text":"NP-hardness  ️","mapID":309}
+{"nodeID":1121,"parentID":1119,"text":"NP hardness","mapID":309}
 {"nodeID":6713,"parentID":6711,"text":"Interesting","mapID":1763}
 {"nodeID":220,"parentID":219,"text":"Articles","mapID":66}
 {"nodeID":7256,"parentID":7245,"text":"Chakra","mapID":1863}
@@ -1137,7 +1138,7 @@
 {"nodeID":7445,"parentID":7444,"text":"Basics","mapID":1889}
 {"nodeID":2738,"parentID":null,"text":"Discriminative models","mapID":756}
 {"nodeID":322,"parentID":321,"text":"Basics","mapID":90}
-{"nodeID":2582,"parentID":2581,"text":"Part-of-speech tagging  ️","mapID":709}
+{"nodeID":2582,"parentID":2581,"text":"Part of speech tagging","mapID":709}
 {"nodeID":7583,"parentID":null,"text":"Solr","mapID":1918}
 {"nodeID":1444,"parentID":null,"text":"MapReduce","mapID":396}
 {"nodeID":6216,"parentID":6203,"text":"Erlang  ️","mapID":1668}
@@ -1151,9 +1152,9 @@
 {"nodeID":1868,"parentID":1861,"text":"Trading  ️","mapID":507}
 {"nodeID":496,"parentID":null,"text":"Hydrogen bonds","mapID":144}
 {"nodeID":2664,"parentID":2663,"text":"Languages","mapID":742}
-{"nodeID":1313,"parentID":null,"text":"One-shot learning","mapID":357}
+{"nodeID":1313,"parentID":null,"text":"One shot learning","mapID":357}
 {"nodeID":3183,"parentID":3182,"text":"Functional analysis  ️","mapID":878}
-{"nodeID":1794,"parentID":1793,"text":"Black-Scholes model  ️","mapID":484}
+{"nodeID":1794,"parentID":1793,"text":"Black Scholes model","mapID":484}
 {"nodeID":2170,"parentID":null,"text":"Skiing","mapID":590}
 {"nodeID":4673,"parentID":4668,"text":"Mint","mapID":1293}
 {"nodeID":2875,"parentID":2874,"text":"Basics","mapID":790}
@@ -1194,7 +1195,7 @@
 {"nodeID":7522,"parentID":7520,"text":"JQuery  ️","mapID":1912}
 {"nodeID":302,"parentID":301,"text":"Basics","mapID":85}
 {"nodeID":7205,"parentID":7204,"text":"WebKit","mapID":1863}
-{"nodeID":1347,"parentID":1342,"text":"Proof-of-work system","mapID":365}
+{"nodeID":1347,"parentID":1342,"text":"Proof of work system","mapID":365}
 {"nodeID":4302,"parentID":null,"text":"Natural language processing","mapID":1207}
 {"nodeID":2560,"parentID":2559,"text":"Lifestyle","mapID":704}
 {"nodeID":3126,"parentID":null,"text":"Euler’s formula","mapID":859}
@@ -1207,7 +1208,7 @@
 {"nodeID":3015,"parentID":3014,"text":"Monoids  ️","mapID":830}
 {"nodeID":2296,"parentID":2295,"text":"Basics","mapID":629}
 {"nodeID":5420,"parentID":null,"text":"Phases","mapID":1490}
-{"nodeID":5532,"parentID":null,"text":"Double-slit experiment","mapID":1524}
+{"nodeID":5532,"parentID":null,"text":"Double slit experiment","mapID":1524}
 {"nodeID":4727,"parentID":4720,"text":"Applescript  ️","mapID":1301}
 {"nodeID":4568,"parentID":4565,"text":"APFS","mapID":1277}
 {"nodeID":6795,"parentID":6794,"text":"Linux","mapID":1781}
@@ -1221,7 +1222,7 @@
 {"nodeID":4212,"parentID":null,"text":"Mental disorders","mapID":1175}
 {"nodeID":1618,"parentID":1614,"text":"Talks","mapID":441}
 {"nodeID":520,"parentID":519,"text":"Catalysis  ️","mapID":150}
-{"nodeID":6699,"parentID":6698,"text":"Consensus decision-making","mapID":1758}
+{"nodeID":6699,"parentID":6698,"text":"Consensus decision making","mapID":1758}
 {"nodeID":4279,"parentID":null,"text":"Websites","mapID":1197}
 {"nodeID":2861,"parentID":2859,"text":"Generative adversarial networks  ️","mapID":789}
 {"nodeID":1540,"parentID":1539,"text":"Tools","mapID":419}
@@ -1307,7 +1308,7 @@
 {"nodeID":2283,"parentID":null,"text":"Terrorism","mapID":626}
 {"nodeID":1584,"parentID":1583,"text":"Basics","mapID":432}
 {"nodeID":5049,"parentID":null,"text":"Wavelets","mapID":1383}
-{"nodeID":3894,"parentID":null,"text":"F-distribution","mapID":1089}
+{"nodeID":3894,"parentID":null,"text":"F distribution","mapID":1089}
 {"nodeID":1274,"parentID":1272,"text":"Basics","mapID":350}
 {"nodeID":198,"parentID":197,"text":"Help","mapID":59}
 {"nodeID":3463,"parentID":null,"text":"Poincare conjecture","mapID":963}
@@ -1318,7 +1319,7 @@
 {"nodeID":7306,"parentID":7304,"text":"Animations","mapID":1872}
 {"nodeID":6591,"parentID":6590,"text":"Basics","mapID":1739}
 {"nodeID":1438,"parentID":1437,"text":"PySpark  ️","mapID":393}
-{"nodeID":6203,"parentID":6202,"text":"Multi-paradigm","mapID":1668}
+{"nodeID":6203,"parentID":6202,"text":"Multi paradigm","mapID":1668}
 {"nodeID":5701,"parentID":5700,"text":"Basics","mapID":1567}
 {"nodeID":5342,"parentID":5339,"text":"Lysine","mapID":1468}
 {"nodeID":3972,"parentID":3971,"text":"Basics","mapID":1112}
@@ -1431,7 +1432,7 @@
 {"nodeID":6987,"parentID":null,"text":"Sublime text","mapID":1818}
 {"nodeID":2593,"parentID":2592,"text":"Articles","mapID":713}
 {"nodeID":1746,"parentID":null,"text":"Insurance","mapID":469}
-{"nodeID":1205,"parentID":1204,"text":"Log-structured merge-tree","mapID":336}
+{"nodeID":1205,"parentID":1204,"text":"Log structured merge tree","mapID":336}
 {"nodeID":3053,"parentID":null,"text":"Equations","mapID":840}
 {"nodeID":5823,"parentID":null,"text":"Go","mapID":1601}
 {"nodeID":1904,"parentID":1903,"text":"Basics","mapID":515}
@@ -1450,7 +1451,7 @@
 {"nodeID":7585,"parentID":null,"text":"Web search engines","mapID":1919}
 {"nodeID":2323,"parentID":2322,"text":"Basics","mapID":636}
 {"nodeID":5105,"parentID":5104,"text":"Basics","mapID":1402}
-{"nodeID":4406,"parentID":4404,"text":"Software-defined networking  ️","mapID":1235}
+{"nodeID":4406,"parentID":4404,"text":"Software defined networking","mapID":1235}
 {"nodeID":4805,"parentID":null,"text":"Analytic philosophy","mapID":1318}
 {"nodeID":3497,"parentID":3490,"text":"Fractals  ️","mapID":971}
 {"nodeID":6583,"parentID":null,"text":"Test automation","mapID":1736}
@@ -1458,7 +1459,7 @@
 {"nodeID":1795,"parentID":null,"text":"Financial services","mapID":485}
 {"nodeID":4581,"parentID":4580,"text":"Interesting","mapID":1281}
 {"nodeID":3942,"parentID":3940,"text":"Stochastic differential equations  ️","mapID":1105}
-{"nodeID":5613,"parentID":5600,"text":"Double-slit experiment  ️","mapID":1547}
+{"nodeID":5613,"parentID":5600,"text":"Double slit experiment","mapID":1547}
 {"nodeID":6936,"parentID":null,"text":"Telegram","mapID":1805}
 {"nodeID":4300,"parentID":4299,"text":"Basics","mapID":1206}
 {"nodeID":1051,"parentID":1050,"text":"Basics","mapID":290}
@@ -1482,13 +1483,13 @@
 {"nodeID":2797,"parentID":null,"text":"Meta learning","mapID":769}
 {"nodeID":1283,"parentID":1281,"text":"Basics","mapID":352}
 {"nodeID":4807,"parentID":4806,"text":"Logical atomism  ️","mapID":1318}
-{"nodeID":6236,"parentID":6235,"text":"Multi-paradigm","mapID":1668}
+{"nodeID":6236,"parentID":6235,"text":"Multi paradigm","mapID":1668}
 {"nodeID":4916,"parentID":null,"text":"Philosophy of perception","mapID":1347}
 {"nodeID":3774,"parentID":3769,"text":"Infinity  ️","mapID":1053}
 {"nodeID":4379,"parentID":4378,"text":"Tcp/ip  ️","mapID":1230}
 {"nodeID":3786,"parentID":null,"text":"Constrained optimisation","mapID":1055}
 {"nodeID":7494,"parentID":7492,"text":"React router  ️","mapID":1905}
-{"nodeID":988,"parentID":985,"text":"Breadth-first search  ️","mapID":276}
+{"nodeID":988,"parentID":985,"text":"Breadth first search","mapID":276}
 {"nodeID":4202,"parentID":4201,"text":"Basics","mapID":1170}
 {"nodeID":4100,"parentID":4097,"text":"Algebraic topology  ️","mapID":1147}
 {"nodeID":5647,"parentID":null,"text":"Time","mapID":1558}
@@ -1531,15 +1532,15 @@
 {"nodeID":5958,"parentID":5957,"text":"Composer  ️","mapID":1633}
 {"nodeID":2606,"parentID":2605,"text":"Basics","mapID":718}
 {"nodeID":4015,"parentID":4014,"text":"Probabilistic graphical models  ️","mapID":1127}
-{"nodeID":4475,"parentID":4474,"text":"Long-term memory","mapID":1254}
+{"nodeID":4475,"parentID":4474,"text":"Long term memory","mapID":1254}
 {"nodeID":7614,"parentID":null,"text":"WebExtensions","mapID":1925}
-{"nodeID":6570,"parentID":6569,"text":"Service-oriented architecture","mapID":1730}
+{"nodeID":6570,"parentID":6569,"text":"Service oriented architecture","mapID":1730}
 {"nodeID":1315,"parentID":1313,"text":"Basics","mapID":357}
 {"nodeID":152,"parentID":null,"text":"Ableton Live","mapID":47}
 {"nodeID":2162,"parentID":2161,"text":"Help","mapID":586}
 {"nodeID":712,"parentID":711,"text":"Centralised","mapID":198}
 {"nodeID":4098,"parentID":4097,"text":"Differential topology  ️","mapID":1147}
-{"nodeID":3374,"parentID":null,"text":"N-body simulation","mapID":933}
+{"nodeID":3374,"parentID":null,"text":"N body simulation","mapID":933}
 {"nodeID":3049,"parentID":3047,"text":"Basics","mapID":838}
 {"nodeID":7498,"parentID":7496,"text":"Help","mapID":1906}
 {"nodeID":2038,"parentID":2036,"text":"Basics","mapID":547}
@@ -1557,7 +1558,7 @@
 {"nodeID":7220,"parentID":7214,"text":"Chakra","mapID":1863}
 {"nodeID":6624,"parentID":null,"text":"GitHub","mapID":1743}
 {"nodeID":5346,"parentID":5345,"text":"Basics","mapID":1469}
-{"nodeID":7113,"parentID":null,"text":"A-Frame","mapID":1850}
+{"nodeID":7113,"parentID":null,"text":"A Frame","mapID":1850}
 {"nodeID":2626,"parentID":2625,"text":"Basics","mapID":726}
 {"nodeID":4438,"parentID":4437,"text":"Basics","mapID":1243}
 {"nodeID":3589,"parentID":3586,"text":"Cross product  ️","mapID":998}
@@ -1820,10 +1821,10 @@
 {"nodeID":1692,"parentID":null,"text":"Earth science","mapID":456}
 {"nodeID":6124,"parentID":6123,"text":"CocoaPods  ️","mapID":1665}
 {"nodeID":3249,"parentID":3248,"text":"Differential form  ️","mapID":897}
-{"nodeID":2587,"parentID":2586,"text":"Pumping lemma for context-free languages  ️","mapID":711}
+{"nodeID":2587,"parentID":2586,"text":"Pumping lemma for context free languages","mapID":711}
 {"nodeID":6949,"parentID":6947,"text":"Workflows  ️","mapID":1808}
 {"nodeID":6229,"parentID":6203,"text":"OCaml  ️","mapID":1668}
-{"nodeID":5611,"parentID":5600,"text":"Wave-particle duality  ️","mapID":1547}
+{"nodeID":5611,"parentID":5600,"text":"Wave particle duality","mapID":1547}
 {"nodeID":6378,"parentID":6377,"text":"Basics","mapID":1685}
 {"nodeID":206,"parentID":205,"text":"Adobe after effects","mapID":62}
 {"nodeID":5652,"parentID":5651,"text":"Basics","mapID":1559}
@@ -1869,7 +1870,7 @@
 {"nodeID":3092,"parentID":3086,"text":"Logistic functions  ️","mapID":850}
 {"nodeID":5008,"parentID":4991,"text":"Philosophy of language  ️","mapID":1366}
 {"nodeID":1246,"parentID":null,"text":"Type classes","mapID":344}
-{"nodeID":1131,"parentID":1128,"text":"Finite-state machine  ️","mapID":311}
+{"nodeID":1131,"parentID":1128,"text":"Finite state machine","mapID":311}
 {"nodeID":1601,"parentID":1600,"text":"Basics","mapID":438}
 {"nodeID":4981,"parentID":4980,"text":"Basics","mapID":1364}
 {"nodeID":2071,"parentID":null,"text":"Game design","mapID":556}
@@ -1891,7 +1892,7 @@
 {"nodeID":2230,"parentID":2227,"text":"Minimalism  ️","mapID":610}
 {"nodeID":1397,"parentID":1396,"text":"Articles","mapID":380}
 {"nodeID":4241,"parentID":4240,"text":"Machine learning  ️","mapID":1181}
-{"nodeID":3896,"parentID":3895,"text":"One-way analysis of variance  ️","mapID":1089}
+{"nodeID":3896,"parentID":3895,"text":"One way analysis of variance","mapID":1089}
 {"nodeID":3645,"parentID":3644,"text":"Basics","mapID":1018}
 {"nodeID":7197,"parentID":7196,"text":"Chrome V8  ️","mapID":1863}
 {"nodeID":2460,"parentID":null,"text":"Real estate","mapID":677}
@@ -1925,7 +1926,7 @@
 {"nodeID":7640,"parentID":null,"text":"Web scraping","mapID":1933}
 {"nodeID":4061,"parentID":null,"text":"Computational topology","mapID":1134}
 {"nodeID":1158,"parentID":1157,"text":"Basics","mapID":318}
-{"nodeID":3634,"parentID":null,"text":"Curry-Howard correspondence","mapID":1014}
+{"nodeID":3634,"parentID":null,"text":"Curry Howard correspondence","mapID":1014}
 {"nodeID":6841,"parentID":6840,"text":"Basics","mapID":1790}
 {"nodeID":1528,"parentID":null,"text":"Time series database","mapID":417}
 {"nodeID":1541,"parentID":1538,"text":"Basics","mapID":419}
@@ -1939,7 +1940,7 @@
 {"nodeID":5538,"parentID":5537,"text":"Basics","mapID":1526}
 {"nodeID":1049,"parentID":1048,"text":"Basics","mapID":289}
 {"nodeID":5614,"parentID":5600,"text":"Quantum tunneling  ️","mapID":1547}
-{"nodeID":566,"parentID":565,"text":"5-MeO-DMT","mapID":164}
+{"nodeID":566,"parentID":565,"text":"5 MeO DMT","mapID":164}
 {"nodeID":1722,"parentID":1721,"text":"Privacy issues","mapID":463}
 {"nodeID":6677,"parentID":6665,"text":"Practice  ️","mapID":1751}
 {"nodeID":2936,"parentID":2935,"text":"Engineering management  ️","mapID":805}
@@ -2041,11 +2042,11 @@
 {"nodeID":1849,"parentID":1847,"text":"Basics","mapID":503}
 {"nodeID":1872,"parentID":1861,"text":"Basic income  ️","mapID":507}
 {"nodeID":601,"parentID":600,"text":"Basics","mapID":170}
-{"nodeID":982,"parentID":981,"text":"Boyer-Moore string search algorithm  ️","mapID":275}
+{"nodeID":982,"parentID":981,"text":"Boyer Moore string search algorithm","mapID":275}
 {"nodeID":671,"parentID":668,"text":"Interesting","mapID":188}
 {"nodeID":1208,"parentID":1206,"text":"Self balancing binary search tree","mapID":336}
 {"nodeID":5757,"parentID":5756,"text":"Help","mapID":1581}
-{"nodeID":3626,"parentID":null,"text":"Many-valued logic","mapID":1011}
+{"nodeID":3626,"parentID":null,"text":"Many valued logic","mapID":1011}
 {"nodeID":4282,"parentID":null,"text":"More","mapID":1199}
 {"nodeID":768,"parentID":null,"text":"Rasterisation","mapID":213}
 {"nodeID":6551,"parentID":null,"text":"Documentation","mapID":1724}
@@ -2100,7 +2101,7 @@
 {"nodeID":4150,"parentID":4145,"text":"Type theory  ️","mapID":1154}
 {"nodeID":5485,"parentID":null,"text":"Planck constant","mapID":1511}
 {"nodeID":7338,"parentID":7317,"text":"Css modules  ️","mapID":1876}
-{"nodeID":1875,"parentID":1861,"text":"E-commerce  ️","mapID":507}
+{"nodeID":1875,"parentID":1861,"text":"E commerce","mapID":507}
 {"nodeID":4903,"parentID":4902,"text":"Realism  ️","mapID":1344}
 {"nodeID":568,"parentID":564,"text":"Ibogaine  ️","mapID":164}
 {"nodeID":2900,"parentID":2899,"text":"Basics","mapID":799}
@@ -2109,7 +2110,7 @@
 {"nodeID":7250,"parentID":7249,"text":"Blink","mapID":1863}
 {"nodeID":1495,"parentID":1493,"text":"Spanner","mapID":408}
 {"nodeID":6009,"parentID":6005,"text":"Micropython","mapID":1643}
-{"nodeID":4841,"parentID":4839,"text":"Meta-ethics  ️","mapID":1326}
+{"nodeID":4841,"parentID":4839,"text":"Meta ethics","mapID":1326}
 {"nodeID":6922,"parentID":null,"text":"Android Studio","mapID":1800}
 {"nodeID":1392,"parentID":1391,"text":"Data mining","mapID":378}
 {"nodeID":3280,"parentID":3277,"text":"Wavelet transform  ️","mapID":908}
@@ -2144,7 +2145,7 @@
 {"nodeID":4233,"parentID":4230,"text":"Specialties  ️","mapID":1180}
 {"nodeID":2908,"parentID":null,"text":"Unsupervised learning","mapID":802}
 {"nodeID":5890,"parentID":5889,"text":"Tools","mapID":1616}
-{"nodeID":3684,"parentID":3669,"text":"First-order logic  ️","mapID":1027}
+{"nodeID":3684,"parentID":3669,"text":"First order logic","mapID":1027}
 {"nodeID":3193,"parentID":3192,"text":"Numerical methods for ordinary differential equations","mapID":879}
 {"nodeID":3513,"parentID":null,"text":"Graphs","mapID":973}
 {"nodeID":4412,"parentID":4404,"text":"Routing  ️","mapID":1235}
@@ -2248,7 +2249,7 @@
 {"nodeID":7574,"parentID":7573,"text":"Offline first","mapID":1914}
 {"nodeID":1218,"parentID":1203,"text":"Linked list  ️","mapID":336}
 {"nodeID":4321,"parentID":4319,"text":"Help","mapID":1211}
-{"nodeID":4401,"parentID":null,"text":"Software-defined networking","mapID":1234}
+{"nodeID":4401,"parentID":null,"text":"Software defined networking","mapID":1234}
 {"nodeID":995,"parentID":993,"text":"Basics","mapID":277}
 {"nodeID":4804,"parentID":4803,"text":"Basics","mapID":1317}
 {"nodeID":6735,"parentID":6733,"text":"Password managers","mapID":1766}
@@ -2256,7 +2257,7 @@
 {"nodeID":169,"parentID":null,"text":"Song writing","mapID":53}
 {"nodeID":7076,"parentID":7075,"text":"Basics","mapID":1839}
 {"nodeID":7637,"parentID":7636,"text":"Tools","mapID":1931}
-{"nodeID":767,"parentID":765,"text":"Super-resolution imaging  ️","mapID":212}
+{"nodeID":767,"parentID":765,"text":"Super resolution imaging","mapID":212}
 {"nodeID":5445,"parentID":5444,"text":"Basics","mapID":1495}
 {"nodeID":7244,"parentID":7243,"text":"Gecko","mapID":1863}
 {"nodeID":7371,"parentID":7362,"text":"Frameworks","mapID":1882}
@@ -2379,7 +2380,7 @@
 {"nodeID":2740,"parentID":2738,"text":"Basics","mapID":756}
 {"nodeID":4661,"parentID":4660,"text":"Basics","mapID":1290}
 {"nodeID":6465,"parentID":null,"text":"Salesforce","mapID":1711}
-{"nodeID":3615,"parentID":null,"text":"First-order logic","mapID":1006}
+{"nodeID":3615,"parentID":null,"text":"First order logic","mapID":1006}
 {"nodeID":3672,"parentID":3671,"text":"Automated theorem proving  ️","mapID":1027}
 {"nodeID":323,"parentID":null,"text":"Botany","mapID":91}
 {"nodeID":3614,"parentID":3612,"text":"Set theory  ️","mapID":1005}
@@ -2455,7 +2456,7 @@
 {"nodeID":1430,"parentID":null,"text":"Apache hadoop","mapID":391}
 {"nodeID":221,"parentID":null,"text":"Art","mapID":67}
 {"nodeID":1952,"parentID":null,"text":"Semiconductor devices","mapID":530}
-{"nodeID":3881,"parentID":null,"text":"P-value","mapID":1083}
+{"nodeID":3881,"parentID":null,"text":"P value","mapID":1083}
 {"nodeID":4489,"parentID":4488,"text":"Lucid dreaming  ️","mapID":1258}
 {"nodeID":940,"parentID":938,"text":"Basics","mapID":260}
 {"nodeID":4964,"parentID":4963,"text":"Buddhism  ️","mapID":1359}
@@ -2470,14 +2471,14 @@
 {"nodeID":2603,"parentID":null,"text":"Arabic","mapID":717}
 {"nodeID":2381,"parentID":2380,"text":"Supersampling  ️","mapID":654}
 {"nodeID":5549,"parentID":null,"text":"Fields","mapID":1532}
-{"nodeID":2380,"parentID":2379,"text":"Spatial anti-aliasing","mapID":654}
+{"nodeID":2380,"parentID":2379,"text":"Spatial anti aliasing","mapID":654}
 {"nodeID":2530,"parentID":2526,"text":"Articles","mapID":696}
 {"nodeID":6048,"parentID":6046,"text":"Help","mapID":1650}
 {"nodeID":6165,"parentID":6160,"text":"Elm  ️","mapID":1668}
 {"nodeID":649,"parentID":648,"text":"Basics","mapID":181}
 {"nodeID":7472,"parentID":7471,"text":"Basics","mapID":1899}
 {"nodeID":5131,"parentID":null,"text":"Computational physics","mapID":1406}
-{"nodeID":2398,"parentID":2394,"text":"Nyqust-Shannon sampling theorem  ️","mapID":658}
+{"nodeID":2398,"parentID":2394,"text":"Nyqust Shannon sampling theorem","mapID":658}
 {"nodeID":6704,"parentID":null,"text":"Rorschach test","mapID":1760}
 {"nodeID":3022,"parentID":3021,"text":"Basics","mapID":831}
 {"nodeID":460,"parentID":459,"text":"Basics","mapID":138}
@@ -2815,7 +2816,7 @@
 {"nodeID":7068,"parentID":7066,"text":"Earth","mapID":1838}
 {"nodeID":6395,"parentID":6393,"text":"Articles","mapID":1687}
 {"nodeID":7041,"parentID":7038,"text":"Help","mapID":1830}
-{"nodeID":1237,"parentID":1236,"text":"Short-circuit evaluation","mapID":341}
+{"nodeID":1237,"parentID":1236,"text":"Short circuit evaluation","mapID":341}
 {"nodeID":3142,"parentID":3137,"text":"Help","mapID":863}
 {"nodeID":183,"parentID":176,"text":"Song writing  ️","mapID":55}
 {"nodeID":1800,"parentID":1799,"text":"Basics","mapID":487}
@@ -2840,7 +2841,7 @@
 {"nodeID":3462,"parentID":3461,"text":"Basics","mapID":962}
 {"nodeID":3834,"parentID":3833,"text":"Cardinal numbers  ️","mapID":1068}
 {"nodeID":3036,"parentID":3032,"text":"Universal algebra","mapID":835}
-{"nodeID":1113,"parentID":null,"text":"Np-completeness","mapID":307}
+{"nodeID":1113,"parentID":null,"text":"Np completeness","mapID":307}
 {"nodeID":5932,"parentID":5929,"text":"Concurrent programming","mapID":1625}
 {"nodeID":5733,"parentID":5732,"text":"Help","mapID":1574}
 {"nodeID":7089,"parentID":7088,"text":"Videos","mapID":1843}
@@ -2880,7 +2881,7 @@
 {"nodeID":5395,"parentID":null,"text":"Crystallography","mapID":1481}
 {"nodeID":1196,"parentID":null,"text":"Stack (abstract data type)","mapID":334}
 {"nodeID":7181,"parentID":7180,"text":"Extensions","mapID":1861}
-{"nodeID":6135,"parentID":6134,"text":"Multi-paradigm","mapID":1668}
+{"nodeID":6135,"parentID":6134,"text":"Multi paradigm","mapID":1668}
 {"nodeID":291,"parentID":null,"text":"Lungs","mapID":81}
 {"nodeID":1079,"parentID":1074,"text":"Continuation  ️","mapID":296}
 {"nodeID":5651,"parentID":null,"text":"Physics","mapID":1559}
@@ -3073,7 +3074,7 @@
 {"nodeID":4079,"parentID":4078,"text":"Basics","mapID":1141}
 {"nodeID":3920,"parentID":null,"text":"Markov chains","mapID":1097}
 {"nodeID":3979,"parentID":null,"text":"Simple random sampling","mapID":1115}
-{"nodeID":2762,"parentID":null,"text":"Scikit-learn","mapID":765}
+{"nodeID":2762,"parentID":null,"text":"Scikit learn","mapID":765}
 {"nodeID":4403,"parentID":4402,"text":"Help","mapID":1235}
 {"nodeID":1611,"parentID":null,"text":"Typeface","mapID":440}
 {"nodeID":6177,"parentID":6172,"text":"Elm  ️","mapID":1668}
@@ -3121,7 +3122,7 @@
 {"nodeID":155,"parentID":null,"text":"Music production","mapID":48}
 {"nodeID":138,"parentID":132,"text":"Synthesiser  ️","mapID":42}
 {"nodeID":1624,"parentID":1619,"text":"Help","mapID":442}
-{"nodeID":2585,"parentID":null,"text":"Context-free grammar","mapID":711}
+{"nodeID":2585,"parentID":null,"text":"Context free grammar","mapID":711}
 {"nodeID":2285,"parentID":2283,"text":"Basics","mapID":626}
 {"nodeID":6669,"parentID":6665,"text":"Reverse engineering  ️","mapID":1751}
 {"nodeID":6917,"parentID":6895,"text":"I3","mapID":1799}
@@ -3205,7 +3206,7 @@
 {"nodeID":4249,"parentID":4248,"text":"Startups  ️","mapID":1181}
 {"nodeID":2213,"parentID":null,"text":"Meditation","mapID":606}
 {"nodeID":128,"parentID":127,"text":"Basics","mapID":40}
-{"nodeID":4357,"parentID":null,"text":"Remote Authentication Dial-In User Service","mapID":1223}
+{"nodeID":4357,"parentID":null,"text":"Remote Authentication Dial In User Service","mapID":1223}
 {"nodeID":2192,"parentID":2191,"text":"Help","mapID":599}
 {"nodeID":4965,"parentID":4963,"text":"Paganism  ️","mapID":1359}
 {"nodeID":480,"parentID":null,"text":"Analytical chemistry","mapID":139}
@@ -3222,7 +3223,7 @@
 {"nodeID":202,"parentID":201,"text":"Basics","mapID":61}
 {"nodeID":4692,"parentID":4668,"text":"CoreOS  ️","mapID":1293}
 {"nodeID":6994,"parentID":6992,"text":"Help","mapID":1820}
-{"nodeID":1422,"parentID":null,"text":"K-means clustering","mapID":388}
+{"nodeID":1422,"parentID":null,"text":"K means clustering","mapID":388}
 {"nodeID":6991,"parentID":6990,"text":"Vim plugins","mapID":1819}
 {"nodeID":4985,"parentID":4983,"text":"Hedonism","mapID":1365}
 {"nodeID":6673,"parentID":6665,"text":"Programming interview preparation  ️","mapID":1751}
@@ -3261,7 +3262,7 @@
 {"nodeID":511,"parentID":506,"text":"Hydrogen  ️","mapID":148}
 {"nodeID":95,"parentID":94,"text":"Concept art  ️","mapID":28}
 {"nodeID":6556,"parentID":null,"text":"Formal methods","mapID":1726}
-{"nodeID":1105,"parentID":null,"text":"Finite-state machine","mapID":304}
+{"nodeID":1105,"parentID":null,"text":"Finite state machine","mapID":304}
 {"nodeID":1323,"parentID":1322,"text":"Articles","mapID":360}
 {"nodeID":4611,"parentID":4610,"text":"Realm","mapID":1281}
 {"nodeID":3077,"parentID":3076,"text":"Basics","mapID":848}
@@ -3329,7 +3330,7 @@
 {"nodeID":1570,"parentID":1569,"text":"Tools","mapID":429}
 {"nodeID":6387,"parentID":6381,"text":"Reactive programming  ️","mapID":1686}
 {"nodeID":2459,"parentID":2458,"text":"Basics","mapID":676}
-{"nodeID":5140,"parentID":5139,"text":"Solid-state physics  ️","mapID":1409}
+{"nodeID":5140,"parentID":5139,"text":"Solid state physics","mapID":1409}
 {"nodeID":7253,"parentID":7252,"text":"Brave","mapID":1863}
 {"nodeID":5895,"parentID":5893,"text":"Help","mapID":1617}
 {"nodeID":340,"parentID":339,"text":"Basics","mapID":98}
@@ -3367,7 +3368,7 @@
 {"nodeID":7026,"parentID":7019,"text":"Development environment  ️","mapID":1826}
 {"nodeID":6138,"parentID":6135,"text":"Javascript  ️","mapID":1668}
 {"nodeID":3567,"parentID":null,"text":"Inner product space","mapID":992}
-{"nodeID":6416,"parentID":6415,"text":"Model-view-controller  ️","mapID":1694}
+{"nodeID":6416,"parentID":6415,"text":"Model view controller","mapID":1694}
 {"nodeID":9,"parentID":null,"text":"Space architecture","mapID":3}
 {"nodeID":6707,"parentID":6706,"text":"Basics","mapID":1761}
 {"nodeID":838,"parentID":836,"text":"Basics","mapID":234}
@@ -3444,7 +3445,7 @@
 {"nodeID":5455,"parentID":5454,"text":"Basics","mapID":1499}
 {"nodeID":2897,"parentID":null,"text":"Boosting","mapID":798}
 {"nodeID":7501,"parentID":7500,"text":"Help","mapID":1907}
-{"nodeID":5200,"parentID":null,"text":"Black-body radiation","mapID":1429}
+{"nodeID":5200,"parentID":null,"text":"Black body radiation","mapID":1429}
 {"nodeID":5884,"parentID":null,"text":"Flow","mapID":1615}
 {"nodeID":2090,"parentID":2089,"text":"Game engines  ️","mapID":562}
 {"nodeID":4188,"parentID":null,"text":"Parkinson's disease","mapID":1165}
@@ -3603,7 +3604,7 @@
 {"nodeID":872,"parentID":871,"text":"Basics","mapID":241}
 {"nodeID":4187,"parentID":4186,"text":"Basics","mapID":1164}
 {"nodeID":7461,"parentID":7459,"text":"Basics","mapID":1895}
-{"nodeID":3470,"parentID":3469,"text":"3-spheres  ️","mapID":965}
+{"nodeID":3470,"parentID":3469,"text":"3 spheres ","mapID":965}
 {"nodeID":3266,"parentID":null,"text":"Power series","mapID":904}
 {"nodeID":6701,"parentID":6698,"text":"Leadership  ️","mapID":1758}
 {"nodeID":1546,"parentID":null,"text":"Material design","mapID":422}
@@ -3713,7 +3714,7 @@
 {"nodeID":3168,"parentID":3167,"text":"Basics","mapID":873}
 {"nodeID":6091,"parentID":6080,"text":"SceneKit","mapID":1660}
 {"nodeID":547,"parentID":546,"text":"Basics","mapID":160}
-{"nodeID":571,"parentID":570,"text":"5-MeO-DMT","mapID":164}
+{"nodeID":571,"parentID":570,"text":"5 MeO DMT","mapID":164}
 {"nodeID":3709,"parentID":null,"text":"Prisoner’s dilemma","mapID":1031}
 {"nodeID":3791,"parentID":3790,"text":"Basics","mapID":1057}
 {"nodeID":2932,"parentID":2931,"text":"Articles","mapID":804}
@@ -3861,9 +3862,9 @@
 {"nodeID":5424,"parentID":5423,"text":"Basics","mapID":1491}
 {"nodeID":5446,"parentID":null,"text":"Nuclear chain reactions","mapID":1496}
 {"nodeID":1635,"parentID":1632,"text":"Typography  ️","mapID":444}
-{"nodeID":4810,"parentID":4808,"text":"Post-structuralism","mapID":1319}
+{"nodeID":4810,"parentID":4808,"text":"Post structuralism","mapID":1319}
 {"nodeID":6896,"parentID":6895,"text":"Command line tools  ️","mapID":1799}
-{"nodeID":1120,"parentID":1119,"text":"NP-completeness  ️","mapID":309}
+{"nodeID":1120,"parentID":1119,"text":"NP completeness","mapID":309}
 {"nodeID":1829,"parentID":null,"text":"Currency","mapID":497}
 {"nodeID":5525,"parentID":5519,"text":"Supersymmetry  ️","mapID":1521}
 {"nodeID":6273,"parentID":6272,"text":"Typescript  ️","mapID":1668}
@@ -3875,7 +3876,7 @@
 {"nodeID":2852,"parentID":2849,"text":"Bidirectional recurrent neural networks","mapID":786}
 {"nodeID":1585,"parentID":1583,"text":"Help","mapID":432}
 {"nodeID":2705,"parentID":2704,"text":"Basics","mapID":749}
-{"nodeID":3638,"parentID":3637,"text":"Curry-Howard correspondence  ️","mapID":1015}
+{"nodeID":3638,"parentID":3637,"text":"Curry Howard correspondence","mapID":1015}
 {"nodeID":4370,"parentID":null,"text":"WebRTC","mapID":1228}
 {"nodeID":3288,"parentID":3287,"text":"Basics","mapID":909}
 {"nodeID":4153,"parentID":4151,"text":"Category theory  ️","mapID":1154}
@@ -3930,7 +3931,7 @@
 {"nodeID":4081,"parentID":4080,"text":"Basics","mapID":1142}
 {"nodeID":4004,"parentID":null,"text":"Gaussian process","mapID":1122}
 {"nodeID":5635,"parentID":5634,"text":"Basics","mapID":1554}
-{"nodeID":3095,"parentID":3086,"text":"Complex-valued function","mapID":850}
+{"nodeID":3095,"parentID":3086,"text":"Complex valued function","mapID":850}
 {"nodeID":4021,"parentID":4014,"text":"Gaussian mixture model  ️","mapID":1127}
 {"nodeID":2520,"parentID":2517,"text":"Articles","mapID":692}
 {"nodeID":4009,"parentID":4008,"text":"Basics","mapID":1124}
@@ -4142,7 +4143,7 @@
 {"nodeID":6103,"parentID":6099,"text":"RxSwift  ️","mapID":1663}
 {"nodeID":3124,"parentID":null,"text":"Euler’s identity","mapID":858}
 {"nodeID":1364,"parentID":1362,"text":"Help","mapID":370}
-{"nodeID":3189,"parentID":3182,"text":"Space-filling curve  ️","mapID":878}
+{"nodeID":3189,"parentID":3182,"text":"Space filling curve","mapID":878}
 {"nodeID":6712,"parentID":6711,"text":"Basics","mapID":1763}
 {"nodeID":2165,"parentID":2164,"text":"Basics","mapID":587}
 {"nodeID":1533,"parentID":1531,"text":"NoSQL databases  ️","mapID":418}
@@ -4262,6 +4263,7 @@
 {"nodeID":1834,"parentID":null,"text":"Money","mapID":499}
 {"nodeID":975,"parentID":null,"text":"Monte Carlo tree search","mapID":273}
 {"nodeID":796,"parentID":null,"text":"Marching cubes","mapID":223}
+{"nodeID":7670,"parentID":4042,"text":"Computational Techniques","mapID":1130}
 {"nodeID":5307,"parentID":5303,"text":"Starch","mapID":1459}
 {"nodeID":5717,"parentID":5716,"text":"Front end  ️","mapID":1570}
 {"nodeID":5650,"parentID":5649,"text":"Time travel  ️","mapID":1558}
@@ -4334,7 +4336,7 @@
 {"nodeID":1713,"parentID":1712,"text":"Mastodon","mapID":462}
 {"nodeID":6681,"parentID":6665,"text":"Mobile applications development  ️","mapID":1751}
 {"nodeID":5853,"parentID":5851,"text":"Help","mapID":1608}
-{"nodeID":3819,"parentID":3816,"text":"Low-discrepancy sequence","mapID":1063}
+{"nodeID":3819,"parentID":3816,"text":"Low discrepancy sequence","mapID":1063}
 {"nodeID":2504,"parentID":null,"text":"Woodworking","mapID":687}
 {"nodeID":2474,"parentID":2473,"text":"Human rights  ️","mapID":680}
 {"nodeID":569,"parentID":556,"text":"Tryptamines","mapID":164}
@@ -4344,7 +4346,7 @@
 {"nodeID":7178,"parentID":7175,"text":"Basics","mapID":1860}
 {"nodeID":2548,"parentID":2545,"text":"Help","mapID":702}
 {"nodeID":1236,"parentID":null,"text":"Evaluation strategies","mapID":341}
-{"nodeID":2069,"parentID":2068,"text":"Pico-8","mapID":555}
+{"nodeID":2069,"parentID":2068,"text":"Pico 8","mapID":555}
 {"nodeID":7103,"parentID":7102,"text":"Astronomy  ️","mapID":1846}
 {"nodeID":6137,"parentID":6135,"text":"Java  ️","mapID":1668}
 {"nodeID":655,"parentID":null,"text":"Happiness","mapID":184}
@@ -4397,7 +4399,7 @@
 {"nodeID":7233,"parentID":7232,"text":"Microsoft edge","mapID":1863}
 {"nodeID":5796,"parentID":5791,"text":"Help","mapID":1592}
 {"nodeID":4236,"parentID":4230,"text":"Symptoms  ️","mapID":1180}
-{"nodeID":1426,"parentID":1425,"text":"K-means clustering  ️","mapID":389}
+{"nodeID":1426,"parentID":1425,"text":"K means clustering","mapID":389}
 {"nodeID":4327,"parentID":4326,"text":"Basics","mapID":1213}
 {"nodeID":6,"parentID":null,"text":"Anthropology","mapID":2}
 {"nodeID":6983,"parentID":6981,"text":"Articles","mapID":1817}
@@ -4415,7 +4417,7 @@
 {"nodeID":6859,"parentID":null,"text":"JHipster","mapID":1795}
 {"nodeID":1914,"parentID":1913,"text":"Basics","mapID":518}
 {"nodeID":1729,"parentID":1726,"text":"Youtube","mapID":463}
-{"nodeID":2578,"parentID":null,"text":"Part-of-speech tagging","mapID":708}
+{"nodeID":2578,"parentID":null,"text":"Part of speech tagging","mapID":708}
 {"nodeID":5261,"parentID":5260,"text":"Basics","mapID":1447}
 {"nodeID":5569,"parentID":null,"text":"Quantum gravity","mapID":1537}
 {"nodeID":4206,"parentID":4205,"text":"Help","mapID":1172}
@@ -4425,7 +4427,7 @@
 {"nodeID":630,"parentID":629,"text":"Help","mapID":179}
 {"nodeID":4208,"parentID":4207,"text":"Basics","mapID":1173}
 {"nodeID":46,"parentID":null,"text":"Pixel art","mapID":16}
-{"nodeID":3382,"parentID":3381,"text":"N-body simulation  ️","mapID":935}
+{"nodeID":3382,"parentID":3381,"text":"N body simulation","mapID":935}
 {"nodeID":5189,"parentID":null,"text":"Electric charge","mapID":1425}
 {"nodeID":3593,"parentID":null,"text":"Linear algebra","mapID":999}
 {"nodeID":1377,"parentID":1376,"text":"Basics","mapID":375}
@@ -4463,7 +4465,7 @@
 {"nodeID":4068,"parentID":4067,"text":"Symplectic geometry  ️","mapID":1136}
 {"nodeID":1940,"parentID":1938,"text":"VHDL  ️","mapID":527}
 {"nodeID":5321,"parentID":null,"text":"Genomics","mapID":1463}
-{"nodeID":1359,"parentID":1358,"text":"SHA-1  ️","mapID":368}
+{"nodeID":1359,"parentID":1358,"text":"SHA 1","mapID":368}
 {"nodeID":3776,"parentID":3769,"text":"Ratios  ️","mapID":1053}
 {"nodeID":4292,"parentID":4291,"text":"Implementations","mapID":1203}
 {"nodeID":3566,"parentID":3565,"text":"Basics","mapID":991}
@@ -4543,7 +4545,7 @@
 {"nodeID":1664,"parentID":1663,"text":"Nginx  ️","mapID":447}
 {"nodeID":5421,"parentID":5420,"text":"Basics","mapID":1490}
 {"nodeID":7004,"parentID":7003,"text":"Interesting extensions","mapID":1822}
-{"nodeID":3106,"parentID":3104,"text":"Cauchy-Schwarz inequality  ️","mapID":854}
+{"nodeID":3106,"parentID":3104,"text":"Cauchy Schwarz inequality","mapID":854}
 {"nodeID":2495,"parentID":2494,"text":"Help","mapID":683}
 {"nodeID":3354,"parentID":3353,"text":"Basics","mapID":927}
 {"nodeID":2679,"parentID":2664,"text":"Greek  ️","mapID":742}
@@ -4585,7 +4587,7 @@
 {"nodeID":685,"parentID":684,"text":"Help","mapID":193}
 {"nodeID":5677,"parentID":5676,"text":"Interesting","mapID":1559}
 {"nodeID":7018,"parentID":null,"text":"Dev","mapID":1825}
-{"nodeID":1207,"parentID":1206,"text":"Red-black tree  ️","mapID":336}
+{"nodeID":1207,"parentID":1206,"text":"Red black tree","mapID":336}
 {"nodeID":5144,"parentID":5143,"text":"Cnoidal waves","mapID":1410}
 {"nodeID":4331,"parentID":4326,"text":"Articles","mapID":1213}
 {"nodeID":6557,"parentID":6556,"text":"Basics","mapID":1726}
@@ -4607,7 +4609,7 @@
 {"nodeID":1012,"parentID":1011,"text":"Quicksort  ️","mapID":282}
 {"nodeID":1486,"parentID":1484,"text":"Help","mapID":405}
 {"nodeID":6888,"parentID":6875,"text":"Messaging  ️","mapID":1799}
-{"nodeID":1768,"parentID":null,"text":"E-commerce","mapID":476}
+{"nodeID":1768,"parentID":null,"text":"E commerce","mapID":476}
 {"nodeID":3433,"parentID":3432,"text":"Basics","mapID":952}
 {"nodeID":7388,"parentID":7362,"text":"Web components  ️","mapID":1882}
 {"nodeID":2052,"parentID":2051,"text":"Solar panels  ️","mapID":552}
@@ -4624,7 +4626,7 @@
 {"nodeID":3257,"parentID":null,"text":"Cantor set","mapID":901}
 {"nodeID":5081,"parentID":null,"text":"Total internal reflection","mapID":1396}
 {"nodeID":3041,"parentID":null,"text":"Boolean algebra","mapID":836}
-{"nodeID":3179,"parentID":null,"text":"Space-filling curve","mapID":877}
+{"nodeID":3179,"parentID":null,"text":"Space filling curve","mapID":877}
 {"nodeID":3407,"parentID":3406,"text":"Basics","mapID":944}
 {"nodeID":1166,"parentID":null,"text":"Hash tables","mapID":322}
 {"nodeID":3650,"parentID":null,"text":"Temporal logic","mapID":1021}
@@ -4655,7 +4657,7 @@
 {"nodeID":4993,"parentID":4991,"text":"Ethics  ️","mapID":1366}
 {"nodeID":3546,"parentID":null,"text":"Matrix transpose","mapID":985}
 {"nodeID":3995,"parentID":3992,"text":"Systematic sampling  ️","mapID":1118}
-{"nodeID":7283,"parentID":7282,"text":"Built-in solutions","mapID":1866}
+{"nodeID":7283,"parentID":7282,"text":"Built in solutions","mapID":1866}
 {"nodeID":1755,"parentID":1754,"text":"Supply chain management  ️","mapID":472}
 {"nodeID":20,"parentID":null,"text":"Motion graphics","mapID":7}
 {"nodeID":416,"parentID":415,"text":"Hydroponics  ️","mapID":124}
@@ -4666,7 +4668,7 @@
 {"nodeID":1578,"parentID":1573,"text":"Articles","mapID":430}
 {"nodeID":690,"parentID":689,"text":"Research  ️","mapID":193}
 {"nodeID":7488,"parentID":7487,"text":"Help","mapID":1905}
-{"nodeID":7118,"parentID":7116,"text":"A-Frame  ️","mapID":1851}
+{"nodeID":7118,"parentID":7116,"text":"A Frame","mapID":1851}
 {"nodeID":5969,"parentID":5968,"text":"Basics","mapID":1634}
 {"nodeID":6037,"parentID":6036,"text":"Byebug","mapID":1649}
 {"nodeID":3088,"parentID":3086,"text":"Transformations  ️","mapID":850}
@@ -4738,7 +4740,7 @@
 {"nodeID":3586,"parentID":3585,"text":"Basics","mapID":998}
 {"nodeID":5537,"parentID":null,"text":"Quantum entanglement","mapID":1526}
 {"nodeID":1074,"parentID":null,"text":"Control flow","mapID":296}
-{"nodeID":2334,"parentID":null,"text":"Solid-state drives","mapID":641}
+{"nodeID":2334,"parentID":null,"text":"Solid state drives","mapID":641}
 {"nodeID":3983,"parentID":null,"text":"Systematic sampling","mapID":1117}
 {"nodeID":1434,"parentID":1433,"text":"Help","mapID":392}
 {"nodeID":5174,"parentID":5173,"text":"Electromotive force  ️","mapID":1421}
@@ -4753,7 +4755,7 @@
 {"nodeID":1030,"parentID":1018,"text":"Procedural generation  ️","mapID":283}
 {"nodeID":6765,"parentID":6764,"text":"Malware  ️","mapID":1776}
 {"nodeID":5036,"parentID":null,"text":"Mechanical equilibrium","mapID":1378}
-{"nodeID":3425,"parentID":3422,"text":"Two-dimensional space","mapID":949}
+{"nodeID":3425,"parentID":3422,"text":"Two dimensional space","mapID":949}
 {"nodeID":7441,"parentID":null,"text":"Cycle.js","mapID":1888}
 {"nodeID":4967,"parentID":null,"text":"Spirituality","mapID":1360}
 {"nodeID":3549,"parentID":3548,"text":"Basics","mapID":986}
@@ -4778,7 +4780,7 @@
 {"nodeID":1152,"parentID":1148,"text":"Interesting","mapID":315}
 {"nodeID":2050,"parentID":2049,"text":"Basics","mapID":551}
 {"nodeID":2204,"parentID":null,"text":"Procrastination","mapID":602}
-{"nodeID":969,"parentID":null,"text":"Breadth-first search","mapID":270}
+{"nodeID":969,"parentID":null,"text":"Breadth first search","mapID":270}
 {"nodeID":3002,"parentID":3001,"text":"Basics","mapID":825}
 {"nodeID":3300,"parentID":3295,"text":"Vector calculus  ️","mapID":911}
 {"nodeID":7134,"parentID":7133,"text":"Npm  ️","mapID":1855}
@@ -4991,7 +4993,7 @@
 {"nodeID":6734,"parentID":6733,"text":"Password cracking  ️","mapID":1766}
 {"nodeID":1402,"parentID":1401,"text":"Predictive analytics  ️","mapID":382}
 {"nodeID":4691,"parentID":4668,"text":"Stali","mapID":1293}
-{"nodeID":1355,"parentID":null,"text":"SHA-1","mapID":367}
+{"nodeID":1355,"parentID":null,"text":"SHA 1","mapID":367}
 {"nodeID":574,"parentID":573,"text":"Microdosing  ️","mapID":164}
 {"nodeID":5054,"parentID":null,"text":"Principle of least action","mapID":1385}
 {"nodeID":2972,"parentID":2971,"text":"Basics","mapID":816}
@@ -5015,7 +5017,7 @@
 {"nodeID":6516,"parentID":6513,"text":"Puppet  ️","mapID":1723}
 {"nodeID":3682,"parentID":3681,"text":"Tarski’s undefinability theorem","mapID":1027}
 {"nodeID":1730,"parentID":1726,"text":"Nest labs","mapID":463}
-{"nodeID":3892,"parentID":null,"text":"One-way analysis of variance","mapID":1088}
+{"nodeID":3892,"parentID":null,"text":"One way analysis of variance","mapID":1088}
 {"nodeID":3242,"parentID":3237,"text":"Line integrals  ️","mapID":895}
 {"nodeID":365,"parentID":364,"text":"Basics","mapID":106}
 {"nodeID":6068,"parentID":6067,"text":"Basics","mapID":1656}
@@ -5041,7 +5043,7 @@
 {"nodeID":1165,"parentID":1164,"text":"Basics","mapID":321}
 {"nodeID":2405,"parentID":null,"text":"Information theory","mapID":661}
 {"nodeID":4602,"parentID":4601,"text":"DispatchQueue","mapID":1281}
-{"nodeID":1143,"parentID":null,"text":"Pi-calculus","mapID":313}
+{"nodeID":1143,"parentID":null,"text":"Pi calculus","mapID":313}
 {"nodeID":4961,"parentID":4960,"text":"Basics","mapID":1358}
 {"nodeID":236,"parentID":235,"text":"Articles","mapID":67}
 {"nodeID":5408,"parentID":null,"text":"Molecular nanotechnology","mapID":1486}
@@ -5125,7 +5127,7 @@
 {"nodeID":3185,"parentID":3182,"text":"Numerical analysis  ️","mapID":878}
 {"nodeID":7031,"parentID":null,"text":"Software","mapID":1828}
 {"nodeID":464,"parentID":463,"text":"Evolution  ️","mapID":138}
-{"nodeID":3377,"parentID":3376,"text":"Barnes-Hut simulation  ️","mapID":933}
+{"nodeID":3377,"parentID":3376,"text":"Barnes Hut simulation","mapID":933}
 {"nodeID":1401,"parentID":1400,"text":"Basics","mapID":382}
 {"nodeID":4550,"parentID":4546,"text":"Synapses  ️","mapID":1274}
 {"nodeID":3526,"parentID":null,"text":"Spectral theory","mapID":976}
@@ -5196,7 +5198,7 @@
 {"nodeID":5989,"parentID":5988,"text":"Async","mapID":1642}
 {"nodeID":2202,"parentID":2201,"text":"Veganism  ️","mapID":601}
 {"nodeID":2288,"parentID":2287,"text":"Terrorism  ️","mapID":627}
-{"nodeID":1641,"parentID":1632,"text":"Computer-aided design  ️","mapID":444}
+{"nodeID":1641,"parentID":1632,"text":"Computer aided design","mapID":444}
 {"nodeID":4239,"parentID":4238,"text":"Find new blogs","mapID":1181}
 {"nodeID":4132,"parentID":4127,"text":"Polymorphism  ️","mapID":1153}
 {"nodeID":589,"parentID":null,"text":"Amphetamines","mapID":166}
@@ -5245,7 +5247,7 @@
 {"nodeID":6819,"parentID":6817,"text":"Privacy  ️","mapID":1783}
 {"nodeID":4225,"parentID":null,"text":"Pain","mapID":1178}
 {"nodeID":6751,"parentID":6750,"text":"Basics","mapID":1771}
-{"nodeID":2926,"parentID":2915,"text":"Multi-task learning  ️","mapID":803}
+{"nodeID":2926,"parentID":2915,"text":"Multi task learning","mapID":803}
 {"nodeID":754,"parentID":null,"text":"Bezier curve","mapID":208}
 {"nodeID":177,"parentID":176,"text":"Instruments  ️","mapID":55}
 {"nodeID":2472,"parentID":2470,"text":"Human rights watch","mapID":679}
@@ -5257,7 +5259,7 @@
 {"nodeID":2713,"parentID":2705,"text":"Semantics  ️","mapID":749}
 {"nodeID":450,"parentID":449,"text":"Birds  ️","mapID":136}
 {"nodeID":6363,"parentID":6362,"text":"Basics","mapID":1679}
-{"nodeID":1977,"parentID":1973,"text":"Solid-state electronics","mapID":535}
+{"nodeID":1977,"parentID":1973,"text":"Solid state electronics","mapID":535}
 {"nodeID":6670,"parentID":6665,"text":"Programming languages  ️","mapID":1751}
 {"nodeID":579,"parentID":578,"text":"Mescaline  ️","mapID":164}
 {"nodeID":5493,"parentID":null,"text":"Elementary particles","mapID":1514}
@@ -5265,7 +5267,7 @@
 {"nodeID":3464,"parentID":3463,"text":"Basics","mapID":963}
 {"nodeID":2574,"parentID":null,"text":"Computational linguistics","mapID":707}
 {"nodeID":3298,"parentID":3297,"text":"Integration  ️","mapID":911}
-{"nodeID":4029,"parentID":4028,"text":"P-value  ️","mapID":1128}
+{"nodeID":4029,"parentID":4028,"text":"P value","mapID":1128}
 {"nodeID":7580,"parentID":7579,"text":"Basics","mapID":1916}
 {"nodeID":2631,"parentID":null,"text":"Irish language","mapID":729}
 {"nodeID":2735,"parentID":2728,"text":"Applications","mapID":755}
@@ -5280,9 +5282,9 @@
 {"nodeID":6149,"parentID":6144,"text":"Elm  ️","mapID":1668}
 {"nodeID":4445,"parentID":null,"text":"Frontal lobe","mapID":1245}
 {"nodeID":5565,"parentID":5564,"text":"Talks","mapID":1535}
-{"nodeID":1043,"parentID":null,"text":"Just-in-time compilation","mapID":287}
+{"nodeID":1043,"parentID":null,"text":"Just in time compilation","mapID":287}
 {"nodeID":1247,"parentID":1246,"text":"Basics","mapID":344}
-{"nodeID":3152,"parentID":3151,"text":"Short-time Fourier transform  ️","mapID":867}
+{"nodeID":3152,"parentID":3151,"text":"Short time Fourier transform","mapID":867}
 {"nodeID":281,"parentID":null,"text":"Stomach","mapID":78}
 {"nodeID":2934,"parentID":null,"text":"Management","mapID":805}
 {"nodeID":3413,"parentID":null,"text":"Polyhedrons","mapID":947}
@@ -5333,7 +5335,7 @@
 {"nodeID":5776,"parentID":5775,"text":"Help","mapID":1586}
 {"nodeID":2441,"parentID":null,"text":"Marxism","mapID":673}
 {"nodeID":7029,"parentID":7019,"text":"Web tools  ️","mapID":1826}
-{"nodeID":1329,"parentID":1324,"text":"One-shot learning  ️","mapID":360}
+{"nodeID":1329,"parentID":1324,"text":"One shot learning","mapID":360}
 {"nodeID":763,"parentID":761,"text":"Interesting","mapID":211}
 {"nodeID":2455,"parentID":null,"text":"Politics","mapID":675}
 {"nodeID":5554,"parentID":null,"text":"Topological quantum field theory","mapID":1534}
@@ -5408,12 +5410,12 @@
 {"nodeID":350,"parentID":348,"text":"GMOs  ️","mapID":101}
 {"nodeID":1693,"parentID":1692,"text":"Geology  ️","mapID":456}
 {"nodeID":1956,"parentID":1955,"text":"Basics","mapID":531}
-{"nodeID":1948,"parentID":1944,"text":"Field-programmable gate array  ️","mapID":528}
-{"nodeID":6757,"parentID":null,"text":"Man-in-the-middle attack","mapID":1774}
+{"nodeID":1948,"parentID":1944,"text":"Field programmable gate array","mapID":528}
+{"nodeID":6757,"parentID":null,"text":"Man in the middle attack","mapID":1774}
 {"nodeID":1006,"parentID":null,"text":"Topological sort","mapID":281}
 {"nodeID":4088,"parentID":null,"text":"Manifolds","mapID":1145}
 {"nodeID":892,"parentID":891,"text":"Interesting","mapID":248}
-{"nodeID":5596,"parentID":null,"text":"Wave-particle duality","mapID":1546}
+{"nodeID":5596,"parentID":null,"text":"Wave particle duality","mapID":1546}
 {"nodeID":5179,"parentID":5176,"text":"Kirchhoff’s circuit laws  ️","mapID":1422}
 {"nodeID":1157,"parentID":null,"text":"Binary heaps","mapID":318}
 {"nodeID":451,"parentID":449,"text":"Amphibians  ️","mapID":136}
@@ -5446,7 +5448,7 @@
 {"nodeID":282,"parentID":281,"text":"Basics","mapID":78}
 {"nodeID":1336,"parentID":null,"text":"Bitcoin","mapID":363}
 {"nodeID":632,"parentID":629,"text":"Basics","mapID":179}
-{"nodeID":2968,"parentID":2963,"text":"Multi-level marketing  ️","mapID":815}
+{"nodeID":2968,"parentID":2963,"text":"Multi level marketing","mapID":815}
 {"nodeID":5172,"parentID":null,"text":"Voltage","mapID":1421}
 {"nodeID":4226,"parentID":4225,"text":"Basics","mapID":1178}
 {"nodeID":2498,"parentID":2497,"text":"Basics","mapID":684}
@@ -5564,7 +5566,7 @@
 {"nodeID":6451,"parentID":null,"text":"Digital ocean","mapID":1707}
 {"nodeID":1853,"parentID":1852,"text":"Interesting","mapID":504}
 {"nodeID":797,"parentID":796,"text":"Basics","mapID":223}
-{"nodeID":979,"parentID":null,"text":"Boyer-Moore string search algorithm","mapID":274}
+{"nodeID":979,"parentID":null,"text":"Boyer Moore string search algorithm","mapID":274}
 {"nodeID":740,"parentID":739,"text":"Help","mapID":204}
 {"nodeID":4277,"parentID":null,"text":"TV series","mapID":1196}
 {"nodeID":2063,"parentID":2062,"text":"Basics","mapID":554}
@@ -5575,7 +5577,7 @@
 {"nodeID":5545,"parentID":null,"text":"Feynman diagrams","mapID":1530}
 {"nodeID":7281,"parentID":7279,"text":"Articles","mapID":1865}
 {"nodeID":4782,"parentID":4781,"text":"Active directory  ️","mapID":1314}
-{"nodeID":2339,"parentID":2336,"text":"Solid-state drives  ️","mapID":642}
+{"nodeID":2339,"parentID":2336,"text":"Solid state drives","mapID":642}
 {"nodeID":7606,"parentID":7604,"text":"Phenomic","mapID":1923}
 {"nodeID":3346,"parentID":null,"text":"Combinatorics","mapID":924}
 {"nodeID":5457,"parentID":5456,"text":"Basics","mapID":1500}
@@ -5654,7 +5656,7 @@
 {"nodeID":3337,"parentID":3335,"text":"Functors  ️","mapID":921}
 {"nodeID":6505,"parentID":null,"text":"Puppet","mapID":1721}
 {"nodeID":5782,"parentID":5781,"text":"Basics","mapID":1587}
-{"nodeID":3465,"parentID":null,"text":"3-spheres","mapID":964}
+{"nodeID":3465,"parentID":null,"text":"3 spheres","mapID":964}
 {"nodeID":3954,"parentID":3952,"text":"Prediction market","mapID":1108}
 {"nodeID":4519,"parentID":null,"text":"Visual system","mapID":1266}
 {"nodeID":3016,"parentID":3014,"text":"Groups  ️","mapID":830}
@@ -5800,7 +5802,7 @@
 {"nodeID":7164,"parentID":7162,"text":"Laravel  ️","mapID":1856}
 {"nodeID":3219,"parentID":3218,"text":"Basics","mapID":887}
 {"nodeID":5376,"parentID":5375,"text":"Basics","mapID":1476}
-{"nodeID":1115,"parentID":null,"text":"NP-hardness","mapID":308}
+{"nodeID":1115,"parentID":null,"text":"NP hardness","mapID":308}
 {"nodeID":5780,"parentID":5779,"text":"Clojurescript  ️","mapID":1586}
 {"nodeID":3632,"parentID":3631,"text":"Reverse polish notation","mapID":1013}
 {"nodeID":1263,"parentID":null,"text":"Tail recursion","mapID":347}
@@ -5820,7 +5822,7 @@
 {"nodeID":4837,"parentID":null,"text":"Veganism","mapID":1325}
 {"nodeID":5259,"parentID":5258,"text":"Basics","mapID":1446}
 {"nodeID":5119,"parentID":5105,"text":"Oscillations  ️","mapID":1402}
-{"nodeID":6768,"parentID":6766,"text":"Man-in-the-middle attack  ️","mapID":1776}
+{"nodeID":6768,"parentID":6766,"text":"Man in the middle attack","mapID":1776}
 {"nodeID":4334,"parentID":4332,"text":"Tools","mapID":1214}
 {"nodeID":5130,"parentID":5128,"text":"Kalman filter  ️","mapID":1405}
 {"nodeID":5511,"parentID":null,"text":"Standard model","mapID":1518}
@@ -5875,7 +5877,7 @@
 {"nodeID":6906,"parentID":6896,"text":"Git  ️","mapID":1799}
 {"nodeID":4203,"parentID":null,"text":"Anxiety disorder","mapID":1171}
 {"nodeID":4763,"parentID":4756,"text":"Elvish","mapID":1309}
-{"nodeID":929,"parentID":928,"text":"Single-board computers","mapID":257}
+{"nodeID":929,"parentID":928,"text":"Single board computers","mapID":257}
 {"nodeID":392,"parentID":391,"text":"Fermentation  ️","mapID":117}
 {"nodeID":4343,"parentID":null,"text":"BitTorrent","mapID":1218}
 {"nodeID":5558,"parentID":5557,"text":"Conformal field theory","mapID":1535}
@@ -6049,7 +6051,7 @@
 {"nodeID":3426,"parentID":3425,"text":"Incidence structures","mapID":949}
 {"nodeID":7127,"parentID":7126,"text":"Basics","mapID":1853}
 {"nodeID":2465,"parentID":2463,"text":"Personal property","mapID":678}
-{"nodeID":5149,"parentID":5148,"text":"Navier-Stokes equations  ️","mapID":1412}
+{"nodeID":5149,"parentID":5148,"text":"Navier Stokes equations","mapID":1412}
 {"nodeID":5104,"parentID":null,"text":"Classical mechanics","mapID":1402}
 {"nodeID":4610,"parentID":4608,"text":"Data persistance","mapID":1281}
 {"nodeID":7022,"parentID":7019,"text":"IDE  ️","mapID":1826}
@@ -6085,7 +6087,7 @@
 {"nodeID":7661,"parentID":7646,"text":"Web API’s  ️","mapID":1934}
 {"nodeID":3368,"parentID":null,"text":"Discrete","mapID":931}
 {"nodeID":6918,"parentID":6895,"text":"Terminator","mapID":1799}
-{"nodeID":5226,"parentID":5222,"text":"Black-body radiation  ️","mapID":1436}
+{"nodeID":5226,"parentID":5222,"text":"Black body radiation","mapID":1436}
 {"nodeID":7568,"parentID":7567,"text":"Mojs  ️","mapID":1912}
 {"nodeID":7092,"parentID":7091,"text":"Universe  ️","mapID":1843}
 {"nodeID":4679,"parentID":4678,"text":"Manjaro","mapID":1293}
@@ -6114,7 +6116,7 @@
 {"nodeID":5029,"parentID":null,"text":"Inertial frame of reference","mapID":1375}
 {"nodeID":1689,"parentID":1688,"text":"Atmosphere  ️","mapID":454}
 {"nodeID":6078,"parentID":6076,"text":"Help","mapID":1659}
-{"nodeID":2800,"parentID":null,"text":"Multi-task learning","mapID":770}
+{"nodeID":2800,"parentID":null,"text":"Multi task learning","mapID":770}
 {"nodeID":5316,"parentID":null,"text":"DNA repair","mapID":1461}
 {"nodeID":3597,"parentID":3595,"text":"Gaussian elimination  ️","mapID":999}
 {"nodeID":5982,"parentID":null,"text":"Scipy","mapID":1640}
@@ -6125,7 +6127,7 @@
 {"nodeID":917,"parentID":915,"text":"GPU  ️","mapID":254}
 {"nodeID":5886,"parentID":5884,"text":"Basics","mapID":1615}
 {"nodeID":5686,"parentID":null,"text":"Competitive programming","mapID":1562}
-{"nodeID":2440,"parentID":2438,"text":"Counter-economics","mapID":672}
+{"nodeID":2440,"parentID":2438,"text":"Counter economics","mapID":672}
 {"nodeID":1891,"parentID":1888,"text":"Help","mapID":510}
 {"nodeID":4186,"parentID":null,"text":"Alzheimer’s disease","mapID":1164}
 {"nodeID":5170,"parentID":null,"text":"Electromotive force","mapID":1420}
@@ -6157,7 +6159,7 @@
 {"nodeID":109,"parentID":108,"text":"Shaolin Kung Fu  ️","mapID":33}
 {"nodeID":4367,"parentID":null,"text":"WebTorrent","mapID":1227}
 {"nodeID":2704,"parentID":null,"text":"Linguistics","mapID":749}
-{"nodeID":3147,"parentID":null,"text":"Short-time Fourier transform","mapID":866}
+{"nodeID":3147,"parentID":null,"text":"Short time Fourier transform","mapID":866}
 {"nodeID":4479,"parentID":4478,"text":"Basics","mapID":1255}
 {"nodeID":4592,"parentID":4586,"text":"Cocoa design patterns","mapID":1281}
 {"nodeID":5507,"parentID":null,"text":"Quasiparticles","mapID":1517}
@@ -6256,7 +6258,7 @@
 {"nodeID":3295,"parentID":3294,"text":"Basics","mapID":911}
 {"nodeID":5649,"parentID":5647,"text":"Basics","mapID":1558}
 {"nodeID":3534,"parentID":3533,"text":"Basics","mapID":979}
-{"nodeID":3686,"parentID":3685,"text":"Many-valued logic  ️","mapID":1027}
+{"nodeID":3686,"parentID":3685,"text":"Many valued logic","mapID":1027}
 {"nodeID":2009,"parentID":2001,"text":"Chemical engineering  ️","mapID":542}
 {"nodeID":2329,"parentID":2328,"text":"Basics","mapID":638}
 {"nodeID":7154,"parentID":7153,"text":"Express  ️","mapID":1856}
@@ -6279,7 +6281,7 @@
 {"nodeID":7666,"parentID":7646,"text":"Content management systems  ️","mapID":1934}
 {"nodeID":5467,"parentID":5464,"text":"Geometrical optics  ️","mapID":1503}
 {"nodeID":5527,"parentID":5519,"text":"Brownian motion  ️","mapID":1521}
-{"nodeID":3611,"parentID":null,"text":"Higher-order logic","mapID":1005}
+{"nodeID":3611,"parentID":null,"text":"Higher order logic","mapID":1005}
 {"nodeID":1656,"parentID":1655,"text":"Help","mapID":446}
 {"nodeID":5328,"parentID":5327,"text":"Genomes  ️","mapID":1465}
 {"nodeID":4034,"parentID":4023,"text":"Multivariate statistics","mapID":1128}
@@ -6341,7 +6343,7 @@
 {"nodeID":6174,"parentID":6172,"text":"Elixir  ️","mapID":1668}
 {"nodeID":6853,"parentID":6849,"text":"Social groups  ️","mapID":1793}
 {"nodeID":5521,"parentID":5519,"text":"String theory  ️","mapID":1521}
-{"nodeID":3857,"parentID":3849,"text":"Banach-Tarski paradox  ️","mapID":1074}
+{"nodeID":3857,"parentID":3849,"text":"Banach Tarski paradox","mapID":1074}
 {"nodeID":2753,"parentID":2752,"text":"Articles","mapID":761}
 {"nodeID":5541,"parentID":null,"text":"Quantum eraser experiment","mapID":1528}
 {"nodeID":723,"parentID":722,"text":"Interesting","mapID":199}
@@ -6372,7 +6374,7 @@
 {"nodeID":4167,"parentID":null,"text":"Anesthesia","mapID":1155}
 {"nodeID":5,"parentID":3,"text":"Help","mapID":1}
 {"nodeID":2655,"parentID":2653,"text":"Help","mapID":738}
-{"nodeID":1147,"parentID":1146,"text":"Pi-calculus  ️","mapID":314}
+{"nodeID":1147,"parentID":1146,"text":"Pi calculus","mapID":314}
 {"nodeID":7603,"parentID":null,"text":"Static web pages","mapID":1923}
 {"nodeID":2277,"parentID":null,"text":"Inventions","mapID":623}
 {"nodeID":4096,"parentID":null,"text":"Topology","mapID":1147}
@@ -6447,7 +6449,7 @@
 {"nodeID":4082,"parentID":null,"text":"Differentiable manifolds","mapID":1143}
 {"nodeID":4307,"parentID":4303,"text":"Word vectors  ️","mapID":1207}
 {"nodeID":237,"parentID":222,"text":"Digital art  ️","mapID":67}
-{"nodeID":6553,"parentID":null,"text":"Domain-driven design","mapID":1725}
+{"nodeID":6553,"parentID":null,"text":"Domain driven design","mapID":1725}
 {"nodeID":6237,"parentID":6236,"text":"Python  ️","mapID":1668}
 {"nodeID":5146,"parentID":5145,"text":"Basics","mapID":1411}
 {"nodeID":5760,"parentID":null,"text":"Powershell","mapID":1582}
@@ -6510,7 +6512,7 @@
 {"nodeID":367,"parentID":366,"text":"Basics","mapID":107}
 {"nodeID":7526,"parentID":7519,"text":"Module bundling","mapID":1912}
 {"nodeID":2920,"parentID":2915,"text":"Adversarial machine learning  ️","mapID":803}
-{"nodeID":3060,"parentID":null,"text":"Higher-order functions","mapID":841}
+{"nodeID":3060,"parentID":null,"text":"Higher order functions","mapID":841}
 {"nodeID":336,"parentID":335,"text":"Basics","mapID":96}
 {"nodeID":819,"parentID":818,"text":"Articles","mapID":229}
 {"nodeID":4751,"parentID":4750,"text":"Basics","mapID":1307}
@@ -6671,7 +6673,7 @@
 {"nodeID":449,"parentID":null,"text":"Animals","mapID":136}
 {"nodeID":1212,"parentID":1204,"text":"Parse trees  ️","mapID":336}
 {"nodeID":90,"parentID":88,"text":"Context free","mapID":26}
-{"nodeID":3912,"parentID":3906,"text":"F-distribution  ️","mapID":1094}
+{"nodeID":3912,"parentID":3906,"text":"F distribution","mapID":1094}
 {"nodeID":564,"parentID":563,"text":"Tryptamines","mapID":164}
 {"nodeID":3352,"parentID":3351,"text":"Basics","mapID":926}
 {"nodeID":6161,"parentID":6160,"text":"Scala  ️","mapID":1668}
@@ -6760,8 +6762,8 @@
 {"nodeID":4665,"parentID":4662,"text":"Talks","mapID":1291}
 {"nodeID":4025,"parentID":4023,"text":"Arithmetic mean  ️","mapID":1128}
 {"nodeID":4776,"parentID":null,"text":"Autohotkey","mapID":1312}
-{"nodeID":2481,"parentID":2476,"text":"BSD-3","mapID":681}
-{"nodeID":3539,"parentID":3538,"text":"Non-negative matrix factorisation  ️","mapID":981}
+{"nodeID":2481,"parentID":2476,"text":"BSD 3","mapID":681}
+{"nodeID":3539,"parentID":3538,"text":"Non negative matrix factorisation","mapID":981}
 {"nodeID":7293,"parentID":null,"text":"Document object model","mapID":1867}
 {"nodeID":3454,"parentID":3453,"text":"Interesting","mapID":959}
 {"nodeID":894,"parentID":893,"text":"Multithreading","mapID":248}
@@ -6785,7 +6787,7 @@
 {"nodeID":5674,"parentID":5652,"text":"Space  ️","mapID":1559}
 {"nodeID":3479,"parentID":3474,"text":"Interesting","mapID":967}
 {"nodeID":6542,"parentID":6540,"text":"IIS","mapID":1723}
-{"nodeID":1376,"parentID":null,"text":"Zero-knowledge proof","mapID":375}
+{"nodeID":1376,"parentID":null,"text":"Zero knowledge proof","mapID":375}
 {"nodeID":1104,"parentID":1102,"text":"Basics","mapID":303}
 {"nodeID":2295,"parentID":null,"text":"History","mapID":629}
 {"nodeID":7521,"parentID":7520,"text":"Vue.js  ️","mapID":1912}
@@ -6852,7 +6854,7 @@
 {"nodeID":4938,"parentID":4937,"text":"Basics","mapID":1351}
 {"nodeID":1183,"parentID":1182,"text":"Basics","mapID":329}
 {"nodeID":5928,"parentID":5927,"text":"Help","mapID":1625}
-{"nodeID":1057,"parentID":1054,"text":"Just-in-time compilation  ️","mapID":291}
+{"nodeID":1057,"parentID":1054,"text":"Just in time compilation","mapID":291}
 {"nodeID":757,"parentID":null,"text":"Computer graphics lighting","mapID":209}
 {"nodeID":15,"parentID":null,"text":"Acting","mapID":5}
 {"nodeID":5878,"parentID":5877,"text":"Tools","mapID":1613}
@@ -6891,7 +6893,7 @@
 {"nodeID":7450,"parentID":null,"text":"Electron","mapID":1891}
 {"nodeID":1623,"parentID":1622,"text":"User research","mapID":442}
 {"nodeID":1221,"parentID":1203,"text":"Queues","mapID":336}
-{"nodeID":1214,"parentID":1203,"text":"Conflict-free replicated data type","mapID":336}
+{"nodeID":1214,"parentID":1203,"text":"Conflict free replicated data type","mapID":336}
 {"nodeID":550,"parentID":549,"text":"Basics","mapID":161}
 {"nodeID":5974,"parentID":null,"text":"Purescript","mapID":1636}
 {"nodeID":4486,"parentID":null,"text":"Sleep","mapID":1258}
@@ -6985,7 +6987,7 @@
 {"nodeID":6858,"parentID":null,"text":"Bots","mapID":1794}
 {"nodeID":6286,"parentID":6284,"text":"Scheme  ️","mapID":1668}
 {"nodeID":1409,"parentID":null,"text":"Time series analysis","mapID":385}
-{"nodeID":3089,"parentID":3086,"text":"Higher-order functions  ️","mapID":850}
+{"nodeID":3089,"parentID":3086,"text":"Higher order functions","mapID":850}
 {"nodeID":3032,"parentID":3031,"text":"Basics","mapID":835}
 {"nodeID":497,"parentID":496,"text":"Basics","mapID":144}
 {"nodeID":665,"parentID":661,"text":"Fear  ️","mapID":186}
@@ -7091,7 +7093,7 @@
 {"nodeID":6882,"parentID":6875,"text":"Docker  ️","mapID":1799}
 {"nodeID":7148,"parentID":null,"text":"Backend development ","mapID":1856}
 {"nodeID":11,"parentID":null,"text":"Architecture","mapID":4}
-{"nodeID":2589,"parentID":2588,"text":"Context-free grammar  ️","mapID":712}
+{"nodeID":2589,"parentID":2588,"text":"Context free grammar","mapID":712}
 {"nodeID":6554,"parentID":6553,"text":"Articles","mapID":1725}
 {"nodeID":4245,"parentID":4244,"text":"Go  ️","mapID":1181}
 {"nodeID":1634,"parentID":1632,"text":"Industrial design  ️","mapID":444}
@@ -7156,7 +7158,7 @@
 {"nodeID":6969,"parentID":6967,"text":"Hyper  ️","mapID":1813}
 {"nodeID":358,"parentID":null,"text":"Longevity","mapID":104}
 {"nodeID":431,"parentID":null,"text":"Pharmacology","mapID":129}
-{"nodeID":5145,"parentID":null,"text":"Navier-Stokes equations","mapID":1411}
+{"nodeID":5145,"parentID":null,"text":"Navier Stokes equations","mapID":1411}
 {"nodeID":3072,"parentID":null,"text":"Affine transformations","mapID":846}
 {"nodeID":4209,"parentID":null,"text":"Schizophrenia","mapID":1174}
 {"nodeID":7523,"parentID":7520,"text":"React  ️","mapID":1912}
@@ -7181,10 +7183,10 @@
 {"nodeID":3646,"parentID":null,"text":"Deontic logic","mapID":1019}
 {"nodeID":2759,"parentID":null,"text":"Pytorch","mapID":764}
 {"nodeID":7629,"parentID":7628,"text":"Basics","mapID":1930}
-{"nodeID":1544,"parentID":null,"text":"Computer-aided design","mapID":421}
+{"nodeID":1544,"parentID":null,"text":"Computer aided design","mapID":421}
 {"nodeID":1075,"parentID":1074,"text":"Gotos","mapID":296}
 {"nodeID":775,"parentID":773,"text":"Interesting","mapID":215}
-{"nodeID":5135,"parentID":null,"text":"Solid-state physics","mapID":1408}
+{"nodeID":5135,"parentID":null,"text":"Solid state physics","mapID":1408}
 {"nodeID":2453,"parentID":2445,"text":"Libertarianism  ️","mapID":674}
 {"nodeID":6467,"parentID":null,"text":"Cloud computing","mapID":1712}
 {"nodeID":4038,"parentID":4022,"text":"Help","mapID":1128}
@@ -7318,7 +7320,7 @@
 {"nodeID":6060,"parentID":6059,"text":"Interesting","mapID":1653}
 {"nodeID":7344,"parentID":null,"text":"HTML5","mapID":1878}
 {"nodeID":1972,"parentID":1971,"text":"Basics","mapID":535}
-{"nodeID":3099,"parentID":null,"text":"Cauchy-Schwarz inequality","mapID":852}
+{"nodeID":3099,"parentID":null,"text":"Cauchy Schwarz inequality","mapID":852}
 {"nodeID":1565,"parentID":1563,"text":"Basics","mapID":428}
 {"nodeID":6052,"parentID":6050,"text":"Help","mapID":1651}
 {"nodeID":6143,"parentID":6135,"text":"Scala  ️","mapID":1668}
@@ -7430,7 +7432,7 @@
 {"nodeID":1028,"parentID":1021,"text":"Domain reduction","mapID":283}
 {"nodeID":3411,"parentID":null,"text":"Hilbert spaces","mapID":946}
 {"nodeID":6383,"parentID":6381,"text":"Stream processing  ️","mapID":1686}
-{"nodeID":4835,"parentID":null,"text":"Meta-ethics","mapID":1324}
+{"nodeID":4835,"parentID":null,"text":"Meta ethics","mapID":1324}
 {"nodeID":4634,"parentID":4631,"text":"Analytic tools","mapID":1281}
 {"nodeID":4094,"parentID":4093,"text":"Basics","mapID":1146}
 {"nodeID":4756,"parentID":4755,"text":"Basics","mapID":1309}
@@ -7566,8 +7568,8 @@
 {"nodeID":6402,"parentID":6400,"text":"Help","mapID":1689}
 {"nodeID":455,"parentID":449,"text":"Interesting","mapID":136}
 {"nodeID":6962,"parentID":null,"text":"Productivity","mapID":1813}
-{"nodeID":6610,"parentID":6601,"text":"Domain-driven design  ️","mapID":1741}
-{"nodeID":1949,"parentID":1944,"text":"Very-large-scale integration","mapID":528}
+{"nodeID":6610,"parentID":6601,"text":"Domain driven design","mapID":1741}
+{"nodeID":1949,"parentID":1944,"text":"Very large scale integration","mapID":528}
 {"nodeID":3906,"parentID":3905,"text":"Basics","mapID":1094}
 {"nodeID":3968,"parentID":3967,"text":"Generalised linear models  ️","mapID":1110}
 {"nodeID":6966,"parentID":6963,"text":"Hammerspoon  ️","mapID":1813}
@@ -7611,7 +7613,7 @@
 {"nodeID":6342,"parentID":6341,"text":"Basics","mapID":1674}
 {"nodeID":6410,"parentID":6409,"text":"Scrum  ️","mapID":1691}
 {"nodeID":7297,"parentID":7295,"text":"Basics","mapID":1868}
-{"nodeID":4477,"parentID":4474,"text":"Short-term memory","mapID":1254}
+{"nodeID":4477,"parentID":4474,"text":"Short term memory","mapID":1254}
 {"nodeID":4995,"parentID":4991,"text":"Philosophy of mind  ️","mapID":1366}
 {"nodeID":5297,"parentID":5296,"text":"Basics","mapID":1458}
 {"nodeID":7213,"parentID":7202,"text":"Blink","mapID":1863}
