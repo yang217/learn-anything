@@ -9,7 +9,6 @@ If you want to know more about what we're trying to solve, our plans for the fut
 - [Contributing](#contributing)
 - [Developing the website](#developing-the-website)
 - [API](#api)
-  - [Integrations](#integrations)
 - [Curated Lists](#explore-our-curated-lists)
 - [Keep this project going](#keep-this-project-going)
 
@@ -26,7 +25,6 @@ We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
-### Integrations
 Here are things people have built with the API we provide. If you built something yourself, feel free to add it to this list.
 - [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - [Alfred](https://www.alfredapp.com/) workflow to search through all Learn Anything maps.
 - [Albert Plugin](https://github.com/nglgzz/albert-plugins) - [Albert](https://github.com/albertlauncher/albert) plugin to search through all Learn Anything maps.
