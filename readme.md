@@ -1,6 +1,6 @@
 # [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
 
-# Learn Anything [![Slack](https://img.shields.io/badge/Slack%20Group-💬-green.svg)](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Suport%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Learn Anything [![Slack](https://img.shields.io/badge/Slack%20Group-💬-green.svg)](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) [![Wiki](https://img.shields.io/badge/Wiki-📔-brown.svg)](https://github.com/learn-anything/learn-anything/wiki) [![Curated lists](https://img.shields.io/badge/Curated%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Suport%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 > [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps
 
 If you want to know more about what we're trying to solve, our plans for the future, how to improve the website, and more you can check the [wiki](https://github.com/learn-anything/learn-anything/wiki).
@@ -25,8 +25,12 @@ We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
+Below are some things people have built with the API we provide. If you built something yourself, feel free to add it to this list.
+- [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - [Alfred](https://www.alfredapp.com/) workflow to search through all Learn Anything maps.
+- [Albert Plugin](https://github.com/nglgzz/albert-plugins) - [Albert](https://github.com/albertlauncher/albert) plugin to search through all Learn Anything maps.
+
 ## Explore our Curated Lists
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to[ explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
 
 ## Keep this project going 💜
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
@@ -63,4 +67,4 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
 
 ## License
-MIT © [Learn Anything](https://learn-anything.xyz/)
+MIT © [Learn Anything](https://learn-anything.xyz)

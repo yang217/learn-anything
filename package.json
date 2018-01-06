@@ -44,7 +44,7 @@
     "express-jwt": "^5.3.0",
     "http-aws-es": "^3.1.0",
     "jwks-rsa": "^1.2.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.9",
     "memcached": "^2.2.2",
     "react": "^16.0.0",
     "react-autosuggest": "^9.3.2",
