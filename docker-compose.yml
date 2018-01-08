@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  web:
+    image: lat:test
+    depends_on:
+      - "es"
+    ports:
+      - "3000:3000"
+    networks:
+      - back-tier
+
+  mem:
+    image: memcached:1-alpine
+    container_name: mem
+    ports: ["11211"]
+    networks:
+      - back-tier
+
+  es:
+    image: elasticsearch:5-alpine 
+    container_name: es
+    ports: ["9200"]
+    networks:
+      - back-tier
+
+networks:
+  back-tier:
