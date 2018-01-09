@@ -5,13 +5,6 @@
 
 If you want to know more about what we're trying to solve, our plans for the future, how to improve the website, and more you can check the [wiki](https://github.com/learn-anything/learn-anything/wiki).
 
-## Contents
-- [Contributing](#contributing)
-- [Developing the website](#developing-the-website)
-- [API](#api)
-- [Curated Lists](#explore-our-curated-lists)
-- [Keep this project going](#keep-this-project-going)
-
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
 
