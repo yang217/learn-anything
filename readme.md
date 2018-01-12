@@ -12,7 +12,7 @@ Since this website is fully open source, you can also help and work on new and a
 
 We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) we use for all our communication. Feel free to join in to help make this awesome thing together. 🦄
 
-## Explore our Curated Lists
+## Curated Lists
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
 
 ## Developing the website
