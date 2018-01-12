@@ -12,6 +12,9 @@ Since this website is fully open source, you can also help and work on new and a
 
 We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) we use for all our communication. Feel free to join in to help make this awesome thing together. 🦄
 
+## Explore our Curated Lists
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+
 ## Developing the website
 [Here](https://github.com/learn-anything/learn-anything/wiki/Developing) you can read about how you can set up your own instance of Learn Anything to develop with.
 
@@ -19,11 +22,8 @@ We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
 Below are some things people have built with the API we provide. If you built something yourself, feel free to add it to this list.
-- [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - [Alfred](https://www.alfredapp.com/) workflow to search through all Learn Anything maps.
-- [Albert Plugin](https://github.com/nglgzz/albert-plugins) - [Albert](https://github.com/albertlauncher/albert) plugin to search through all Learn Anything maps.
-
-## Explore our Curated Lists
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+- [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search through all Learn Anything maps.
+- [Albert Plugin](https://github.com/nglgzz/albert-plugins) - Albert plugin to search through all Learn Anything maps.
 
 ## Keep this project going 💜
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
