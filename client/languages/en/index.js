@@ -58,5 +58,5 @@ module.exports = {
   // Map
   unauthorized_dialog: mdfile('unauthorized', 'en'),
   node_resources: 'Resources',
-  resources_show_more: 'Show {} More'
+  resources_show_more: 'Show {} More',
 };
