@@ -9,7 +9,6 @@ import { showLegend } from 'actions/Legend';
 import queries from 'constants/media-queries.json';
 import 'sass/_Sidebar.sass';
 
-
 @connect(store => ({
   isVisible: store.header.menu,
 }))
@@ -36,7 +35,6 @@ export default class Sidebar extends Component {
     this.hideSidebar();
   }
 
-
   hideSidebar() {
     this.setState({ isOpen: false });
   }
@@ -58,19 +56,26 @@ export default class Sidebar extends Component {
 
     // home, support, about, github, night mode
     return (
-      <Menu isOpen={this.state.isOpen} className="sidebar-menu" width={250} right>
-        {window.laAuth.isAuthenticated() ?
+      <Menu
+        isOpen={this.state.isOpen}
+        className="sidebar-menu"
+        width={250}
+        right
+      >
+        {window.laAuth.isAuthenticated() ? (
           <div className="sidebar-item">
             <a onClick={this.logout}>{__('sidebar_logout')}</a>
           </div>
-          :
-          <div className="sidebar-item">
-            <a onClick={this.login}>{__('sidebar_login')}</a>
-          </div>
-        }
+        ) : (
+            <div className="sidebar-item">
+              <a onClick={this.login}>{__('sidebar_login')}</a>
+            </div>
+          )}
 
         <div className="sidebar-item">
-          <Link onClick={this.hideSidebar} to="/">{__('sidebar_home')}</Link>
+          <Link onClick={this.hideSidebar} to="/">
+            {__('sidebar_home')}
+          </Link>
         </div>
 
         {/* <div className="sidebar-item">
@@ -82,19 +87,13 @@ export default class Sidebar extends Component {
         </div>
 
         <div className="sidebar-item">
-          <a
-            href="https://twitter.com/learnanything_"
-            target="_blank"
-          >
+          <a href="https://twitter.com/learnanything_" target="_blank">
             {__('sidebar_twitter')}
           </a>
         </div>
 
         <div className="sidebar-item">
-          <a
-            href="https://www.patreon.com/learnanything"
-            target="_blank"
-          >
+          <a href="https://www.patreon.com/learnanything" target="_blank">
             {__('sidebar_patreon')}
           </a>
         </div>
@@ -105,6 +104,15 @@ export default class Sidebar extends Component {
             target="_blank"
           >
             {__('sidebar_github')}
+          </a>
+        </div>
+
+        <div className="sidebar-item">
+          <a
+            href="https://github.com/learn-anything/learn-anything/wiki/Curated-Lists"
+            target="_blank"
+          >
+            {__('sidebar_lists')}
           </a>
         </div>
 

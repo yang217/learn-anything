@@ -3,8 +3,11 @@ const md = require('../utils').md;
 
 module.exports = {
   // Help
-  welcome_text: md('Welcome to Learn Anything, the platform for knowledge discovery that helps you understand any topic through the **most efficient** paths, as voted by the community.'),
-  searchbar_help_text_0: 'Start your search by typing a topic in the bar above.',
+  welcome_text: md(
+    'Welcome to Learn Anything, the platform for knowledge discovery that helps you understand any topic through the **most efficient** paths, as voted by the community.'
+  ),
+  searchbar_help_text_0:
+    'Start your search by typing a topic in the bar above.',
   searchbar_help_text_1: 'Or, ',
   searchbar_help_text_anything: 'click here to browse all topics',
 
@@ -40,6 +43,7 @@ module.exports = {
   sidebar_patreon: 'Patreon',
   sidebar_github: 'GitHub',
   sidebar_legend: 'Legend',
+  sidebar_lists: 'Curated lists',
 
   // About
   about: mdfile('about', 'en'),
