@@ -1,5 +1,5 @@
 {
-  "name": "learn-anything-search-engine",
+  "name": "learn-anything",
   "version": "2.0.0",
   "description": "Visual search engine for user curated mind maps on the web",
   "license": "MIT",
@@ -15,7 +15,7 @@
       "url": "https://github.com/nikitavoloboev"
     }
   ],
-  "repository": "learn-anything/search-engine",
+  "repository": "learn-anything/learn-anything",
   "scripts": {
     "setup:elastic": "node maps/scripts/elastic/setup.js",
     "setup:dynamo": "node maps/scripts/dynamo/setup.js",
