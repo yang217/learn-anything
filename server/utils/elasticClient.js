@@ -7,7 +7,7 @@ const elasticsearch = require('elasticsearch');
 // 'elastic'. If another IP is specified, use that one.
 let host = 'localhost';
 if (process.env.DOCKER) {
-  host = 'elastic';
+  host = 'es';
 }
 if (process.env.ELASTICSEARCH_HOST) {
   host = process.env.ELASTICSEARCH_HOST;

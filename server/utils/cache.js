@@ -5,13 +5,12 @@ const crypto = require('crypto');
 // 'memcached'. If another IP is specified, use that one.
 let host;
 if (process.env.DOCKER) {
-  host = 'memcached';
+  host = 'mem';
 }
 if (process.env.MEMCACHED_HOST) {
   host = process.env.MEMCACHED_HOST;
 }
 
-const memcachedHost = "memcached";
 const memcached = new Memcached([`${host}:11211`]);
 const { logger } = require('./errors');
 
@@ -139,7 +138,7 @@ function fakeCache(key, fn, lifetime, shouldHash) {
 }
 
 
-if (!host) {
+if (host) {
   module.exports = { cache, del, set, get };
 } else {
   module.exports = {
