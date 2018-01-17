@@ -2,7 +2,7 @@ version: "3"
 
 services:
   web:
-    image: learnanything/learn-anything:test
+    image: learnanything/learn-anything:stable
     depends_on:
       - "dynamo"
       - "es"
