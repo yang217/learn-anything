@@ -1,7 +1,18 @@
 const Memcached = require('memcached');
-const memcachedHost = "mem"
-const memcached = new Memcached([memcachedHost+':11211']);
 const crypto = require('crypto');
+
+// Set default host to 'localhost'. If we're running on Docker environment use
+// 'memcached'. If another IP is specified, use that one.
+let host;
+if (process.env.DOCKER) {
+  host = 'memcached';
+}
+if (process.env.MEMCACHED_HOST) {
+  host = process.env.MEMCACHED_HOST;
+}
+
+const memcachedHost = "memcached";
+const memcached = new Memcached([`${host}:11211`]);
 const { logger } = require('./errors');
 
 
@@ -128,7 +139,7 @@ function fakeCache(key, fn, lifetime, shouldHash) {
 }
 
 
-if (process.env.HOST_IP) {
+if (!host) {
   module.exports = { cache, del, set, get };
 } else {
   module.exports = {

@@ -3,8 +3,18 @@ const AWS_ES = require('http-aws-es');
 const elasticsearch = require('elasticsearch');
 
 
+// Set default host to 'localhost'. If we're running on Docker environment use
+// 'elastic'. If another IP is specified, use that one.
+let host = 'localhost';
+if (process.env.DOCKER) {
+  host = 'elastic';
+}
+if (process.env.ELASTICSEARCH_HOST) {
+  host = process.env.ELASTICSEARCH_HOST;
+}
+
 let client = elasticsearch.Client({
-  host: 'es:9200',
+  host: `${host}:9200`,
   log: 'error',
 });
 
