@@ -23,7 +23,8 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "start": "node server/index.js -p 3000",
-    "start:memc": "HOST_IP='localhost' npm start",
+    "start:memc": "MEMCACHED_HOST='localhost' npm start",
+    "start:docker": "docker-compose up",
     "start:prod": "NODE_ENV='production' npm start",
     "build:prod": "NODE_ENV='production' webpack -p",
     "backup:prod": "NODE_ENV='production' node maps/scripts/dynamo/backup.js"

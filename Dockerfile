@@ -12,4 +12,7 @@ RUN npm install
 COPY . /usr/src/app
 RUN npm run build:prod
 
-CMD npm run start:prod
+ADD entrypoint.sh /usr/src/app/
+ENV NODE_ENV=development
+
+CMD ["/usr/src/app/entrypoint.sh"]
