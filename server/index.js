@@ -89,5 +89,12 @@ app.get('*', (req, res) => {
 // Start the party on port 3000
 app.listen(3000, () => {
   console.log('Server started.');
-  console.log('HOST_IP: ', process.env.HOST_IP);
+  const envs = [
+    'NODE_ENV',
+    'DOCKER',
+    'MEMCACHED_HOST',
+    'DYNAMODB_HOST',
+    'ELASTICSEARCH_HOST',
+  ];
+  envs.forEach(env => console.log(`${env}: ${process.env[env]}`));
 });
