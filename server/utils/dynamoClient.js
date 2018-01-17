@@ -1,5 +1,14 @@
 const AWS = require('aws-sdk');
 
+// Set default host to 'localhost'. If we're running on Docker environment use
+// 'dynamo'. If another IP is specified, use that one.
+let host = 'localhost';
+if (process.env.DOCKER) {
+  host = 'dynamo';
+}
+if (process.env.DYNAMODB_HOST) {
+  host = process.env.DYNAMODB_HOST;
+}
 
 let dynamodb;
 
@@ -22,7 +31,7 @@ if (process.env.NODE_ENV === 'production') {
 
   // And specify the local endpoint for DynamoDB.
   dynamodb = new AWS.DynamoDB({
-    endpoint: new AWS.Endpoint('http://localhost:8000'),
+    endpoint: new AWS.Endpoint(`http://${host}:8000`),
   });
 }
 
