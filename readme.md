@@ -11,7 +11,7 @@ For more information, you can read [our wiki](https://github.com/learn-anything/
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
 
-Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-learn-anything) for how you can do this.
+Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-learn-anything) file for how you can do this.
 
 If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
