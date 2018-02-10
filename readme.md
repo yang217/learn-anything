@@ -6,7 +6,7 @@
 
 This project was created to allow anyone to learn anything in the most efficient way possible by finding the best resources available for learning any topic in the world as well as exploring visually how every topic connects to one another. We wrote a [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper) that goes into why this project came to exist in more detail.
 
-For more information on it, you can read [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
+For more information, you can read [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
