@@ -81,4 +81,4 @@ yarn test
 
 Currently the test suite does not cover everything.
 
-Thank you for taking the time to contribute! 💜
+#### Thank you for taking the time to contribute! 💜
