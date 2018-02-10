@@ -4,9 +4,13 @@
 
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
-This project was created to allow anyone to learn anything in the most efficient way possible by finding the best resources available for learning as well as exploring visually how every topic connects to one another. We wrote a [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper) that goes into why this project came to exist in more detail.
+We want to accelerate the rate at which people learn and gain new knowledge by giving the most efficient paths one can take to gain full understanding of any one topic.
 
-For more information, you can read [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
+To do this, we are creating the first of its kind community curated and [Open Source Website](https://learn-anything.xyz) focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
+
+We wrote a that goes into why this project came to exist in more detail.
+
+For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
