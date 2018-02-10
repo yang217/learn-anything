@@ -6,7 +6,7 @@
 
 The goal of the website is to accelerate the rate at which people learn and gain new knowledge by giving the most efficient paths one can take to gain full understanding of any one topic.
 
-To do this, we are creating the first of its kind community curated and [Open Source Website](https://learn-anything.xyz) focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
+To do this, we are creating the first of its kind community curated and Open Source Website focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
 For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
