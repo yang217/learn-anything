@@ -1,22 +1,22 @@
 # [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
 
 # Learn Anything [![Slack](https://img.shields.io/badge/Slack%20Group-💬-green.svg)](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) [![Wiki](https://img.shields.io/badge/Wiki-📔-brown.svg)](https://github.com/learn-anything/learn-anything/wiki) [![Curated lists](https://img.shields.io/badge/Curated%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-> [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps
 
-If you want to know more about what we're trying to solve, our plans for the future, how to improve the website, and more you can check the [wiki](https://github.com/learn-anything/learn-anything/wiki).
+[Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
+
+This project was created to allow anyone to learn anything in the most efficient way possible by finding the best resources available for learning any topic in the world as well as exploring visually how every topic connects to another. We wrote a [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper) that goes into why this project came to exist in more detail.
+
+For more information on it, you can read [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 ## Contributing
 You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
 
-Since this website is fully open source, you can also help and work on new and awesome features to add to the website. Read [`Developing the website`](https://github.com/learn-anything/learn-anything/wiki/Developing) section for more information on how to get started with this. And if you never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
+Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read [Contributing.md](contributing.md#contributing-to-learn-anything) for how you can do this.
 
-We have a [Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) we use for all our communication. Feel free to join in to help make this awesome thing together. 🦄
+If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
 ## Curated Lists
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various GitHub lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
-
-## Developing the website
-[Here](https://github.com/learn-anything/learn-anything/wiki/Developing) you can read about how you can set up your own instance of Learn Anything to develop with.
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
 
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
@@ -32,7 +32,7 @@ There are **no advertisements** and **no sponsored content** in this website as 
 
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.
 
-## Team
+## Current team
 <table>
   <tbody>
     <tr>
@@ -42,15 +42,15 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
         <a href="https://github.com/nglgzz"> Angelo Gazzola </a>
         <p>Lead Web Developer</p>
         <br>
-        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>.</p>
+        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>. Working on transition to new redesign for Learn Anything.</p>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/nikitavoloboev.png?size=400">
         <br>
         <a href="https://nikitavoloboev.xyz">Nikita Voloboev</a>
-        <p>Oversees curation of maps</p>
+        <p>Lead backend developer</p>
         <br>
-        <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be.</p>
+        <p>Curated the entire index of all the maps up until this point. Working on transition to new redesign for Learn Anything.</p>
       </td>
      </tr>
   </tbody>
