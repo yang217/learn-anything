@@ -1,4 +1,7 @@
 # Contributing to Learn Anything
+Thank you for wanting to contribute to the website!
+
+We welcome any kind of help. Be it [proposing a feature request or finding a bug](../../issues/) or wanting to contribute to the code and adding or fixing an issue yourself. Instructions below will help you setup a working version of the website locally so you can start adding these awesome features to the website.
 
 ## Code Organisation
 
