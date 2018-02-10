@@ -8,14 +8,10 @@ The goal of the website is to accelerate the rate at which people learn and gain
 
 To do this, we are creating the first of its kind community curated and [Open Source Website](https://learn-anything.xyz) focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
-We wrote a that goes into why this project came to exist in more detail.
-
 For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 ## Contributing
-You can contribute to the website in many ways. The easiest thing you can do to help is to simply use the website and learn things with it. And if you found a resource you like, just add it so everyone can find it too.
-
-Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-learn-anything) file for how you can do this.
+Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read [CONTRIBUTING.md](CONTRIBUTING.md#contributing) file for different ways on how you can do this.
 
 If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
