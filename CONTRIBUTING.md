@@ -6,7 +6,8 @@ There are many ways you can contribute to Learn Anything.
 - Contribute to the website via [Pull Requests]([issues](../../pulls/)). Instructions below will provide all necessary information on how you can do that from setting up the website to run locally to how you can add and contribute changes to the code base.
 - Join our community on [Slack](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) and discuss ideas and share thoughts about the project.
 
-## Code Organisation
+<!-- TODO: -->
+<!-- # Code Organisation -->
 
 ## Setting Up the project locally
 These instructions will allow you to set up your own instance of Learn Anything to develop with.
@@ -70,12 +71,14 @@ After that only `yarn start` will be needed.
 ## Submitting a Pull Request
 Please go through [existing issues](https://github.com/learn-anything/learn-anything/issues) and [pull requests](https://github.com/learn-anything/learn-anything/pulls) to check if somebody else is already working on the issue.
 
-Also, make sure to run the tests before you commit your changes.
+<!-- TODO: make tests work -->
+<!-- Also, make sure to run the tests before you commit your changes.
 
 ```
 yarn test
 ```
 
 Currently the test suite does not cover everything.
+ -->
 
 #### Thank you for taking the time to contribute! 💜
