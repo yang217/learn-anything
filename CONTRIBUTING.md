@@ -13,9 +13,8 @@ There are many ways you can contribute to Learn Anything.
 These instructions will allow you to set up your own instance of Learn Anything to develop with.
 
 ### Install dependencies
-1. [yarn](https://yarnpkg.com/en/docs/install)
-2. [node.js](https://nodejs.org)
-3. [DynamoDB](https://aws.amazon.com/dynamodb/). Is a database used to manage and store maps. You can install and run it with:
+1. [node.js](https://nodejs.org)
+2. [DynamoDB](https://aws.amazon.com/dynamodb/). Is a database used to manage and store maps. You can install and run it with:
 
 ```Bash
 wget https://s3-us-west-2.amazonaws.com/dynamodb-local/dynamodb_local_latest.zip
@@ -23,7 +22,7 @@ unzip -a dynamodb_local_latest.zip
 java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
 ```
 
-4. [Elasticsearch](https://www.elastic.co). Is needed for fetching maps and suggestions on the website. You can install and run it with:
+3. [Elasticsearch](https://www.elastic.co). Is needed for fetching maps and suggestions on the website. You can install and run it with:
 
 ```Bash
 wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.5.2.tar.gz
@@ -42,13 +41,13 @@ git clone https://github.com/<your-username>/learn-anything.git
 cd learn-anything
 ```
 
-2. `yarn` to install dependencies.
-3. `yarn run setup` to initialise DynamoDB and Elasticsearch.
-3. `yarn start` to start the app.
+2. `npm install` to install dependencies.
+3. `npm run setup` to initialise DynamoDB and Elasticsearch.
+3. `npm start` to start the app.
 4. Connect to [localhost:3000](http://localhost:3000).
 
 The first time it may take a while, as all maps will be added to Elasticsearch.
-After that only `yarn start` will be needed.
+After that only `npm start` will be needed.
 
 > Tip: Keep your `master` branch pointing at the original repository and make
 > pull requests from branches on your fork. To do this, run:
@@ -71,7 +70,7 @@ After that only `yarn start` will be needed.
 <!-- Also, make sure to run the tests before you commit your changes.
 
 ```
-yarn test
+npm run test
 ```
 
 Currently the test suite does not cover everything.
