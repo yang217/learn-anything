@@ -9,10 +9,7 @@ There are many ways you can contribute to Learn Anything.
 ## Code Organisation
 
 ## Setting Up the project locally
-These instructions will allow you to set up your own instance of Learn Anything
-to develop with.
-
-To install the project you need to have [yarn](https://github.com/yarnpkg/yarn), [node](https://github.com/nodejs/node), [DynamoDB]() and [Elasticsearch]().
+These instructions will allow you to set up your own instance of Learn Anything to develop with.
 
 ### Install dependencies
 1. [yarn](https://github.com/yarnpkg/yarn) or [npm](https://github.com/npm/npm).
