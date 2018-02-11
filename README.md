@@ -42,7 +42,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
         <a href="https://github.com/nglgzz"> Angelo Gazzola </a>
         <p>Lead Web Developer</p>
         <br>
-        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>. Working on transition to new redesign for Learn Anything.</p>
+        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>.</p>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/nikitavoloboev.png?size=400">
@@ -50,7 +50,7 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
         <a href="https://nikitavoloboev.xyz">Nikita Voloboev</a>
         <p>Lead backend developer</p>
         <br>
-        <p>Curated the entire index of all the maps up until this point. Working on transition to new redesign for Learn Anything.</p>
+        <p>Curated the entire index of all the maps up until this point.</p>
       </td>
      </tr>
   </tbody>
