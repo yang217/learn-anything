@@ -55,7 +55,7 @@ After that only `yarn start` will be needed.
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
-> git remote add upstream https://github.com/CompuIves/codesandbox-client.git
+> git remote add upstream https://github.com/learn-anything/learn-anything.git
 > git fetch upstream
 > git branch --set-upstream-to=upstream/master master
 > ```
