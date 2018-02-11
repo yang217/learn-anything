@@ -12,9 +12,9 @@ There are many ways you can contribute to Learn Anything.
 These instructions will allow you to set up your own instance of Learn Anything to develop with.
 
 ### Install dependencies
-1. [yarn](https://github.com/yarnpkg/yarn) or [npm](https://github.com/npm/npm).
+1. [yarn](https://github.com/yarnpkg/yarn)
 2. [node.js](https://github.com/nodejs/node)
-3. [DynamoDB](https://aws.amazon.com/dynamodb/). DynamoDB is a database used to manage and store maps. You can install and run it with:
+3. [DynamoDB](https://aws.amazon.com/dynamodb/). Is a database used to manage and store maps. You can install and run it with:
 
 ```Bash
 wget https://s3-us-west-2.amazonaws.com/dynamodb-local/dynamodb_local_latest.zip
@@ -22,7 +22,7 @@ unzip -a dynamodb_local_latest.zip
 java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
 ```
 
-4. [Elasticsearch](https://www.elastic.co). Elasticsearch is needed for fetching maps and suggestions on the website. You can install and run it with:
+4. [Elasticsearch](https://www.elastic.co). Is needed for fetching maps and suggestions on the website. You can install and run it with:
 
 ```Bash
 wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.5.2.tar.gz
