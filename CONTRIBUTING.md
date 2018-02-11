@@ -13,8 +13,8 @@ There are many ways you can contribute to Learn Anything.
 These instructions will allow you to set up your own instance of Learn Anything to develop with.
 
 ### Install dependencies
-1. [yarn](https://github.com/yarnpkg/yarn)
-2. [node.js](https://github.com/nodejs/node)
+1. [yarn](https://yarnpkg.com/en/docs/install)
+2. [node.js](https://nodejs.org)
 3. [DynamoDB](https://aws.amazon.com/dynamodb/). Is a database used to manage and store maps. You can install and run it with:
 
 ```Bash
@@ -43,14 +43,12 @@ cd learn-anything
 ```
 
 2. `yarn` to install dependencies.
-3. `yarn run setup`
+3. `yarn run setup` to initialise DynamoDB and Elasticsearch.
 3. `yarn start` to start the app.
 4. Connect to [localhost:3000](http://localhost:3000).
 
 The first time it may take a while, as all maps will be added to Elasticsearch.
 After that only `yarn start` will be needed.
-
-### Testing
 
 > Tip: Keep your `master` branch pointing at the original repository and make
 > pull requests from branches on your fork. To do this, run:
@@ -68,9 +66,7 @@ After that only `yarn start` will be needed.
 > branch. Whenever you want to update your version of `master`, do a regular
 > `git pull`.
 
-## Submitting a Pull Request
-Please go through [existing issues](https://github.com/learn-anything/learn-anything/issues) and [pull requests](https://github.com/learn-anything/learn-anything/pulls) to check if somebody else is already working on the issue.
-
+<!-- ### Testing -->
 <!-- TODO: make tests work -->
 <!-- Also, make sure to run the tests before you commit your changes.
 
@@ -80,5 +76,8 @@ yarn test
 
 Currently the test suite does not cover everything.
  -->
+
+## Submitting a Pull Request
+Please go through [existing issues](https://github.com/learn-anything/learn-anything/issues) and [pull requests](https://github.com/learn-anything/learn-anything/pulls) to check if somebody else is already working on the issue.
 
 #### Thank you for taking the time to contribute! 💜
