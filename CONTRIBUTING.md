@@ -49,7 +49,7 @@ cd learn-anything
 The first time it may take a while, as all maps will be added to Elasticsearch.
 After that only `npm start` will be needed.
 
-> Tip: Keep your `master` branch pointing at the original repository and make
+<!-- > Tip: Keep your `master` branch pointing at the original repository and make
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
@@ -64,7 +64,7 @@ After that only `npm start` will be needed.
 > Then you can make all of your pull request branches based on this `master`
 > branch. Whenever you want to update your version of `master`, do a regular
 > `git pull`.
-
+ -->
 <!-- ### Testing -->
 <!-- TODO: make tests work -->
 <!-- Also, make sure to run the tests before you commit your changes.
