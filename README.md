@@ -16,7 +16,7 @@ Since this website is fully Open Source, you can help and add new and awesome fe
 If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
 ## Curated Lists
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists).
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists#curated-lists-).
 
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
