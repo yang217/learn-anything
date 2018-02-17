@@ -6,7 +6,8 @@ const compression = require('compression');
 const dot = require('dot');
 
 const api = require('./api/index');
-
+const csp = require('helmet-csp');
+const securityHelper = require('./utils/secureUtil');
 
 const app = express();
 const googleTrackingID = process.env.NODE_ENV === 'production' ? 'UA-74470910-2' : '';
@@ -32,6 +33,37 @@ if (process.env.NODE_ENV !== 'production') {
   app.use(webpackHotMiddleware(compiler));
 }
 
+if (process.env.NODE_ENV === 'production') {
+  app.use(securityHelper.noSniff());
+  app.use(securityHelper.xFrame('SAMEORIGIN'));
+  app.use(csp({
+    directives: {
+      defaultSrc: ["'self'"],
+      fontSrc: [
+        '*',
+      ],
+      styleSrc: [
+        "'self'",
+        "'unsafe-inline'",
+        'https://fonts.googleapis.com/css',
+      ],
+      scriptSrc: [
+        "'self'",
+        'https://www.googletagmanager.com',
+        'https://fonts.googleapis.com',
+        'https://www.google-analytics.com/analytics.js',
+        "'nonce-EDNnf03nceIOfn39fn3e9h3sdfa'",
+      ],
+      imgSrc: [
+        "'self'",
+        'https://www.google-analytics.com/r/collect',
+        'https://www.google-analytics.com/collect',
+      ],
+      baseUri: ["'self'"],
+      objectSrc: ["'none'"],
+    },
+  }));
+}
 
 // Compress files sent.
 app.use(compression({ threshold: 0 }));
