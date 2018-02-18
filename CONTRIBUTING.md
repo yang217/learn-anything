@@ -1,5 +1,5 @@
 # Contributing
-There are many ways you can contribute to Learn Anything.
+There are many ways you can contribute to Learn Anything. You can:
 - Improve the website by using it and adding resources you liked to relevant topics.
 - Improve our [curated lists on various topics](https://github.com/learn-anything/curated-lists#curated-lists-). Instructions for how to improve them can be found on each of the lists.
 - Submit [issues](../../issues/) with feature requests or bug reports. **Please give as many details as possible**. If you can (and want to) fix the issue, please tell us in the issue.
