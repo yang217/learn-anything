@@ -60,7 +60,7 @@ if (process.env.NODE_ENV === 'production') {
         'https://www.google-analytics.com/collect',
       ],
       connectSrc: [
-        'self',
+        "'self'",
         'https://learn-anything.auth0.com/.well-known/jwks.json'
       ],
       baseUri: ["'self'"],
