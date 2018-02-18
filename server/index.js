@@ -59,6 +59,10 @@ if (process.env.NODE_ENV === 'production') {
         'https://www.google-analytics.com/r/collect',
         'https://www.google-analytics.com/collect',
       ],
+      connectSrc: [
+        'self',
+        'https://learn-anything.auth0.com/.well-known/jwks.json'
+      ],
       baseUri: ["'self'"],
       objectSrc: ["'none'"],
     },
