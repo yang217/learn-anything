@@ -4,19 +4,13 @@ Learn Anything is the platform for knowledge discovery that helps you understand
 topic through the **most efficient paths**, as voted by the community. Each topic
 has an Interactive Map with nodes to other subtopics, external links and resources.
 
-<div class="btn-container">
-  <a href="https://www.youtube.com/watch?v=_zYjS2Uicso" class="dialog-btn">Watch our Video</a>
-  <a href="https://learn-anything.xyz" class="dialog-btn dialog-btn-light">Or simply search for what you wish to learn.</a>
-</div>
-<div class="md-separator"></div>
-
 # Community & Contributing
 
-This project is [Open Source and is in active development](https://github.com/learn-anything/learn-anything).
+This project is [Open Source](https://github.com/learn-anything/learn-anything) and is in active development.
 
 Anyone who wishes to contribute to it, can help by either improving the content of all the topics and adding links with resources or by helping with the development and contributing to new features of the website or you can just join our growing community on [Slack](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
-<a href="https://github.com/learn-anything/maps/wiki/Contributing" class="dialog-btn">Learn more about Contributing</a>
+<a href="https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing" class="dialog-btn">Learn more about Contributing</a>
 
 <div class="md-separator"></div>
 
@@ -46,8 +40,8 @@ to keep this project going. We also have some awesome rewards that come with you
       <td>
         <div>
           <a href="https://nikitavoloboev.xyz"><b>Nikita Voloboev</b></a>
-          <p>Oversees curation of maps</p>
-          <p>Curated the entire index of all the maps up until this point + helps with making search the best it can be</p>
+          <p>Backend developer</p>
+          <p>Curated the entire index of all the maps originally.</p>
         </div>
       </td>
     </tr>
@@ -56,7 +50,7 @@ to keep this project going. We also have some awesome rewards that come with you
       <td>
         <div>
           <a href="https://github.com/nglgzz"><b>Angelo Gazzola</b></a>
-          <p>Lead Web Developer</p>
+          <p>Web Developer</p>
           <p>Created a complete and working version of the Website + our own mind map render system as React Component</p>
         </div>
       </td>
