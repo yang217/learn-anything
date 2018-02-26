@@ -1,7 +1,7 @@
-# Contributing
-There are many ways you can contribute to Learn Anything. You can:
+# Contributing to Learn Anything
+There are many ways you can contribute. You can:
 - Improve the website by using it and adding resources you liked to relevant topics.
-- Improve our [curated lists on various topics](https://github.com/learn-anything/curated-lists#curated-lists). Instructions for how to improve them can be found on each of the lists.
+- Improve our [curated lists on various topics](https://github.com/learn-anything/curated-lists#readme). Instructions for how to improve them can be found on each of the lists.
 - Submit [issues](../../issues/) with feature requests or bug reports. **Please give as many details as possible**. If you can (and want to) fix the issue, please tell us in the issue.
 - Contribute to the website via [Pull Requests]([issues](../../pulls/)). Instructions below will provide all necessary information on how you can do that from setting up the website to run locally to how you can add and contribute changes to the code base.
 - Join our community on [Slack](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) and discuss ideas and share thoughts about the project.
@@ -77,6 +77,6 @@ Currently the test suite does not cover everything.
  -->
 
 ## Submitting a Pull Request
-Please go through [existing issues](https://github.com/learn-anything/learn-anything/issues) and [pull requests](https://github.com/learn-anything/learn-anything/pulls) to check if somebody else is already working on the issue.
+Please go through [existing issues](../../issues/) and [pull requests](../../pulls/) to check if somebody else is already working on the issue.
 
 #### Thank you for taking the time to contribute! 💜

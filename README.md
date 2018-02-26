@@ -1,6 +1,6 @@
 # [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
 
-# Learn Anything [![Slack](https://img.shields.io/badge/chat%20on-Slack-green.svg)](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) [![Lists](https://img.shields.io/badge/Curated%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Learn Anything [![Slack](https://img.shields.io/badge/chat%20on-Slack-green.svg)](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I) [![Lists](https://img.shields.io/badge/Curated%20Lists-📒-blue.svg)](https://github.com/learn-anything/curated-lists#readme) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
@@ -11,12 +11,12 @@ To do this, we are creating the first of its kind community curated and Open Sou
 For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and join our [active Slack group](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
 
 ## Contributing
-Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read our [contribution guidelines](CONTRIBUTING.md#contributing) for different ways on how you can do this.
+Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read our [contribution guidelines](CONTRIBUTING.md#readme) for different ways on how you can do this.
 
 If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
 ## Curated Lists
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists#curated-lists).
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists#readme).
 
 ## API
 [Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
