@@ -19,11 +19,14 @@ If you have never programmed before and this is your first Open Source project, 
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists#readme).
 
 ## API
-[Here](http://docs.learn-anything.xyz/) you can find all the public API endpoints we currently have. We will be adding more in the future.
+[Here](http://docs.learn-anything.xyz) you can find all the public API endpoints we currently have. We will be adding more in the future.
 
 Below are some things people have built with the API we provide. If you built something yourself, feel free to add it to this list.
 - [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search through all Learn Anything maps.
 - [Albert Plugin](https://github.com/nglgzz/albert-plugins) - Albert plugin to search through all Learn Anything maps.
+
+## Roadmap
+We share our [Roadmap](https://github.com/learn-anything/learn-anything/wiki/Roadmap) of things we are building now and hope to build next. Any help we can get on this is deeply appreciated.
 
 ## Keep this project going 💜
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
