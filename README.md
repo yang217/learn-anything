@@ -62,5 +62,8 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 ## Thank you 💜
 To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
 
+Deepest thanks goes to our Patrons:
+- [Alfonso Gómez-Jordana](https://twitter.com/alfongj)
+
 ## License
 MIT © [Learn Anything](https://learn-anything.xyz)
