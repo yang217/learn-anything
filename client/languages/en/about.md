@@ -50,8 +50,8 @@ to keep this project going. We also have some awesome rewards that come with you
       <td>
         <div>
           <a href="https://github.com/nglgzz"><b>Angelo Gazzola</b></a>
-          <p>Web Developer</p>
-          <p>Created a complete and working version of the Website + our own mind map render system as React Component</p>
+          <p>Web developer</p>
+          <p>Created a complete working version of the website.</p>
         </div>
       </td>
     </tr>
@@ -62,6 +62,7 @@ to keep this project going. We also have some awesome rewards that come with you
 
 # Thank you to our Patrons
 
+* [Alfonso Gómez-Jordana](https://twitter.com/alfongj)
 * [Matt C](https://www.patreon.com/user/creators?u=6460188)
 * [Liam Closs](http://liamcloss.com/)
 * [You?](https://www.patreon.com/learnanything)

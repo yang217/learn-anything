@@ -36,7 +36,7 @@ There are **no advertisements** and **no sponsored content** in this website as 
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.
 
 ## Current team
-- [**Angelo Gazzola**](https://github.com/nglgzz): Lead web developer, created a complete working
+- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer, created a complete working
 version of the website.
 - [**Nikita Voloboev**](https://github.com/nikitavoloboev): Backend developer, curated the entire
 index of all the maps originally.
