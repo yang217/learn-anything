@@ -36,28 +36,10 @@ There are **no advertisements** and **no sponsored content** in this website as 
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.
 
 ## Current team
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/nglgzz.png?size=400">
-        <br>
-        <a href="https://github.com/nglgzz"> Angelo Gazzola </a>
-        <p>Web Developer</p>
-        <br>
-        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Website</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap">React Component</a>.</p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/nikitavoloboev.png?size=400">
-        <br>
-        <a href="https://nikitavoloboev.xyz">Nikita Voloboev</a>
-        <p>Backend developer</p>
-        <br>
-        <p>Curated the entire index of all the maps originally.</p>
-      </td>
-     </tr>
-  </tbody>
-</table>
+- [**Angelo Gazzola**](https://github.com/nglgzz): Lead web developer, created a complete working
+version of the website.
+- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Backend developer, curated the entire
+index of all the maps originally.
 
 ## Thank you 💜
 To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
