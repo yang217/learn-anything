@@ -35,11 +35,10 @@ There are **no advertisements** and **no sponsored content** in this website as 
 
 We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.
 
-## Current team
-- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer, created a complete working
-version of the website.
-- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Backend developer, curated the entire
-index of all the maps originally.
+## Team
+Learn Anything would not be possible without a strong team of [contributors](../../contributors) helping push the project forward each day. Additionally, we have a core project team composed of:
+- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer, created a complete working version of the website.
+- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Backend developer, curated the entire index of all the maps originally.
 
 ## Thank you 💜
 To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
