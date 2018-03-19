@@ -4,7 +4,7 @@
 
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
-The goal of the website is to accelerate the rate at which people learn and gain new knowledge by giving the most efficient paths one can take to gain full understanding of any one topic.
+The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any one topic.
 
 To do this, we are creating the first of its kind community curated and Open Source Website focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
