@@ -87,4 +87,4 @@
 - **curve (可选):** 用于生成连接曲线的坐标（与上述坐标相同的 story，可以将其保留为“曲线”：{'{}'}`）。
 
 ### 有困难?
-前往我们的 [Slack 小组](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) ，我们很乐意帮助你！
+前往我们的 [Discord 小组](https://discord.gg/KKYdWjt) ，我们很乐意帮助你！

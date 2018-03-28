@@ -91,4 +91,4 @@ Here are the possible attributes:
 (same story as the coordinates above, you can leave it as `"curve": {'{}'}`)
 
 ### Stuck?
-You can head to our [Slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we'll be really happy to help you!
+You can head ask questions on our [Discord](https://discord.gg/KKYdWjt) server and we'll be really happy to help you!

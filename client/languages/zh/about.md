@@ -7,7 +7,7 @@ Learn Anything 是一个致力于帮助你用**最高效的方法**了解各种�
 
 本项目已经[开源](https://github.com/learn-anything/learn-anything)并且处于活跃的开发期。
 
-如果你想帮我们提升课题内容，贡献资源链接，和我们一起开发站点的新功能，你可以加入我们日益壮大的社区 [Slack](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I)。
+如果你想帮我们提升课题内容，贡献资源链接，和我们一起开发站点的新功能，你可以加入我们日益壮大的社区 [Discord](https://discord.gg/KKYdWjt)。
 
 <a href="https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing" class="dialog-btn">贡献指南</a>
 
