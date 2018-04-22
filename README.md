@@ -28,7 +28,7 @@ Below are some things people have built with the API we provide. If you built so
 ## Roadmap
 We share our [Roadmap](https://github.com/learn-anything/learn-anything/wiki/Roadmap) of things we are building now and hope to build next. Any help we can get on this is deeply appreciated.
 
-## Keep this project going 💜
+## Keep this project going 🚀
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
 There are **no advertisements** and **no sponsored content** in this website as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
