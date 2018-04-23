@@ -18,8 +18,8 @@ cd learn-anything
 ```
 
 2. Switch to `neo4j` branch with `git checkout neo4j`.
-3. Inside [api](api) dir. Run `npm install` to install dependencies. After it is done, run `npm start` to start [Elasticsearch](https://www.elastic.co) & [neo4j](https://neo4j.com).
-4. In another terminal. Inside [app](app) dir. Run `npm install`. Then run `npm start` to start the app.
+3. Inside [api](https://github.com/learn-anything/learn-anything/tree/neo4j/api) dir. Run `npm install` to install dependencies. After it is done, run `npm start` to start [Elasticsearch](https://www.elastic.co) & [neo4j](https://neo4j.com).
+4. In another terminal. Inside [app](https://github.com/learn-anything/learn-anything/tree/neo4j/app) dir. Run `npm install`. Then run `npm start` to start the app.
 5. Connect to [localhost:3000](http://localhost:3000).
 
 <!-- ## Testing -->
