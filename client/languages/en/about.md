@@ -8,7 +8,7 @@ has an Interactive Map with nodes to other subtopics, external links and resourc
 
 This project is [Open Source](https://github.com/learn-anything/learn-anything) and is in active development.
 
-Anyone who wishes to contribute to it, can help by either improving the content of all the topics and adding links with resources or by helping with the development and contributing to new features of the website or you can join our growing community on [Discord](https://discord.gg/KKYdWjt) and ask questions there.
+Anyone who wishes to contribute to it, can help by either improving the content of all the topics and adding links with resources or by helping with the development and contributing to new features of the website or you can join our growing community on [Telegram](https://t.me/learnanything) and ask questions there.
 
 <a href="https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing" class="dialog-btn">Learn more about Contributing</a>
 

@@ -1,6 +1,6 @@
 # [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
 
-# Learn Anything [![Discord](https://img.shields.io/badge/chat-Discord-purple.svg)](https://discord.gg/KKYdWjt) [![Lists](https://img.shields.io/badge/Curated%20Lists-📒-blue.svg)](https://github.com/learn-anything/curated-lists#readme) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Learn Anything [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/learnanything) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
@@ -8,7 +8,7 @@ The goal of the website is to accelerate the rate at which people learn, by givi
 
 To do this, we are creating the first of its kind community curated and Open Source Website focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
-For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and ask questions on [Discord](https://discord.gg/KKYdWjt).
+For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and ask questions on [Telegram](https://t.me/learnanything).
 
 ## Contributing
 Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read our [contribution guidelines](CONTRIBUTING.md#readme) for different ways on how you can do this.
