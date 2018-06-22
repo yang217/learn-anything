@@ -1,6 +1,6 @@
 # [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
 
-# Learn Anything [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/learnanything) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Learn Anything [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/learnanything) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/learn-anything)
 
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
