@@ -2,11 +2,9 @@
 
 # Learn Anything [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/KKYdWjt) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/learn-anything)
 
-[Learn Anything](https://learn-anything.xyz/) is an Open Source Website built by community to Learn Anything with Interactive Maps.
+[Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
 The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any given topic.
-
-To do this, we are creating the first of its kind community curated and Open Source Website focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
 For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki), ask questions on [Spectrum](https://spectrum.chat/learn-anything) and join our [Discord server](https://discord.gg/KKYdWjt).
 
