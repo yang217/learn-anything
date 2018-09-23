@@ -28,7 +28,7 @@ Here are some mockups kindly made by [Han Lyn](https://github.com/iinfin) for th
 
 > About page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486372233936907/02-about.png)
+![](https://cdn.discordapp.com/attachments/493483373478543360/493486399673335819/03-topic-learn.png)
 
 > Learn page
 
