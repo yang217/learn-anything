@@ -8,13 +8,13 @@ The goal of the website is to accelerate the rate at which people learn, by givi
 
 To do this, we are creating the first of its kind community curated and Open Source Website focused on learning in a linear and progressive way. It searches over an open database of Connected and Interactive maps.
 
-For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki) and ask questions on [Spectrum](https://spectrum.chat/learn-anything).
+For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki), ask questions on [Spectrum](https://spectrum.chat/learn-anything) and join our [Discord server](https://discord.gg/KKYdWjt).
 
 ## Contributing
 
-Since this website is fully Open Source, you can help and add new and awesome features to the website. Please read our [contribution guidelines](CONTRIBUTING.md#readme) for different ways on how you can do this.
+Since this website is fully open source, you can help and add new and awesome features to the website. Please read our [contribution guidelines](CONTRIBUTING.md#readme) for different ways on how you can do this.
 
-If you have never programmed before and this is your first Open Source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
+If you have never programmed before and this is your first open source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
 ## New design
 
