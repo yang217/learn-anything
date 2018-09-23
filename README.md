@@ -65,13 +65,13 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 
 Learn Anything would not be possible without a strong team of [contributors](../../contributors) helping push the project forward each day. Additionally, we have a core project team composed of:
 
-- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer, created a complete working version of the website.
-- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Backend developer, curated the entire index of all the maps originally.
+- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer. Created a complete working version of the website.
+- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Web developer. Curated the entire index of all the maps originally.
 - [**Han Lyn**](https://github.com/iinfin): Designer. Designed the mockups and helps us design the feel and look of Learn Anything.
 
 ## Thank you 💜
 
-To all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way.
+To all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
 
 Deepest thanks goes to our Patrons:
 
