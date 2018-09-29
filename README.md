@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt)
 [![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learnanything_)
 [![Spectrum](https://img.shields.io/badge/-Spectrum-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://spectrum.chat/learn-anything)
-[![Support](https://img.shields.io/badge/%E2%9D%A4-support%20us-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
+[![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
 [Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
