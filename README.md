@@ -1,6 +1,9 @@
-# [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
+# Learn Anything
 
-# Learn Anything [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/KKYdWjt) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/learn-anything)
+[![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt)
+[![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learnanything_)
+[![Spectrum](https://img.shields.io/badge/-Spectrum-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://spectrum.chat/learn-anything)
+[![Support](https://img.shields.io/badge/%E2%9D%A4-support%20us-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
 [Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
@@ -51,7 +54,7 @@ Below are some things people have built with the API we provide. If you built so
 
 We share our [Roadmap](https://github.com/learn-anything/learn-anything/wiki/Roadmap) of things we are building now and hope to build next. Any help we can get on this is deeply appreciated.
 
-## Keep this project going 🚀
+## Keep this project going
 
 This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
 
@@ -67,7 +70,7 @@ Learn Anything would not be possible without a strong team of [contributors](../
 - [**Nikita Voloboev**](https://github.com/nikitavoloboev): Web developer. Curated the entire index of all the maps originally.
 - [**Han Lyn**](https://github.com/iinfin): Designer. Designed the mockups and helps us design the feel and look of Learn Anything.
 
-## Thank you 💜
+## Thank you
 
 To all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
 
@@ -77,4 +80,5 @@ Deepest thanks goes to our Patrons:
 
 ## License
 
-MIT © [Learn Anything](https://learn-anything.xyz)
+[![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE)
+
