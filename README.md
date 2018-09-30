@@ -20,15 +20,15 @@ Here are some mockups kindly made by [Han Lyn](https://github.com/iinfin) for th
 
 > Home page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486353795907626/01-home.png)
+![01](https://git.io/fxfj4)
 
 > About page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486372233936907/02-about.png)
+![02](https://git.io/fxfjR)
 
 > Learn page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486399673335819/03-topic-learn.png)
+![03](https://git.io/fxfj0)
 
 Explore page is still in the works but the idea is that there will be a Learn section centered around users creating study plans for learning anything and users searching for what they want to learn and choosing any of the available study plans. There will be tools for users to collaborate on improving the study plans together (initially with commenting) and in time, we can add ability to search over raw resources for any of the topics. The study plans are made with guided learning in mind so you can have resources starting from `Basic` to `Intermediate` to `Advanced`. The study plans can also lead to other study plans made by other users so not to redo the work done already.
 
