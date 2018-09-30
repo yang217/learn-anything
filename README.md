@@ -3,13 +3,12 @@
 [![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt)
 [![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learnanything_)
 [![Spectrum](https://img.shields.io/badge/-Spectrum-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://spectrum.chat/learn-anything)
+[![Paper](https://img.shields.io/badge/-Paper-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/learn-anything/wiki/White-Paper)
 [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
-[Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
+[Learn Anything](https://learn-anything.xyz/) is a project to organize world's knowledge.
 
-The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any given topic.
-
-For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki), ask questions on [Spectrum](https://spectrum.chat/learn-anything) and join our [Discord server](https://discord.gg/KKYdWjt).
+It aims to accelerate the rate at which people learn by curating the most efficient paths one can take to gain full understanding of any given topic.
 
 ## Contributing
 
@@ -17,29 +16,27 @@ Since this website is fully open source, you can help and add new and awesome fe
 
 If you have never programmed before and this is your first open source project, don't be afraid to join in. There are many people that can help you both get started and make your first contribution.
 
-## New design
+## Redesign
 
 Here are some mockups kindly made by [Han Lyn](https://github.com/iinfin) for the next version of Learn Anything.
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486353795907626/01-home.png)
-
 > Home page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486372233936907/02-about.png)
+![](https://cdn.discordapp.com/attachments/493483373478543360/493486353795907626/01-home.png)
 
 > About page
 
-![](https://cdn.discordapp.com/attachments/493483373478543360/493486399673335819/03-topic-learn.png)
+![](https://cdn.discordapp.com/attachments/493483373478543360/493486372233936907/02-about.png)
 
 > Learn page
 
-Explore page is still in the works but the idea is that there will be a Learn section centered around users creating study plans for learning anything and users searching for what they want to learn and choosing any of the available study plans. There will be tools for users to collaborate on improving the study plans together (initially with commenting) and in time, we can add ability to search over raw resources for any of the topics. The study plans are made with guided learning in mind so you can have resources starting from `Basic` to `Intermediate` to `Advanced`. The study plans can also lead to other study plans made by other users so not to redo the work done already.
+![](https://cdn.discordapp.com/attachments/493483373478543360/493486399673335819/03-topic-learn.png)
 
-If you want to help us out and build this awesome thing, we have a [Discord server](https://discord.gg/KKYdWjt). ❤️
+Explore page is still in the works but the idea is that there will be a Learn section centered around users creating study plans for learning anything and users searching for what they want to learn and choosing any of the available study plans. There will be tools for users to collaborate on improving the study plans together (initially with commenting) and in time, we can add ability to search over raw resources for any of the topics. The study plans are made with guided learning in mind so you can have resources starting from `Basic` to `Intermediate` to `Advanced`. The study plans can also lead to other study plans made by other users so not to redo the work done already.
 
 ## Curated Lists
 
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them if you wish](https://github.com/learn-anything/curated-lists#readme).
+With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them](https://github.com/learn-anything/curated-lists#readme).
 
 ## API
 
