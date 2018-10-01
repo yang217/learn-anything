@@ -6,7 +6,7 @@
 [![Paper](https://img.shields.io/badge/-Paper-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/learn-anything/wiki/White-Paper)
 [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
-> **[Learn Anything](https://learn-anything.xyz/) is a project to organize world's knowledge.**
+#### Learn Anything is a project to organize world's knowledge.
 
 ## Contributing
 
