@@ -6,13 +6,37 @@
 [![Paper](https://img.shields.io/badge/-Paper-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/learn-anything/wiki/White-Paper)
 [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
-#### A project to organize world's knowledge in a mind map and curate study plans for learning anything.
+#### [Learn Anything](https://learn-anything.xyz) is a project to organize world's knowledge, explore the connections and curate learning paths.
 
-### Curated Lists
+## New Design
+
+Mockups for the next version of Learn Anything. The idea is that for each topic, there will be a "Learn" section focused on study plans created and improved by users, and an "Explore" section for discovering the topic in a mind map.
+
+![01](https://git.io/fxfj4)
+
+> **Home**
+
+![02](https://git.io/fxfjR)
+
+> **About**
+
+![03](https://git.io/fxfj0)
+
+> **Learn**
+
+And an explore page for visualizing the connections of topics to give an overview.
+
+> **Explore**
+
+## Contributing
+
+Please read our [contribution guidelines](CONTRIBUTING.md#readme).
+
+## Curated Lists
 
 With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them](https://github.com/learn-anything/curated-lists#readme).
 
-### API
+## API
 
 [Here](http://docs.learn-anything.xyz) you can find the public API endpoints we currently have. We will be adding more in the future.
 
@@ -20,30 +44,6 @@ Below are some things people have built with it. Feel free to add yours to this 
 
 - [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search through all Learn Anything maps.
 - [Albert Plugin](https://github.com/nglgzz/albert-plugins) - Albert plugin to search through all Learn Anything maps.
-
-## Contributing
-
-Please read our [contribution guidelines](CONTRIBUTING.md#readme).
-
-## New Design
-
-Mockups for the next version of Learn Anything. The idea is that for each topic, there will be a "Learn" section focused on study plans created and improved by users, and an "Explore" section for discovering the topic in a mind map.
-
-> **Home**
-
-![01](https://git.io/fxfj4)
-
-> **About**
-
-![02](https://git.io/fxfjR)
-
-> **Learn**
-
-![03](https://git.io/fxfj0)
-
-> **Explore**
-
-An improved mind map
 
 ## Support
 
