@@ -1,7 +1,13 @@
-.sass-cache
 dist
+
 node_modules
 yarn.lock
+
 .DS_Store
 .vscode
-votes-bak.json
+
+todo
+*.todo
+
+env*
+
