@@ -18,21 +18,14 @@ git clone https://github.com/<your-username>/learn-anything.git
 
 # Navigate to the newly cloned directory
 cd learn-anything
+
+# Change to `latest` branch where we are working on the new version of the website
+git checkout latest
 ```
 
-2. Switch to `neo4j` branch with `git checkout neo4j`.
-3. Inside [api](https://github.com/learn-anything/learn-anything/tree/neo4j/api) dir. Run `npm install` to install dependencies. After it is done, run `npm start` to start [Elasticsearch](https://www.elastic.co) & [neo4j](https://neo4j.com).
-4. In another terminal. Inside [app](https://github.com/learn-anything/learn-anything/tree/neo4j/app) dir. Run `npm install`. Then run `npm start` to start the app.
-5. Connect to [localhost:3000](http://localhost:3000).
+2. Switch to `latest` branch with `git checkout latest` where we are working on new version of the website.
 
-<!-- ## Testing -->
-<!-- TODO: make tests work -->
-<!-- Also, make sure to run the tests before you commit your changes. Travis.
-
-```
-npm run test
-```
- -->
+Currently there is only GraphQL server. Join [Discord](https://discord.gg/KKYdWjt) to see how you can help out.
 
 ## Submitting a Pull Request
 
