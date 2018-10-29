@@ -1,0 +1,11 @@
+{
+  "public": "build",
+  "rewrites": [
+    { "source": "/static/:filename", "destination": "/:filename" },
+    { "source": "/app/**", "destination": "/app/index.html" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/app/" }
+  ]
+}
+

@@ -6,7 +6,7 @@ let handleClick = (_event, _self) => Js.log("clicked!");
 let make = (~message, _children) => {
   ...component,
   render: self =>
-    <div onClick=(self.handle(handleClick))>
+    <div onClick=(self.handle(handleClick)) className="App">
       (ReasonReact.string(message))
     </div>,
 };
