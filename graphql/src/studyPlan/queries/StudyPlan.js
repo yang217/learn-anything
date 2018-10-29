@@ -3,7 +3,7 @@
 import { GraphQLNonNull, GraphQLList, GraphQLString } from 'graphql';
 
 import StudyPlan from '../outputs/StudyPlan';
-import type { StudyPlanType } from '../Dataloader';
+import type { StudyPlanType } from '../DataLoader';
 import type { GraphQLContextType } from '../../GraphQLContext';
 
 type ArgsType = {

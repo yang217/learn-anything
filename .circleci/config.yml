@@ -1,0 +1,42 @@
+version: 2
+jobs:
+    graphql:
+      docker:
+          - image: circleci/node:10.8.0
+      steps:
+          - checkout
+          - restore_cache:
+              key: graphql-deps-{{ checksum "graphql/package.json" }}
+          - run: |
+              cd graphql
+              npm install
+          - save_cache:
+              key: graphql-deps-{{ checksum "graphql/package.json" }}
+              paths:
+                  - ~/graphql/node_modules
+          - run: |
+              cd graphql
+              npm run test-ci
+
+    frontend:
+        docker:
+            - image: circleci/node:10.8.0
+        steps:
+            - checkout
+            - restore_cache:
+                key: frontend-deps-{{ checksum "frontend/package.json" }}
+            - run: |
+                cd frontend
+                npm install
+            - save_cache:
+                key: frontend-deps-{{ checksum "frontend/package.json" }}
+                paths:
+                    - ~/frontend/node_modules
+
+workflows:
+    version: 2
+    build:
+        jobs:
+            - graphql
+            - frontend
+
